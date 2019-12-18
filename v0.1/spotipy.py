@@ -1,6 +1,6 @@
 # Spotipy v0.1
 # Author: Sam Bowyer
-# Script to get stats on spotify playlists
+# Basic script to get stats on spotify playlists
 # (mainly for my 'post' playlists)
 
 #TODO:
@@ -39,10 +39,11 @@ token = input("token: ")
 userID = "116138018"
 #token = 'BQAzryJYszF2E8DSG6umLqjcV3pYXGZy76eOGHl2z1ZmUndmIWJkNfBD-GDZ2LH29MJSJ86bZDfhS4onCKpc4tTEQdLl-QDs5yeBKRtb3tHcS9tPBmJxBkL56AaHdhQnikRBmEZUMOHh4H7MGQKYlSNYEnYV8A'
 
-targetPlaylistNames = ["post melon", "roast malone", "toast malone", "ghost malone",
-                       "ho-ho-ho malone", "post trombone", "sylvester malone",
+targetPlaylistNames = [#"post melon", "roast malone", "toast malone", "ghost malone",
+                       #"ho-ho-ho malone",
+                       "post trombone", "sylvester malone",
                        "post flinstone", "poached malone", "post well-known",
-                       "post shalom", "Victor Gluten"]
+                       "post shalom"]#, "Victor Gluten"]
 
 headers = {
     'Accept': 'application/json',
@@ -123,8 +124,16 @@ for year in albumYears:
 for playlist in durationPerPlaylist:
     totalTime += durationPerPlaylist[playlist]
 
+def terminal_width():
+    import fcntl, termios, struct
+    th, tw, hp, wp = struct.unpack('HHHH',
+        fcntl.ioctl(0, termios.TIOCGWINSZ,
+        struct.pack('HHHH', 0, 0, 0, 0)))
+    return tw
+
 for year in sorted(albumYears):
-    plusNo = int(round(albumYears[year]*65/max))
+
+    plusNo = int(round(albumYears[year]*(terminal_width()-10)/max))
     #if plusNo == 0:
     #    plusNo = 1
     print(year + ": " + str(albumYears[year]).ljust(3) +" " + "+"*plusNo)
