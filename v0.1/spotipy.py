@@ -39,11 +39,11 @@ token = input("token: ")
 userID = "116138018"
 #token = 'BQAzryJYszF2E8DSG6umLqjcV3pYXGZy76eOGHl2z1ZmUndmIWJkNfBD-GDZ2LH29MJSJ86bZDfhS4onCKpc4tTEQdLl-QDs5yeBKRtb3tHcS9tPBmJxBkL56AaHdhQnikRBmEZUMOHh4H7MGQKYlSNYEnYV8A'
 
-targetPlaylistNames = [#"post melon", "roast malone", "toast malone", "ghost malone",
-                       #"ho-ho-ho malone",
+targetPlaylistNames = ["post melon", "roast malone", "toast malone", "ghost malone",
+                       "ho-ho-ho malone",
                        "post trombone", "sylvester malone",
                        "post flinstone", "poached malone", "post well-known",
-                       "post shalom"]#, "Victor Gluten"]
+                       "post shalom", "Victor Gluten"]
 
 headers = {
     'Accept': 'application/json',

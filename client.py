@@ -17,8 +17,112 @@ f = open("data.txt", "r")
 lastJSONUpdate = f.read().strip()
 f.close()
 
+def terminal_width():
+    import fcntl, termios, struct
+    th, tw, hp, wp = struct.unpack('HHHH',
+        fcntl.ioctl(0, termios.TIOCGWINSZ,
+        struct.pack('HHHH', 0, 0, 0, 0)))
+    return tw
+
 def stats():
-    pass
+    targetPlaylistNames = readTargetPlaylists("targetPlaylists.txt")
+    targetPlaylists = []
+    with open("playlists.json", "r") as f:
+        playlists = json.load(f)["items"]
+
+    for playlist in playlists:
+        if playlist["name"] in targetPlaylistNames:
+            targetPlaylists.append(playlist)
+
+    print(targetPlaylists)
+
+    albumNames = []
+    albumYears = {}
+    albumsPerPlaylist = {}
+    tracksPerPlaylist = {}
+    durationPerPlaylist = {}
+
+    for playlist in targetPlaylistNames:
+        durationPerPlaylist[playlist] = 0
+
+    for i, playlist in enumerate(targetPlaylists):
+        tempTracksURL = playlist["tracks"]["href"]
+        tempPlaylistLength = playlist["tracks"]["total"]
+
+        print((playlist["name"] + ": ").ljust(18), end="")
+
+        for offset in range(0, tempPlaylistLength, 100):
+            #response = requests.get(tempTracksURL+"?fields=items(added_at%2Ctrack(duration_ms%2Calbum(name%2Crelease_date)))&limit=100&offset="+str(offset), headers=headers)
+            with open("JSON/"+playlist["name"]+ "_" + str(int(offset/100)), "r") as f:
+                tempTracksJSON = json.load(f)["items"]
+
+            # if playlist["name"] in albumsPerPlaylist:
+            #     tracksPerPlaylist[playlist["name"]] += tempPlaylistLength
+            # else:
+            #     albumsPerPlaylist[playlist["name"]] = tempPlaylistLength
+
+            for tempTracks in tempTracksJSON:
+                #print(tempTracks)
+
+                durationPerPlaylist[playlist["name"]] += tempTracks["track"]["duration_ms"]
+
+                if tempTracks["track"]["album"]["name"] not in albumNames:
+                    albumNames.append(tempTracks["track"]["album"]["name"])
+                    if tempTracks["track"]["album"]["release_date"][:4] in albumYears:
+                        albumYears[tempTracks["track"]["album"]["release_date"][:4]] += 1
+                    else:
+                        albumYears[tempTracks["track"]["album"]["release_date"][:4]] = 1
+
+                    if playlist["name"] in albumsPerPlaylist:
+                        albumsPerPlaylist[playlist["name"]] += 1
+                    else:
+                        albumsPerPlaylist[playlist["name"]] = 1
+
+            print("+", end="")
+        print()
+
+    max = 0
+    totalTracks = 0
+    totalTime = 0
+
+    for year in albumYears:
+        if albumYears[year] > max:
+            max = albumYears[year]
+        totalTracks += albumYears[year]
+
+    for playlist in durationPerPlaylist:
+        totalTime += durationPerPlaylist[playlist]
+
+    for year in sorted(albumYears):
+
+        plusNo = int(round(albumYears[year]*(terminal_width()-10)/max))
+        #if plusNo == 0:
+        #    plusNo = 1
+        print(year + ": " + str(albumYears[year]).ljust(3) +" " + "+"*plusNo)
+
+    print("\nAlbums per playlist")
+    for playlist in targetPlaylists:
+        print(playlist["name"].ljust(16) + ": " + str(albumsPerPlaylist[playlist["name"]]).ljust(3)
+              + " (" + str(playlist["tracks"]["total"]).ljust(4) + " tracks, "
+              + msToHumanTime(durationPerPlaylist[playlist["name"]]) + ")")
+
+    print("\nTotal: " + str(totalTracks) + " albums, " + msToHumanTime(totalTime, day=True))
+
+    max = 0
+    totalTracks = 0
+    totalTime = 0
+
+    for year in albumYears:
+        if albumYears[year] > max:
+            max = albumYears[year]
+        totalTracks += albumYears[year]
+
+    for year in sorted(albumYears):
+
+        plusNo = int(round(albumYears[year]*(terminal_width()-10)/max))
+        #if plusNo == 0:
+        #    plusNo = 1
+        print(year + ": " + str(albumYears[year]).ljust(3) +" " + "+"*plusNo)
 
 def updateJSON():
     userID = "116138018"
@@ -77,6 +181,9 @@ def updateJSON():
 
     with open("data.txt", "w") as f:
         f.write(time.ctime())
+    f = open("data.txt", "r")
+    lastJSONUpdate = f.read().strip()
+    f.close()
     print("Update done.\n")
 
 
