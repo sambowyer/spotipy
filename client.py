@@ -11,7 +11,7 @@ import requests #https://curl.trillworks.com/#python converts curl to python
 import webbrowser
 import time
 
-print("############### Spotipy v0.2 ###############")
+print("############### Spotipy v0.2.1 ###############")
 
 f = open("data.txt", "r")
 lastJSONUpdate = f.read().strip()
@@ -49,7 +49,7 @@ def stats():
         tempTracksURL = playlist["tracks"]["href"]
         tempPlaylistLength = playlist["tracks"]["total"]
 
-        print((playlist["name"] + ": ").ljust(18), end="")
+        print((playlist["name"] + ": ").ljust(18), end="\n")
 
         for offset in range(0, tempPlaylistLength, 100):
             #response = requests.get(tempTracksURL+"?fields=items(added_at%2Ctrack(duration_ms%2Calbum(name%2Crelease_date)))&limit=100&offset="+str(offset), headers=headers)
@@ -128,6 +128,8 @@ def updateJSON():
     userID = "116138018"
     targetPlaylistNames = readTargetPlaylists("targetPlaylists.txt")
 
+    maxPlaylistNameLength = max([len(x) for x in targetPlaylistNames])
+
     if input("Open web browser to get token? (y/n): ") == "y":
         webbrowser.open("https://developer.spotify.com/console/get-current-user-playlists/?limit=&offset=")
 
@@ -138,42 +140,43 @@ def updateJSON():
         'Content-Type': 'application/json',
         'Authorization': 'Bearer '+ token,
     }
-    params = (
-        ('limit', '100'),
-    )
-
-    # TODO: only gets the first 20 playlists - need to make sure the target playlists are all in this first 20
-    # otherwise we will have to use responseJSON["next"] to get the URL for the next 20 playlistIDs
-    # or call request.get() with the param offset=20 a total number of **(responseJSON["total"]/20)** number of times
-    response = requests.get('https://api.spotify.com/v1/users/116138018/playlists', headers=headers)
-    responseJSON = response.json()
-
-    with open("playlists.json", "w+") as f:
-        f.write(response.text)
 
     try:
-        playlists = responseJSON["items"]
+        with open("playlists.csv", "w") as f:
+            while len(targetPlaylistNames) != 0:
+                response = requests.get(url + 'fields=items(name%2Ctracks(href%2Ctotal))%2Cnext', headers=headers)
+                responseJSON = response.json()
+                for playlist in responseJSON["items"]:
+                    if playlist["name"] in targetPlaylistNames:
+                        f.write(playlist["name"] + "," + str(playlist["tracks"]["total"]) + "," + playlist["tracks"]["href"] + "\n")
+                        targetPlaylistNames.remove(playlist["name"])
+                url = responseJSON["next"] + "&"
+                if url == "null&":
+                    print("The following playlists were not found: " + targetPlaylistNames)
+                    break
     except:
         print("Error in JSON download. Probably due to an expired token.\n")
         return
 
     #get the URLs and lengths used for each of the target playlists for future
     targetPlaylists = []
+    with open("playlists.csv", "r") as f:
+        targetPlaylists = [x.split(",") for x in f.readlines()]
 
-    for playlist in playlists:
-        if playlist["name"] in targetPlaylistNames:
-            targetPlaylists.append(playlist)
+    for playlist in targetPlaylists:
+        tempPlaylistName = playlist[0]
+        tempPlaylistLength = int(playlist[1])
+        tempTracksURL = playlist[2].strip()
 
-    for i, playlist in enumerate(targetPlaylists):
-        tempTracksURL = playlist["tracks"]["href"]
-        tempPlaylistLength = playlist["tracks"]["total"]
-
-        print((playlist["name"] + ": ").ljust(18), end="")
+        print((tempPlaylistName + ": ").ljust(maxPlaylistNameLength+2), end="")
+        # print(tempTracksURL)
 
         for offset in range(0, tempPlaylistLength, 100):
             response = requests.get(tempTracksURL+"?fields=items(added_at%2Ctrack(duration_ms%2Calbum(name%2Crelease_date)))&limit=100&offset="+str(offset), headers=headers)
+            # print(response.status_code)
+            # print(response.url)
 
-            with open("JSON/" + playlist["name"] + "_" + str(int(offset/100)), "w+") as f:
+            with open("JSON/" + tempPlaylistName + "_" + str(int(offset/100)), "w+") as f:
                 f.write(response.text)
 
             print("+", end="")

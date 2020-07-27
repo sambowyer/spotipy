@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 144773
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 195266
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 269786
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 186306
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 255706
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 161160
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 174466
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 182080
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 502013
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 193760
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 259946
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 182293
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 207920
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 207240
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 170720
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 467320
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 185733
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 165666
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 242973
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 146266
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 66533
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 72640
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 118626
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 91760
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 96466
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 141613
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Abbey Road (Remastered)",
+        "release_date" : "1969-09-26"
+      },
+      "duration_ms" : 25986
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 163466
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 234973
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 137706
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 188813
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 53000
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 194186
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 285280
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 164520
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 148480
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 123400
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 138360
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 124306
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 213080
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 230306
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 101733
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 105786
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 176133
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 161986
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 241000
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 167826
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 144653
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 195426
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 269773
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 186426
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 255653
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 161160
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 174440
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 181866
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 500853
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 195213
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 179906
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 287053
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 115600
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 190600
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 160920
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 161440
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 115026
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 190760
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 154520
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 125786
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 164320
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 236466
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 211386
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 144413
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 183893
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 146693
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 246640
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 119906
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 147733
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 223533
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 156586
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 157773
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 136706
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 125586
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 86240
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 185186
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 162973
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 628906
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 305973
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 135973
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 163000
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 39066
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 151013
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 226306
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 174186
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 136266
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 205000
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 182773
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 773520
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 188093
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 182613
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 404480
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:26Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 51573
+    }
+  } ]
+}

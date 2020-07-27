@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2019-04-10T09:48:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Love & Hate",
+        "release_date" : "2016-07-15"
+      },
+      "duration_ms" : 427093
+    }
+  }, {
+    "added_at" : "2019-04-10T09:48:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Love & Hate",
+        "release_date" : "2016-07-15"
+      },
+      "duration_ms" : 233413
+    }
+  }, {
+    "added_at" : "2019-04-10T09:48:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Love & Hate",
+        "release_date" : "2016-07-15"
+      },
+      "duration_ms" : 165986
+    }
+  }, {
+    "added_at" : "2019-04-10T09:48:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Love & Hate",
+        "release_date" : "2016-07-15"
+      },
+      "duration_ms" : 342826
+    }
+  }, {
+    "added_at" : "2019-04-10T09:48:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Love & Hate",
+        "release_date" : "2016-07-15"
+      },
+      "duration_ms" : 425146
+    }
+  }, {
+    "added_at" : "2019-04-10T09:48:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Love & Hate",
+        "release_date" : "2016-07-15"
+      },
+      "duration_ms" : 299640
+    }
+  }, {
+    "added_at" : "2019-04-10T16:01:49Z",
+    "track" : {
+      "album" : {
+        "name" : "Morbid Stuff",
+        "release_date" : "2019-04-05"
+      },
+      "duration_ms" : 164600
+    }
+  }, {
+    "added_at" : "2019-04-10T16:01:49Z",
+    "track" : {
+      "album" : {
+        "name" : "Morbid Stuff",
+        "release_date" : "2019-04-05"
+      },
+      "duration_ms" : 210160
+    }
+  }, {
+    "added_at" : "2019-04-10T16:01:49Z",
+    "track" : {
+      "album" : {
+        "name" : "Morbid Stuff",
+        "release_date" : "2019-04-05"
+      },
+      "duration_ms" : 154813
+    }
+  }, {
+    "added_at" : "2019-04-10T16:01:49Z",
+    "track" : {
+      "album" : {
+        "name" : "Morbid Stuff",
+        "release_date" : "2019-04-05"
+      },
+      "duration_ms" : 220133
+    }
+  }, {
+    "added_at" : "2019-04-10T16:01:49Z",
+    "track" : {
+      "album" : {
+        "name" : "Morbid Stuff",
+        "release_date" : "2019-04-05"
+      },
+      "duration_ms" : 308133
+    }
+  }, {
+    "added_at" : "2019-04-10T16:01:49Z",
+    "track" : {
+      "album" : {
+        "name" : "Morbid Stuff",
+        "release_date" : "2019-04-05"
+      },
+      "duration_ms" : 188413
+    }
+  }, {
+    "added_at" : "2019-04-10T16:01:49Z",
+    "track" : {
+      "album" : {
+        "name" : "Morbid Stuff",
+        "release_date" : "2019-04-05"
+      },
+      "duration_ms" : 164040
+    }
+  }, {
+    "added_at" : "2019-04-10T16:01:49Z",
+    "track" : {
+      "album" : {
+        "name" : "Morbid Stuff",
+        "release_date" : "2019-04-05"
+      },
+      "duration_ms" : 207840
+    }
+  }, {
+    "added_at" : "2019-04-10T16:01:49Z",
+    "track" : {
+      "album" : {
+        "name" : "Morbid Stuff",
+        "release_date" : "2019-04-05"
+      },
+      "duration_ms" : 152973
+    }
+  }, {
+    "added_at" : "2019-04-10T16:01:49Z",
+    "track" : {
+      "album" : {
+        "name" : "Morbid Stuff",
+        "release_date" : "2019-04-05"
+      },
+      "duration_ms" : 215306
+    }
+  }, {
+    "added_at" : "2019-04-10T16:01:49Z",
+    "track" : {
+      "album" : {
+        "name" : "Morbid Stuff",
+        "release_date" : "2019-04-05"
+      },
+      "duration_ms" : 231866
+    }
+  }, {
+    "added_at" : "2019-04-11T07:52:40Z",
+    "track" : {
+      "album" : {
+        "name" : "ARIZONA baby",
+        "release_date" : "2019-04-11"
+      },
+      "duration_ms" : 100000
+    }
+  }, {
+    "added_at" : "2019-04-11T07:52:40Z",
+    "track" : {
+      "album" : {
+        "name" : "ARIZONA baby",
+        "release_date" : "2019-04-11"
+      },
+      "duration_ms" : 214654
+    }
+  }, {
+    "added_at" : "2019-04-11T07:52:40Z",
+    "track" : {
+      "album" : {
+        "name" : "ARIZONA baby",
+        "release_date" : "2019-04-11"
+      },
+      "duration_ms" : 219466
+    }
+  }, {
+    "added_at" : "2019-04-11T09:34:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Empath",
+        "release_date" : "2019-03-29"
+      },
+      "duration_ms" : 148549
+    }
+  }, {
+    "added_at" : "2019-04-11T09:34:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Empath",
+        "release_date" : "2019-03-29"
+      },
+      "duration_ms" : 365861
+    }
+  }, {
+    "added_at" : "2019-04-11T09:34:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Empath",
+        "release_date" : "2019-03-29"
+      },
+      "duration_ms" : 279911
+    }
+  }, {
+    "added_at" : "2019-04-11T09:34:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Empath",
+        "release_date" : "2019-03-29"
+      },
+      "duration_ms" : 330437
+    }
+  }, {
+    "added_at" : "2019-04-11T09:34:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Empath",
+        "release_date" : "2019-03-29"
+      },
+      "duration_ms" : 397298
+    }
+  }, {
+    "added_at" : "2019-04-11T09:34:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Empath",
+        "release_date" : "2019-03-29"
+      },
+      "duration_ms" : 390282
+    }
+  }, {
+    "added_at" : "2019-04-11T09:34:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Empath",
+        "release_date" : "2019-03-29"
+      },
+      "duration_ms" : 299185
+    }
+  }, {
+    "added_at" : "2019-04-11T09:34:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Empath",
+        "release_date" : "2019-03-29"
+      },
+      "duration_ms" : 662789
+    }
+  }, {
+    "added_at" : "2019-04-11T09:34:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Empath",
+        "release_date" : "2019-03-29"
+      },
+      "duration_ms" : 166779
+    }
+  }, {
+    "added_at" : "2019-04-11T09:34:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Empath",
+        "release_date" : "2019-03-29"
+      },
+      "duration_ms" : 1412685
+    }
+  }, {
+    "added_at" : "2019-04-12T07:15:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Dank Side of the Moon",
+        "release_date" : "2018-09-27"
+      },
+      "duration_ms" : 145330
+    }
+  }, {
+    "added_at" : "2019-04-12T07:15:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Dank Side of the Moon",
+        "release_date" : "2018-09-27"
+      },
+      "duration_ms" : 137573
+    }
+  }, {
+    "added_at" : "2019-04-12T07:15:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Dank Side of the Moon",
+        "release_date" : "2018-09-27"
+      },
+      "duration_ms" : 163954
+    }
+  }, {
+    "added_at" : "2019-04-12T07:15:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Dank Side of the Moon",
+        "release_date" : "2018-09-27"
+      },
+      "duration_ms" : 35364
+    }
+  }, {
+    "added_at" : "2019-04-12T07:15:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Dank Side of the Moon",
+        "release_date" : "2018-09-27"
+      },
+      "duration_ms" : 115509
+    }
+  }, {
+    "added_at" : "2019-04-12T07:15:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Dank Side of the Moon",
+        "release_date" : "2018-09-27"
+      },
+      "duration_ms" : 60338
+    }
+  }, {
+    "added_at" : "2019-04-12T07:15:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Dank Side of the Moon",
+        "release_date" : "2018-09-27"
+      },
+      "duration_ms" : 228897
+    }
+  }, {
+    "added_at" : "2019-04-12T07:15:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Dank Side of the Moon",
+        "release_date" : "2018-09-27"
+      },
+      "duration_ms" : 145380
+    }
+  }, {
+    "added_at" : "2019-04-12T07:15:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Dank Side of the Moon",
+        "release_date" : "2018-09-27"
+      },
+      "duration_ms" : 147296
+    }
+  }, {
+    "added_at" : "2019-04-12T07:15:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Dank Side of the Moon",
+        "release_date" : "2018-09-27"
+      },
+      "duration_ms" : 69559
+    }
+  }, {
+    "added_at" : "2019-04-13T11:36:53Z",
+    "track" : {
+      "album" : {
+        "name" : "When The End Began",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 134177
+    }
+  }, {
+    "added_at" : "2019-04-13T11:36:53Z",
+    "track" : {
+      "album" : {
+        "name" : "When The End Began",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 205322
+    }
+  }, {
+    "added_at" : "2019-04-13T11:36:53Z",
+    "track" : {
+      "album" : {
+        "name" : "When The End Began",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 234210
+    }
+  }, {
+    "added_at" : "2019-04-13T11:36:53Z",
+    "track" : {
+      "album" : {
+        "name" : "When The End Began",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 235689
+    }
+  }, {
+    "added_at" : "2019-04-13T11:36:53Z",
+    "track" : {
+      "album" : {
+        "name" : "When The End Began",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 231780
+    }
+  }, {
+    "added_at" : "2019-04-13T11:36:53Z",
+    "track" : {
+      "album" : {
+        "name" : "When The End Began",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 90940
+    }
+  }, {
+    "added_at" : "2019-04-13T11:36:53Z",
+    "track" : {
+      "album" : {
+        "name" : "When The End Began",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 249469
+    }
+  }, {
+    "added_at" : "2019-04-13T11:36:53Z",
+    "track" : {
+      "album" : {
+        "name" : "When The End Began",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 210669
+    }
+  }, {
+    "added_at" : "2019-04-13T11:36:53Z",
+    "track" : {
+      "album" : {
+        "name" : "When The End Began",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 213270
+    }
+  }, {
+    "added_at" : "2019-04-13T11:36:53Z",
+    "track" : {
+      "album" : {
+        "name" : "When The End Began",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 307509
+    }
+  }, {
+    "added_at" : "2019-04-13T11:36:53Z",
+    "track" : {
+      "album" : {
+        "name" : "When The End Began",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 230550
+    }
+  }, {
+    "added_at" : "2019-04-13T11:36:53Z",
+    "track" : {
+      "album" : {
+        "name" : "When The End Began",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 96829
+    }
+  }, {
+    "added_at" : "2019-04-13T11:36:53Z",
+    "track" : {
+      "album" : {
+        "name" : "When The End Began",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 223259
+    }
+  }, {
+    "added_at" : "2019-04-13T11:36:53Z",
+    "track" : {
+      "album" : {
+        "name" : "When The End Began",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 226360
+    }
+  }, {
+    "added_at" : "2019-04-14T16:06:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Looking for the Answers",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 255428
+    }
+  }, {
+    "added_at" : "2019-04-14T16:06:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Looking for the Answers",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 417428
+    }
+  }, {
+    "added_at" : "2019-04-14T16:06:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Looking for the Answers",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 297428
+    }
+  }, {
+    "added_at" : "2019-04-14T16:06:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Looking for the Answers",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 284142
+    }
+  }, {
+    "added_at" : "2019-04-14T16:06:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Looking for the Answers",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 285000
+    }
+  }, {
+    "added_at" : "2019-04-14T16:06:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Looking for the Answers",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 290142
+    }
+  }, {
+    "added_at" : "2019-04-14T16:06:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Looking for the Answers",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 433285
+    }
+  }, {
+    "added_at" : "2019-04-14T16:06:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Looking for the Answers",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 291428
+    }
+  }, {
+    "added_at" : "2019-04-14T16:06:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Looking for the Answers",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 221142
+    }
+  }, {
+    "added_at" : "2019-04-14T16:06:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Looking for the Answers",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 285428
+    }
+  }, {
+    "added_at" : "2019-04-14T16:06:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Looking for the Answers",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 151714
+    }
+  }, {
+    "added_at" : "2019-04-14T18:27:37Z",
+    "track" : {
+      "album" : {
+        "name" : "Born and Raised",
+        "release_date" : "2012-05-18"
+      },
+      "duration_ms" : 250133
+    }
+  }, {
+    "added_at" : "2019-04-14T18:27:37Z",
+    "track" : {
+      "album" : {
+        "name" : "Born and Raised",
+        "release_date" : "2012-05-18"
+      },
+      "duration_ms" : 157586
+    }
+  }, {
+    "added_at" : "2019-04-14T18:27:37Z",
+    "track" : {
+      "album" : {
+        "name" : "Born and Raised",
+        "release_date" : "2012-05-18"
+      },
+      "duration_ms" : 228173
+    }
+  }, {
+    "added_at" : "2019-04-14T18:27:37Z",
+    "track" : {
+      "album" : {
+        "name" : "Born and Raised",
+        "release_date" : "2012-05-18"
+      },
+      "duration_ms" : 224680
+    }
+  }, {
+    "added_at" : "2019-04-14T18:27:37Z",
+    "track" : {
+      "album" : {
+        "name" : "Born and Raised",
+        "release_date" : "2012-05-18"
+      },
+      "duration_ms" : 180626
+    }
+  }, {
+    "added_at" : "2019-04-14T18:27:37Z",
+    "track" : {
+      "album" : {
+        "name" : "Born and Raised",
+        "release_date" : "2012-05-18"
+      },
+      "duration_ms" : 287640
+    }
+  }, {
+    "added_at" : "2019-04-14T18:27:37Z",
+    "track" : {
+      "album" : {
+        "name" : "Born and Raised",
+        "release_date" : "2012-05-18"
+      },
+      "duration_ms" : 321720
+    }
+  }, {
+    "added_at" : "2019-04-14T18:27:37Z",
+    "track" : {
+      "album" : {
+        "name" : "Born and Raised",
+        "release_date" : "2012-05-18"
+      },
+      "duration_ms" : 144400
+    }
+  }, {
+    "added_at" : "2019-04-14T18:27:37Z",
+    "track" : {
+      "album" : {
+        "name" : "Born and Raised",
+        "release_date" : "2012-05-18"
+      },
+      "duration_ms" : 307986
+    }
+  }, {
+    "added_at" : "2019-04-14T18:27:37Z",
+    "track" : {
+      "album" : {
+        "name" : "Born and Raised",
+        "release_date" : "2012-05-18"
+      },
+      "duration_ms" : 278666
+    }
+  }, {
+    "added_at" : "2019-04-14T18:27:37Z",
+    "track" : {
+      "album" : {
+        "name" : "Born and Raised",
+        "release_date" : "2012-05-18"
+      },
+      "duration_ms" : 285306
+    }
+  }, {
+    "added_at" : "2019-04-14T18:27:37Z",
+    "track" : {
+      "album" : {
+        "name" : "Born and Raised",
+        "release_date" : "2012-05-18"
+      },
+      "duration_ms" : 120706
+    }
+  }, {
+    "added_at" : "2019-04-14T22:18:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Plan On You",
+        "release_date" : "2019-03-22"
+      },
+      "duration_ms" : 208050
+    }
+  }, {
+    "added_at" : "2019-04-14T22:18:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Plan On You",
+        "release_date" : "2019-03-22"
+      },
+      "duration_ms" : 219312
+    }
+  }, {
+    "added_at" : "2019-04-14T22:18:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Plan On You",
+        "release_date" : "2019-03-22"
+      },
+      "duration_ms" : 37397
+    }
+  }, {
+    "added_at" : "2019-04-14T22:18:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Plan On You",
+        "release_date" : "2019-03-22"
+      },
+      "duration_ms" : 223727
+    }
+  }, {
+    "added_at" : "2019-04-17T17:33:47Z",
+    "track" : {
+      "album" : {
+        "name" : "MASSEDUCTION",
+        "release_date" : "2017-10-13"
+      },
+      "duration_ms" : 168786
+    }
+  }, {
+    "added_at" : "2019-04-17T17:33:47Z",
+    "track" : {
+      "album" : {
+        "name" : "MASSEDUCTION",
+        "release_date" : "2017-10-13"
+      },
+      "duration_ms" : 280680
+    }
+  }, {
+    "added_at" : "2019-04-17T17:33:47Z",
+    "track" : {
+      "album" : {
+        "name" : "MASSEDUCTION",
+        "release_date" : "2017-10-13"
+      },
+      "duration_ms" : 197426
+    }
+  }, {
+    "added_at" : "2019-04-17T17:33:47Z",
+    "track" : {
+      "album" : {
+        "name" : "MASSEDUCTION",
+        "release_date" : "2017-10-13"
+      },
+      "duration_ms" : 241600
+    }
+  }, {
+    "added_at" : "2019-04-17T17:33:47Z",
+    "track" : {
+      "album" : {
+        "name" : "MASSEDUCTION",
+        "release_date" : "2017-10-13"
+      },
+      "duration_ms" : 281346
+    }
+  }, {
+    "added_at" : "2019-04-17T17:33:47Z",
+    "track" : {
+      "album" : {
+        "name" : "MASSEDUCTION",
+        "release_date" : "2017-10-13"
+      },
+      "duration_ms" : 178413
+    }
+  }, {
+    "added_at" : "2019-04-17T17:33:47Z",
+    "track" : {
+      "album" : {
+        "name" : "MASSEDUCTION",
+        "release_date" : "2017-10-13"
+      },
+      "duration_ms" : 206960
+    }
+  }, {
+    "added_at" : "2019-04-17T17:33:47Z",
+    "track" : {
+      "album" : {
+        "name" : "MASSEDUCTION",
+        "release_date" : "2017-10-13"
+      },
+      "duration_ms" : 154960
+    }
+  }, {
+    "added_at" : "2019-04-17T17:33:47Z",
+    "track" : {
+      "album" : {
+        "name" : "MASSEDUCTION",
+        "release_date" : "2017-10-13"
+      },
+      "duration_ms" : 151720
+    }
+  }, {
+    "added_at" : "2019-04-17T17:33:47Z",
+    "track" : {
+      "album" : {
+        "name" : "MASSEDUCTION",
+        "release_date" : "2017-10-13"
+      },
+      "duration_ms" : 213466
+    }
+  }, {
+    "added_at" : "2019-04-17T17:33:47Z",
+    "track" : {
+      "album" : {
+        "name" : "MASSEDUCTION",
+        "release_date" : "2017-10-13"
+      },
+      "duration_ms" : 46413
+    }
+  }, {
+    "added_at" : "2019-04-17T17:33:47Z",
+    "track" : {
+      "album" : {
+        "name" : "MASSEDUCTION",
+        "release_date" : "2017-10-13"
+      },
+      "duration_ms" : 164720
+    }
+  }, {
+    "added_at" : "2019-04-17T17:33:47Z",
+    "track" : {
+      "album" : {
+        "name" : "MASSEDUCTION",
+        "release_date" : "2017-10-13"
+      },
+      "duration_ms" : 217320
+    }
+  }, {
+    "added_at" : "2019-04-17T17:38:35Z",
+    "track" : {
+      "album" : {
+        "name" : "Berkeley's On Fire",
+        "release_date" : "2019-02-15"
+      },
+      "duration_ms" : 227986
+    }
+  }, {
+    "added_at" : "2019-04-17T17:38:35Z",
+    "track" : {
+      "album" : {
+        "name" : "Berkeley's On Fire",
+        "release_date" : "2019-02-15"
+      },
+      "duration_ms" : 205080
+    }
+  }, {
+    "added_at" : "2019-04-17T17:38:35Z",
+    "track" : {
+      "album" : {
+        "name" : "Berkeley's On Fire",
+        "release_date" : "2019-02-15"
+      },
+      "duration_ms" : 197173
+    }
+  }, {
+    "added_at" : "2019-04-17T17:38:35Z",
+    "track" : {
+      "album" : {
+        "name" : "Berkeley's On Fire",
+        "release_date" : "2019-02-15"
+      },
+      "duration_ms" : 214706
+    }
+  }, {
+    "added_at" : "2019-04-17T17:38:35Z",
+    "track" : {
+      "album" : {
+        "name" : "Berkeley's On Fire",
+        "release_date" : "2019-02-15"
+      },
+      "duration_ms" : 185280
+    }
+  }, {
+    "added_at" : "2019-04-17T17:38:35Z",
+    "track" : {
+      "album" : {
+        "name" : "Berkeley's On Fire",
+        "release_date" : "2019-02-15"
+      },
+      "duration_ms" : 192413
+    }
+  } ]
+}

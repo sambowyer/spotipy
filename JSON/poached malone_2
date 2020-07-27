@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2019-06-02T15:52:59Z",
+    "track" : {
+      "album" : {
+        "name" : "St. Anger",
+        "release_date" : "2003-01-01"
+      },
+      "duration_ms" : 441132
+    }
+  }, {
+    "added_at" : "2019-06-02T15:52:59Z",
+    "track" : {
+      "album" : {
+        "name" : "St. Anger",
+        "release_date" : "2003-01-01"
+      },
+      "duration_ms" : 505532
+    }
+  }, {
+    "added_at" : "2019-06-02T15:52:59Z",
+    "track" : {
+      "album" : {
+        "name" : "St. Anger",
+        "release_date" : "2003-01-01"
+      },
+      "duration_ms" : 324905
+    }
+  }, {
+    "added_at" : "2019-06-02T15:52:59Z",
+    "track" : {
+      "album" : {
+        "name" : "St. Anger",
+        "release_date" : "2003-01-01"
+      },
+      "duration_ms" : 510092
+    }
+  }, {
+    "added_at" : "2019-06-02T15:52:59Z",
+    "track" : {
+      "album" : {
+        "name" : "St. Anger",
+        "release_date" : "2003-01-01"
+      },
+      "duration_ms" : 345532
+    }
+  }, {
+    "added_at" : "2019-06-02T15:52:59Z",
+    "track" : {
+      "album" : {
+        "name" : "St. Anger",
+        "release_date" : "2003-01-01"
+      },
+      "duration_ms" : 430105
+    }
+  }, {
+    "added_at" : "2019-06-02T15:52:59Z",
+    "track" : {
+      "album" : {
+        "name" : "St. Anger",
+        "release_date" : "2003-01-01"
+      },
+      "duration_ms" : 327132
+    }
+  }, {
+    "added_at" : "2019-06-02T15:52:59Z",
+    "track" : {
+      "album" : {
+        "name" : "St. Anger",
+        "release_date" : "2003-01-01"
+      },
+      "duration_ms" : 427892
+    }
+  }, {
+    "added_at" : "2019-06-02T15:52:59Z",
+    "track" : {
+      "album" : {
+        "name" : "St. Anger",
+        "release_date" : "2003-01-01"
+      },
+      "duration_ms" : 313932
+    }
+  }, {
+    "added_at" : "2019-06-02T15:52:59Z",
+    "track" : {
+      "album" : {
+        "name" : "St. Anger",
+        "release_date" : "2003-01-01"
+      },
+      "duration_ms" : 527892
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 72786
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 270920
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 206866
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 102426
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 234013
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 235613
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 90840
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 247480
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 62400
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 224680
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 227586
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 247946
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 221240
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 67173
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 218160
+    }
+  }, {
+    "added_at" : "2019-06-02T15:53:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Issues",
+        "release_date" : "1999-11-09"
+      },
+      "duration_ms" : 470560
+    }
+  }, {
+    "added_at" : "2019-06-03T08:39:46Z",
+    "track" : {
+      "album" : {
+        "name" : "Rolling into One",
+        "release_date" : "2019-05-21"
+      },
+      "duration_ms" : 259196
+    }
+  }, {
+    "added_at" : "2019-06-03T08:39:46Z",
+    "track" : {
+      "album" : {
+        "name" : "Rolling into One",
+        "release_date" : "2019-05-21"
+      },
+      "duration_ms" : 160966
+    }
+  }, {
+    "added_at" : "2019-06-03T08:39:46Z",
+    "track" : {
+      "album" : {
+        "name" : "Rolling into One",
+        "release_date" : "2019-05-21"
+      },
+      "duration_ms" : 246087
+    }
+  }, {
+    "added_at" : "2019-06-03T11:15:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Do You Love Her Now / He",
+        "release_date" : "2019-06-01"
+      },
+      "duration_ms" : 274995
+    }
+  }, {
+    "added_at" : "2019-06-03T11:15:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Do You Love Her Now / He",
+        "release_date" : "2019-06-01"
+      },
+      "duration_ms" : 268000
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 182893
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 192009
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 171372
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 239767
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 272094
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 41878
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 242341
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 74478
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 263869
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 262098
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 165395
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 158130
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 235489
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 140923
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 118050
+    }
+  }, {
+    "added_at" : "2019-06-03T21:36:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Negro Swan",
+        "release_date" : "2018-08-24"
+      },
+      "duration_ms" : 213027
+    }
+  }, {
+    "added_at" : "2019-06-04T07:11:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Van Halen (Remastered)",
+        "release_date" : "1978-02-10"
+      },
+      "duration_ms" : 214960
+    }
+  }, {
+    "added_at" : "2019-06-04T07:11:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Van Halen (Remastered)",
+        "release_date" : "1978-02-10"
+      },
+      "duration_ms" : 102080
+    }
+  }, {
+    "added_at" : "2019-06-04T07:11:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Van Halen (Remastered)",
+        "release_date" : "1978-02-10"
+      },
+      "duration_ms" : 156146
+    }
+  }, {
+    "added_at" : "2019-06-04T07:11:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Van Halen (Remastered)",
+        "release_date" : "1978-02-10"
+      },
+      "duration_ms" : 227800
+    }
+  }, {
+    "added_at" : "2019-06-04T07:11:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Van Halen (Remastered)",
+        "release_date" : "1978-02-10"
+      },
+      "duration_ms" : 224600
+    }
+  }, {
+    "added_at" : "2019-06-04T07:11:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Van Halen (Remastered)",
+        "release_date" : "1978-02-10"
+      },
+      "duration_ms" : 209586
+    }
+  }, {
+    "added_at" : "2019-06-04T07:11:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Van Halen (Remastered)",
+        "release_date" : "1978-02-10"
+      },
+      "duration_ms" : 179613
+    }
+  }, {
+    "added_at" : "2019-06-04T07:11:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Van Halen (Remastered)",
+        "release_date" : "1978-02-10"
+      },
+      "duration_ms" : 220960
+    }
+  }, {
+    "added_at" : "2019-06-04T07:11:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Van Halen (Remastered)",
+        "release_date" : "1978-02-10"
+      },
+      "duration_ms" : 201760
+    }
+  }, {
+    "added_at" : "2019-06-04T07:11:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Van Halen (Remastered)",
+        "release_date" : "1978-02-10"
+      },
+      "duration_ms" : 198373
+    }
+  }, {
+    "added_at" : "2019-06-04T07:11:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Van Halen (Remastered)",
+        "release_date" : "1978-02-10"
+      },
+      "duration_ms" : 180853
+    }
+  }, {
+    "added_at" : "2019-06-04T07:12:30Z",
+    "track" : {
+      "album" : {
+        "name" : "G3 - Live In Concert",
+        "release_date" : "1997-06-03"
+      },
+      "duration_ms" : 406266
+    }
+  }, {
+    "added_at" : "2019-06-04T07:12:30Z",
+    "track" : {
+      "album" : {
+        "name" : "G3 - Live In Concert",
+        "release_date" : "1997-06-03"
+      },
+      "duration_ms" : 359066
+    }
+  }, {
+    "added_at" : "2019-06-04T07:12:30Z",
+    "track" : {
+      "album" : {
+        "name" : "G3 - Live In Concert",
+        "release_date" : "1997-06-03"
+      },
+      "duration_ms" : 387933
+    }
+  }, {
+    "added_at" : "2019-06-04T07:12:30Z",
+    "track" : {
+      "album" : {
+        "name" : "G3 - Live In Concert",
+        "release_date" : "1997-06-03"
+      },
+      "duration_ms" : 366573
+    }
+  }, {
+    "added_at" : "2019-06-04T07:12:30Z",
+    "track" : {
+      "album" : {
+        "name" : "G3 - Live In Concert",
+        "release_date" : "1997-06-03"
+      },
+      "duration_ms" : 316200
+    }
+  }, {
+    "added_at" : "2019-06-04T07:12:30Z",
+    "track" : {
+      "album" : {
+        "name" : "G3 - Live In Concert",
+        "release_date" : "1997-06-03"
+      },
+      "duration_ms" : 357200
+    }
+  }, {
+    "added_at" : "2019-06-04T07:12:30Z",
+    "track" : {
+      "album" : {
+        "name" : "G3 - Live In Concert",
+        "release_date" : "1997-06-03"
+      },
+      "duration_ms" : 417933
+    }
+  }, {
+    "added_at" : "2019-06-04T07:12:30Z",
+    "track" : {
+      "album" : {
+        "name" : "G3 - Live In Concert",
+        "release_date" : "1997-06-03"
+      },
+      "duration_ms" : 466933
+    }
+  }, {
+    "added_at" : "2019-06-04T07:12:30Z",
+    "track" : {
+      "album" : {
+        "name" : "G3 - Live In Concert",
+        "release_date" : "1997-06-03"
+      },
+      "duration_ms" : 313866
+    }
+  }, {
+    "added_at" : "2019-06-04T07:12:30Z",
+    "track" : {
+      "album" : {
+        "name" : "G3 - Live In Concert",
+        "release_date" : "1997-06-03"
+      },
+      "duration_ms" : 347000
+    }
+  }, {
+    "added_at" : "2019-06-04T07:12:30Z",
+    "track" : {
+      "album" : {
+        "name" : "G3 - Live In Concert",
+        "release_date" : "1997-06-03"
+      },
+      "duration_ms" : 321066
+    }
+  }, {
+    "added_at" : "2019-06-04T07:12:30Z",
+    "track" : {
+      "album" : {
+        "name" : "G3 - Live In Concert",
+        "release_date" : "1997-06-03"
+      },
+      "duration_ms" : 551693
+    }
+  }, {
+    "added_at" : "2019-06-07T05:46:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Chon",
+        "release_date" : "2019-06-07"
+      },
+      "duration_ms" : 108386
+    }
+  }, {
+    "added_at" : "2019-06-07T05:46:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Chon",
+        "release_date" : "2019-06-07"
+      },
+      "duration_ms" : 192666
+    }
+  }, {
+    "added_at" : "2019-06-07T05:46:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Chon",
+        "release_date" : "2019-06-07"
+      },
+      "duration_ms" : 188306
+    }
+  }, {
+    "added_at" : "2019-06-07T05:46:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Chon",
+        "release_date" : "2019-06-07"
+      },
+      "duration_ms" : 175120
+    }
+  }, {
+    "added_at" : "2019-06-07T05:46:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Chon",
+        "release_date" : "2019-06-07"
+      },
+      "duration_ms" : 184720
+    }
+  }, {
+    "added_at" : "2019-06-07T05:46:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Chon",
+        "release_date" : "2019-06-07"
+      },
+      "duration_ms" : 221493
+    }
+  }, {
+    "added_at" : "2019-06-07T05:46:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Chon",
+        "release_date" : "2019-06-07"
+      },
+      "duration_ms" : 220120
+    }
+  }, {
+    "added_at" : "2019-06-07T05:46:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Chon",
+        "release_date" : "2019-06-07"
+      },
+      "duration_ms" : 182440
+    }
+  }, {
+    "added_at" : "2019-06-07T05:46:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Chon",
+        "release_date" : "2019-06-07"
+      },
+      "duration_ms" : 152293
+    }
+  }, {
+    "added_at" : "2019-06-07T05:46:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Chon",
+        "release_date" : "2019-06-07"
+      },
+      "duration_ms" : 151013
+    }
+  }, {
+    "added_at" : "2019-06-07T05:46:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Chon",
+        "release_date" : "2019-06-07"
+      },
+      "duration_ms" : 178920
+    }
+  }, {
+    "added_at" : "2019-06-07T05:46:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Chon",
+        "release_date" : "2019-06-07"
+      },
+      "duration_ms" : 212492
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Empty Sky",
+        "release_date" : "1969-06-06"
+      },
+      "duration_ms" : 509626
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Empty Sky",
+        "release_date" : "1969-06-06"
+      },
+      "duration_ms" : 251960
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Empty Sky",
+        "release_date" : "1969-06-06"
+      },
+      "duration_ms" : 195400
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Empty Sky",
+        "release_date" : "1969-06-06"
+      },
+      "duration_ms" : 269586
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Empty Sky",
+        "release_date" : "1969-06-06"
+      },
+      "duration_ms" : 189200
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Empty Sky",
+        "release_date" : "1969-06-06"
+      },
+      "duration_ms" : 225053
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Empty Sky",
+        "release_date" : "1969-06-06"
+      },
+      "duration_ms" : 198133
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Empty Sky",
+        "release_date" : "1969-06-06"
+      },
+      "duration_ms" : 217826
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Empty Sky",
+        "release_date" : "1969-06-06"
+      },
+      "duration_ms" : 418493
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Empty Sky",
+        "release_date" : "1969-06-06"
+      },
+      "duration_ms" : 182960
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Empty Sky",
+        "release_date" : "1969-06-06"
+      },
+      "duration_ms" : 172733
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Empty Sky",
+        "release_date" : "1969-06-06"
+      },
+      "duration_ms" : 244293
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:14Z",
+    "track" : {
+      "album" : {
+        "name" : "Empty Sky",
+        "release_date" : "1969-06-06"
+      },
+      "duration_ms" : 224160
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:19Z",
+    "track" : {
+      "album" : {
+        "name" : "One Night Only",
+        "release_date" : "2000-11-21"
+      },
+      "duration_ms" : 198760
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:19Z",
+    "track" : {
+      "album" : {
+        "name" : "One Night Only",
+        "release_date" : "2000-11-21"
+      },
+      "duration_ms" : 321973
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:19Z",
+    "track" : {
+      "album" : {
+        "name" : "One Night Only",
+        "release_date" : "2000-11-21"
+      },
+      "duration_ms" : 259333
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:19Z",
+    "track" : {
+      "album" : {
+        "name" : "One Night Only",
+        "release_date" : "2000-11-21"
+      },
+      "duration_ms" : 343333
+    }
+  }, {
+    "added_at" : "2019-06-08T07:29:19Z",
+    "track" : {
+      "album" : {
+        "name" : "One Night Only",
+        "release_date" : "2000-11-21"
+      },
+      "duration_ms" : 230626
+    }
+  } ]
+}

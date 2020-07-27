@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2018-04-27T15:58:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Dirty Computer",
+        "release_date" : "2018-04-27"
+      },
+      "duration_ms" : 243808
+    }
+  }, {
+    "added_at" : "2018-04-27T15:58:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Dirty Computer",
+        "release_date" : "2018-04-27"
+      },
+      "duration_ms" : 246357
+    }
+  }, {
+    "added_at" : "2018-04-29T16:13:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Eat The Elephant",
+        "release_date" : "2018-04-20"
+      },
+      "duration_ms" : 313640
+    }
+  }, {
+    "added_at" : "2018-04-29T16:13:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Eat The Elephant",
+        "release_date" : "2018-04-20"
+      },
+      "duration_ms" : 353707
+    }
+  }, {
+    "added_at" : "2018-04-29T16:13:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Eat The Elephant",
+        "release_date" : "2018-04-20"
+      },
+      "duration_ms" : 238533
+    }
+  }, {
+    "added_at" : "2018-04-29T16:13:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Eat The Elephant",
+        "release_date" : "2018-04-20"
+      },
+      "duration_ms" : 281780
+    }
+  }, {
+    "added_at" : "2018-04-29T16:13:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Eat The Elephant",
+        "release_date" : "2018-04-20"
+      },
+      "duration_ms" : 266093
+    }
+  }, {
+    "added_at" : "2018-04-29T16:13:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Eat The Elephant",
+        "release_date" : "2018-04-20"
+      },
+      "duration_ms" : 255806
+    }
+  }, {
+    "added_at" : "2018-04-29T16:13:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Eat The Elephant",
+        "release_date" : "2018-04-20"
+      },
+      "duration_ms" : 304906
+    }
+  }, {
+    "added_at" : "2018-04-29T16:13:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Eat The Elephant",
+        "release_date" : "2018-04-20"
+      },
+      "duration_ms" : 229506
+    }
+  }, {
+    "added_at" : "2018-04-29T16:13:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Eat The Elephant",
+        "release_date" : "2018-04-20"
+      },
+      "duration_ms" : 126746
+    }
+  }, {
+    "added_at" : "2018-04-29T16:13:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Eat The Elephant",
+        "release_date" : "2018-04-20"
+      },
+      "duration_ms" : 314333
+    }
+  }, {
+    "added_at" : "2018-04-29T16:13:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Eat The Elephant",
+        "release_date" : "2018-04-20"
+      },
+      "duration_ms" : 348320
+    }
+  }, {
+    "added_at" : "2018-04-29T16:13:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Eat The Elephant",
+        "release_date" : "2018-04-20"
+      },
+      "duration_ms" : 400640
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 47293
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 333906
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 326533
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 369293
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 320266
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 297106
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 256000
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 342200
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 339866
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 315293
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 314706
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 350533
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 293266
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 235466
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 221466
+    }
+  }, {
+    "added_at" : "2018-04-30T12:19:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Miseducation of Lauryn Hill",
+        "release_date" : "1998-08-25"
+      },
+      "duration_ms" : 280760
+    }
+  }, {
+    "added_at" : "2018-04-30T14:55:19Z",
+    "track" : {
+      "album" : {
+        "name" : "What Just Happened?",
+        "release_date" : "2013-04-09"
+      },
+      "duration_ms" : 277760
+    }
+  }, {
+    "added_at" : "2018-04-30T14:55:19Z",
+    "track" : {
+      "album" : {
+        "name" : "What Just Happened?",
+        "release_date" : "2013-04-09"
+      },
+      "duration_ms" : 244320
+    }
+  }, {
+    "added_at" : "2018-04-30T14:55:19Z",
+    "track" : {
+      "album" : {
+        "name" : "What Just Happened?",
+        "release_date" : "2013-04-09"
+      },
+      "duration_ms" : 236826
+    }
+  }, {
+    "added_at" : "2018-04-30T14:55:19Z",
+    "track" : {
+      "album" : {
+        "name" : "What Just Happened?",
+        "release_date" : "2013-04-09"
+      },
+      "duration_ms" : 194320
+    }
+  }, {
+    "added_at" : "2018-04-30T14:55:19Z",
+    "track" : {
+      "album" : {
+        "name" : "What Just Happened?",
+        "release_date" : "2013-04-09"
+      },
+      "duration_ms" : 401480
+    }
+  }, {
+    "added_at" : "2018-04-30T14:55:19Z",
+    "track" : {
+      "album" : {
+        "name" : "What Just Happened?",
+        "release_date" : "2013-04-09"
+      },
+      "duration_ms" : 244626
+    }
+  }, {
+    "added_at" : "2018-04-30T14:55:19Z",
+    "track" : {
+      "album" : {
+        "name" : "What Just Happened?",
+        "release_date" : "2013-04-09"
+      },
+      "duration_ms" : 332933
+    }
+  }, {
+    "added_at" : "2018-04-30T14:55:19Z",
+    "track" : {
+      "album" : {
+        "name" : "What Just Happened?",
+        "release_date" : "2013-04-09"
+      },
+      "duration_ms" : 197053
+    }
+  }, {
+    "added_at" : "2018-04-30T14:55:19Z",
+    "track" : {
+      "album" : {
+        "name" : "What Just Happened?",
+        "release_date" : "2013-04-09"
+      },
+      "duration_ms" : 307666
+    }
+  }, {
+    "added_at" : "2018-04-30T15:30:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Yawn Zen",
+        "release_date" : "2014-08-26"
+      },
+      "duration_ms" : 128244
+    }
+  }, {
+    "added_at" : "2018-04-30T15:30:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Yawn Zen",
+        "release_date" : "2014-08-26"
+      },
+      "duration_ms" : 151303
+    }
+  }, {
+    "added_at" : "2018-04-30T15:30:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Yawn Zen",
+        "release_date" : "2014-08-26"
+      },
+      "duration_ms" : 139949
+    }
+  }, {
+    "added_at" : "2018-04-30T15:30:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Yawn Zen",
+        "release_date" : "2014-08-26"
+      },
+      "duration_ms" : 187564
+    }
+  }, {
+    "added_at" : "2018-04-30T15:30:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Yawn Zen",
+        "release_date" : "2014-08-26"
+      },
+      "duration_ms" : 279437
+    }
+  }, {
+    "added_at" : "2018-04-30T15:30:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Yawn Zen",
+        "release_date" : "2014-08-26"
+      },
+      "duration_ms" : 153134
+    }
+  }, {
+    "added_at" : "2018-04-30T15:30:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Yawn Zen",
+        "release_date" : "2014-08-26"
+      },
+      "duration_ms" : 153677
+    }
+  }, {
+    "added_at" : "2018-04-30T15:30:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Yawn Zen",
+        "release_date" : "2014-08-26"
+      },
+      "duration_ms" : 152984
+    }
+  }, {
+    "added_at" : "2018-04-30T15:30:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Yawn Zen",
+        "release_date" : "2014-08-26"
+      },
+      "duration_ms" : 146687
+    }
+  }, {
+    "added_at" : "2018-04-30T15:30:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Yawn Zen",
+        "release_date" : "2014-08-26"
+      },
+      "duration_ms" : 127892
+    }
+  }, {
+    "added_at" : "2018-04-30T15:30:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Yawn Zen",
+        "release_date" : "2014-08-26"
+      },
+      "duration_ms" : 123798
+    }
+  }, {
+    "added_at" : "2018-04-30T15:30:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Yawn Zen",
+        "release_date" : "2014-08-26"
+      },
+      "duration_ms" : 144031
+    }
+  }, {
+    "added_at" : "2018-05-01T15:58:39Z",
+    "track" : {
+      "album" : {
+        "name" : "Lonerism",
+        "release_date" : "2012-01-01"
+      },
+      "duration_ms" : 201960
+    }
+  }, {
+    "added_at" : "2018-05-01T15:58:39Z",
+    "track" : {
+      "album" : {
+        "name" : "Lonerism",
+        "release_date" : "2012-01-01"
+      },
+      "duration_ms" : 186640
+    }
+  }, {
+    "added_at" : "2018-05-01T15:58:39Z",
+    "track" : {
+      "album" : {
+        "name" : "Lonerism",
+        "release_date" : "2012-01-01"
+      },
+      "duration_ms" : 356946
+    }
+  }, {
+    "added_at" : "2018-05-01T15:58:39Z",
+    "track" : {
+      "album" : {
+        "name" : "Lonerism",
+        "release_date" : "2012-01-01"
+      },
+      "duration_ms" : 271880
+    }
+  }, {
+    "added_at" : "2018-05-01T15:58:39Z",
+    "track" : {
+      "album" : {
+        "name" : "Lonerism",
+        "release_date" : "2012-01-01"
+      },
+      "duration_ms" : 312213
+    }
+  }, {
+    "added_at" : "2018-05-01T15:58:39Z",
+    "track" : {
+      "album" : {
+        "name" : "Lonerism",
+        "release_date" : "2012-01-01"
+      },
+      "duration_ms" : 286093
+    }
+  }, {
+    "added_at" : "2018-05-01T15:58:39Z",
+    "track" : {
+      "album" : {
+        "name" : "Lonerism",
+        "release_date" : "2012-01-01"
+      },
+      "duration_ms" : 192960
+    }
+  }, {
+    "added_at" : "2018-05-01T15:58:39Z",
+    "track" : {
+      "album" : {
+        "name" : "Lonerism",
+        "release_date" : "2012-01-01"
+      },
+      "duration_ms" : 353933
+    }
+  }, {
+    "added_at" : "2018-05-01T15:58:39Z",
+    "track" : {
+      "album" : {
+        "name" : "Lonerism",
+        "release_date" : "2012-01-01"
+      },
+      "duration_ms" : 211226
+    }
+  }, {
+    "added_at" : "2018-05-01T15:58:39Z",
+    "track" : {
+      "album" : {
+        "name" : "Lonerism",
+        "release_date" : "2012-01-01"
+      },
+      "duration_ms" : 57173
+    }
+  }, {
+    "added_at" : "2018-05-01T15:58:39Z",
+    "track" : {
+      "album" : {
+        "name" : "Lonerism",
+        "release_date" : "2012-01-01"
+      },
+      "duration_ms" : 359946
+    }
+  }, {
+    "added_at" : "2018-05-01T15:58:39Z",
+    "track" : {
+      "album" : {
+        "name" : "Lonerism",
+        "release_date" : "2012-01-01"
+      },
+      "duration_ms" : 320293
+    }
+  }, {
+    "added_at" : "2018-05-09T18:42:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Amputechture",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 439920
+    }
+  }, {
+    "added_at" : "2018-05-09T18:42:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Amputechture",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 1001773
+    }
+  }, {
+    "added_at" : "2018-05-09T18:42:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Amputechture",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 255800
+    }
+  }, {
+    "added_at" : "2018-05-09T18:42:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Amputechture",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 662706
+    }
+  }, {
+    "added_at" : "2018-05-09T18:42:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Amputechture",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 394226
+    }
+  }, {
+    "added_at" : "2018-05-09T18:42:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Amputechture",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 563026
+    }
+  }, {
+    "added_at" : "2018-05-09T18:42:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Amputechture",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 716680
+    }
+  }, {
+    "added_at" : "2018-05-09T18:42:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Amputechture",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 530093
+    }
+  }, {
+    "added_at" : "2018-05-11T06:21:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Tranquility Base Hotel & Casino",
+        "release_date" : "2018-05-10"
+      },
+      "duration_ms" : 354640
+    }
+  }, {
+    "added_at" : "2018-05-11T06:21:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Tranquility Base Hotel & Casino",
+        "release_date" : "2018-05-10"
+      },
+      "duration_ms" : 208640
+    }
+  }, {
+    "added_at" : "2018-05-11T06:21:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Tranquility Base Hotel & Casino",
+        "release_date" : "2018-05-10"
+      },
+      "duration_ms" : 158040
+    }
+  }, {
+    "added_at" : "2018-05-11T06:21:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Tranquility Base Hotel & Casino",
+        "release_date" : "2018-05-10"
+      },
+      "duration_ms" : 212093
+    }
+  }, {
+    "added_at" : "2018-05-11T06:21:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Tranquility Base Hotel & Casino",
+        "release_date" : "2018-05-10"
+      },
+      "duration_ms" : 173626
+    }
+  }, {
+    "added_at" : "2018-05-11T06:21:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Tranquility Base Hotel & Casino",
+        "release_date" : "2018-05-10"
+      },
+      "duration_ms" : 312346
+    }
+  }, {
+    "added_at" : "2018-05-11T06:21:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Tranquility Base Hotel & Casino",
+        "release_date" : "2018-05-10"
+      },
+      "duration_ms" : 180013
+    }
+  }, {
+    "added_at" : "2018-05-11T06:21:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Tranquility Base Hotel & Casino",
+        "release_date" : "2018-05-10"
+      },
+      "duration_ms" : 185906
+    }
+  }, {
+    "added_at" : "2018-05-11T06:21:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Tranquility Base Hotel & Casino",
+        "release_date" : "2018-05-10"
+      },
+      "duration_ms" : 182560
+    }
+  }, {
+    "added_at" : "2018-05-11T06:21:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Tranquility Base Hotel & Casino",
+        "release_date" : "2018-05-10"
+      },
+      "duration_ms" : 271613
+    }
+  }, {
+    "added_at" : "2018-05-11T06:21:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Tranquility Base Hotel & Casino",
+        "release_date" : "2018-05-10"
+      },
+      "duration_ms" : 217720
+    }
+  }, {
+    "added_at" : "2018-05-11T19:14:38Z",
+    "track" : {
+      "album" : {
+        "name" : "Head Hunters",
+        "release_date" : "1973-10-26"
+      },
+      "duration_ms" : 941360
+    }
+  }, {
+    "added_at" : "2018-05-11T19:14:38Z",
+    "track" : {
+      "album" : {
+        "name" : "Head Hunters",
+        "release_date" : "1973-10-26"
+      },
+      "duration_ms" : 388960
+    }
+  }, {
+    "added_at" : "2018-05-11T19:14:38Z",
+    "track" : {
+      "album" : {
+        "name" : "Head Hunters",
+        "release_date" : "1973-10-26"
+      },
+      "duration_ms" : 615360
+    }
+  }, {
+    "added_at" : "2018-05-11T19:14:38Z",
+    "track" : {
+      "album" : {
+        "name" : "Head Hunters",
+        "release_date" : "1973-10-26"
+      },
+      "duration_ms" : 549373
+    }
+  }, {
+    "added_at" : "2018-05-15T08:42:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Madvillainy",
+        "release_date" : "2004-03-24"
+      },
+      "duration_ms" : 115360
+    }
+  }, {
+    "added_at" : "2018-05-15T08:42:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Madvillainy",
+        "release_date" : "2004-03-24"
+      },
+      "duration_ms" : 118853
+    }
+  }, {
+    "added_at" : "2018-05-15T08:42:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Madvillainy",
+        "release_date" : "2004-03-24"
+      },
+      "duration_ms" : 131866
+    }
+  }, {
+    "added_at" : "2018-05-15T08:42:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Madvillainy",
+        "release_date" : "2004-03-24"
+      },
+      "duration_ms" : 67520
+    }
+  }, {
+    "added_at" : "2018-05-15T08:42:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Madvillainy",
+        "release_date" : "2004-03-24"
+      },
+      "duration_ms" : 150520
+    }
+  }, {
+    "added_at" : "2018-05-15T08:42:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Madvillainy",
+        "release_date" : "2004-03-24"
+      },
+      "duration_ms" : 234040
+    }
+  }, {
+    "added_at" : "2018-05-15T08:42:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Madvillainy",
+        "release_date" : "2004-03-24"
+      },
+      "duration_ms" : 81880
+    }
+  }, {
+    "added_at" : "2018-05-15T08:42:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Madvillainy",
+        "release_date" : "2004-03-24"
+      },
+      "duration_ms" : 171840
+    }
+  }, {
+    "added_at" : "2018-05-15T08:42:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Madvillainy",
+        "release_date" : "2004-03-24"
+      },
+      "duration_ms" : 95506
+    }
+  }, {
+    "added_at" : "2018-05-15T08:42:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Madvillainy",
+        "release_date" : "2004-03-24"
+      },
+      "duration_ms" : 52826
+    }
+  }, {
+    "added_at" : "2018-05-15T08:42:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Madvillainy",
+        "release_date" : "2004-03-24"
+      },
+      "duration_ms" : 182800
+    }
+  }, {
+    "added_at" : "2018-05-15T08:42:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Madvillainy",
+        "release_date" : "2004-03-24"
+      },
+      "duration_ms" : 156186
+    }
+  }, {
+    "added_at" : "2018-05-15T08:42:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Madvillainy",
+        "release_date" : "2004-03-24"
+      },
+      "duration_ms" : 90133
+    }
+  }, {
+    "added_at" : "2018-05-15T08:42:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Madvillainy",
+        "release_date" : "2004-03-24"
+      },
+      "duration_ms" : 145706
+    }
+  } ]
+}

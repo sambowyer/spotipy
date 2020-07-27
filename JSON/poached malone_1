@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2019-05-31T14:46:18Z",
+    "track" : {
+      "album" : {
+        "name" : "ZUU",
+        "release_date" : "2019-05-31"
+      },
+      "duration_ms" : 164120
+    }
+  }, {
+    "added_at" : "2019-05-31T14:46:18Z",
+    "track" : {
+      "album" : {
+        "name" : "ZUU",
+        "release_date" : "2019-05-31"
+      },
+      "duration_ms" : 147720
+    }
+  }, {
+    "added_at" : "2019-05-31T14:46:18Z",
+    "track" : {
+      "album" : {
+        "name" : "ZUU",
+        "release_date" : "2019-05-31"
+      },
+      "duration_ms" : 49226
+    }
+  }, {
+    "added_at" : "2019-05-31T14:46:18Z",
+    "track" : {
+      "album" : {
+        "name" : "ZUU",
+        "release_date" : "2019-05-31"
+      },
+      "duration_ms" : 180480
+    }
+  }, {
+    "added_at" : "2019-05-31T15:43:14Z",
+    "track" : {
+      "album" : {
+        "name" : "LOUD MOUTH EP",
+        "release_date" : "2019-03-08"
+      },
+      "duration_ms" : 215809
+    }
+  }, {
+    "added_at" : "2019-05-31T15:43:14Z",
+    "track" : {
+      "album" : {
+        "name" : "LOUD MOUTH EP",
+        "release_date" : "2019-03-08"
+      },
+      "duration_ms" : 206216
+    }
+  }, {
+    "added_at" : "2019-05-31T15:43:14Z",
+    "track" : {
+      "album" : {
+        "name" : "LOUD MOUTH EP",
+        "release_date" : "2019-03-08"
+      },
+      "duration_ms" : 176656
+    }
+  }, {
+    "added_at" : "2019-05-31T15:43:14Z",
+    "track" : {
+      "album" : {
+        "name" : "LOUD MOUTH EP",
+        "release_date" : "2019-03-08"
+      },
+      "duration_ms" : 228484
+    }
+  }, {
+    "added_at" : "2019-05-31T15:48:30Z",
+    "track" : {
+      "album" : {
+        "name" : "The Capitol Studios Sessions",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 342746
+    }
+  }, {
+    "added_at" : "2019-05-31T15:48:30Z",
+    "track" : {
+      "album" : {
+        "name" : "The Capitol Studios Sessions",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 274346
+    }
+  }, {
+    "added_at" : "2019-05-31T15:48:30Z",
+    "track" : {
+      "album" : {
+        "name" : "The Capitol Studios Sessions",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 314786
+    }
+  }, {
+    "added_at" : "2019-05-31T15:48:30Z",
+    "track" : {
+      "album" : {
+        "name" : "The Capitol Studios Sessions",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 193066
+    }
+  }, {
+    "added_at" : "2019-05-31T15:48:30Z",
+    "track" : {
+      "album" : {
+        "name" : "The Capitol Studios Sessions",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 181678
+    }
+  }, {
+    "added_at" : "2019-05-31T15:48:30Z",
+    "track" : {
+      "album" : {
+        "name" : "The Capitol Studios Sessions",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 248441
+    }
+  }, {
+    "added_at" : "2019-05-31T15:48:30Z",
+    "track" : {
+      "album" : {
+        "name" : "The Capitol Studios Sessions",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 288053
+    }
+  }, {
+    "added_at" : "2019-05-31T15:48:30Z",
+    "track" : {
+      "album" : {
+        "name" : "The Capitol Studios Sessions",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 364693
+    }
+  }, {
+    "added_at" : "2019-05-31T15:48:30Z",
+    "track" : {
+      "album" : {
+        "name" : "The Capitol Studios Sessions",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 190866
+    }
+  }, {
+    "added_at" : "2019-05-31T15:48:30Z",
+    "track" : {
+      "album" : {
+        "name" : "The Capitol Studios Sessions",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 238653
+    }
+  }, {
+    "added_at" : "2019-05-31T15:48:30Z",
+    "track" : {
+      "album" : {
+        "name" : "The Capitol Studios Sessions",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 258053
+    }
+  }, {
+    "added_at" : "2019-05-31T15:48:30Z",
+    "track" : {
+      "album" : {
+        "name" : "The Capitol Studios Sessions",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 182893
+    }
+  }, {
+    "added_at" : "2019-05-31T15:48:30Z",
+    "track" : {
+      "album" : {
+        "name" : "The Capitol Studios Sessions",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 303680
+    }
+  }, {
+    "added_at" : "2019-05-31T15:48:30Z",
+    "track" : {
+      "album" : {
+        "name" : "The Capitol Studios Sessions",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 65853
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Boo Boo",
+        "release_date" : "2017-07-07"
+      },
+      "duration_ms" : 309226
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Boo Boo",
+        "release_date" : "2017-07-07"
+      },
+      "duration_ms" : 194746
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Boo Boo",
+        "release_date" : "2017-07-07"
+      },
+      "duration_ms" : 255226
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Boo Boo",
+        "release_date" : "2017-07-07"
+      },
+      "duration_ms" : 142000
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Boo Boo",
+        "release_date" : "2017-07-07"
+      },
+      "duration_ms" : 265626
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Boo Boo",
+        "release_date" : "2017-07-07"
+      },
+      "duration_ms" : 245813
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Boo Boo",
+        "release_date" : "2017-07-07"
+      },
+      "duration_ms" : 166293
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Boo Boo",
+        "release_date" : "2017-07-07"
+      },
+      "duration_ms" : 223773
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Boo Boo",
+        "release_date" : "2017-07-07"
+      },
+      "duration_ms" : 231240
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Boo Boo",
+        "release_date" : "2017-07-07"
+      },
+      "duration_ms" : 241253
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Boo Boo",
+        "release_date" : "2017-07-07"
+      },
+      "duration_ms" : 251240
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Boo Boo",
+        "release_date" : "2017-07-07"
+      },
+      "duration_ms" : 278247
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Boo Boo",
+        "release_date" : "2017-07-07"
+      },
+      "duration_ms" : 153062
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:40Z",
+    "track" : {
+      "album" : {
+        "name" : "What For?",
+        "release_date" : "2015-04-06"
+      },
+      "duration_ms" : 206753
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:40Z",
+    "track" : {
+      "album" : {
+        "name" : "What For?",
+        "release_date" : "2015-04-06"
+      },
+      "duration_ms" : 197963
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:40Z",
+    "track" : {
+      "album" : {
+        "name" : "What For?",
+        "release_date" : "2015-04-06"
+      },
+      "duration_ms" : 239388
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:40Z",
+    "track" : {
+      "album" : {
+        "name" : "What For?",
+        "release_date" : "2015-04-06"
+      },
+      "duration_ms" : 223205
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:40Z",
+    "track" : {
+      "album" : {
+        "name" : "What For?",
+        "release_date" : "2015-04-06"
+      },
+      "duration_ms" : 161445
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:40Z",
+    "track" : {
+      "album" : {
+        "name" : "What For?",
+        "release_date" : "2015-04-06"
+      },
+      "duration_ms" : 267788
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:40Z",
+    "track" : {
+      "album" : {
+        "name" : "What For?",
+        "release_date" : "2015-04-06"
+      },
+      "duration_ms" : 174413
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:40Z",
+    "track" : {
+      "album" : {
+        "name" : "What For?",
+        "release_date" : "2015-04-06"
+      },
+      "duration_ms" : 195199
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:40Z",
+    "track" : {
+      "album" : {
+        "name" : "What For?",
+        "release_date" : "2015-04-06"
+      },
+      "duration_ms" : 165261
+    }
+  }, {
+    "added_at" : "2019-05-31T16:30:40Z",
+    "track" : {
+      "album" : {
+        "name" : "What For?",
+        "release_date" : "2015-04-06"
+      },
+      "duration_ms" : 371770
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 72626
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 133693
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 118320
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 74760
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 164640
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 152840
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 175040
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 171226
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 254840
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 237920
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 229093
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 117173
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 216573
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 166640
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 130413
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 181546
+    }
+  }, {
+    "added_at" : "2019-06-01T08:30:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Cosmogramma",
+        "release_date" : "2010-05-03"
+      },
+      "duration_ms" : 147640
+    }
+  }, {
+    "added_at" : "2019-06-01T15:25:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Mythical",
+        "release_date" : "2019-05-31"
+      },
+      "duration_ms" : 268013
+    }
+  }, {
+    "added_at" : "2019-06-01T15:25:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Mythical",
+        "release_date" : "2019-05-31"
+      },
+      "duration_ms" : 274920
+    }
+  }, {
+    "added_at" : "2019-06-01T15:25:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Mythical",
+        "release_date" : "2019-05-31"
+      },
+      "duration_ms" : 218386
+    }
+  }, {
+    "added_at" : "2019-06-01T15:25:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Mythical",
+        "release_date" : "2019-05-31"
+      },
+      "duration_ms" : 201853
+    }
+  }, {
+    "added_at" : "2019-06-01T15:25:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Mythical",
+        "release_date" : "2019-05-31"
+      },
+      "duration_ms" : 237226
+    }
+  }, {
+    "added_at" : "2019-06-01T15:25:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Mythical",
+        "release_date" : "2019-05-31"
+      },
+      "duration_ms" : 1156905
+    }
+  }, {
+    "added_at" : "2019-06-01T18:41:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Glory Sound Prep",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 206210
+    }
+  }, {
+    "added_at" : "2019-06-01T18:41:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Glory Sound Prep",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 268466
+    }
+  }, {
+    "added_at" : "2019-06-01T18:41:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Glory Sound Prep",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 340521
+    }
+  }, {
+    "added_at" : "2019-06-01T18:41:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Glory Sound Prep",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 178176
+    }
+  }, {
+    "added_at" : "2019-06-01T18:41:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Glory Sound Prep",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 189491
+    }
+  }, {
+    "added_at" : "2019-06-01T18:41:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Glory Sound Prep",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 183344
+    }
+  }, {
+    "added_at" : "2019-06-01T18:41:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Glory Sound Prep",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 313897
+    }
+  }, {
+    "added_at" : "2019-06-01T18:41:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Glory Sound Prep",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 208697
+    }
+  }, {
+    "added_at" : "2019-06-01T18:41:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Glory Sound Prep",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 227206
+    }
+  }, {
+    "added_at" : "2019-06-01T18:41:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Glory Sound Prep",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 481590
+    }
+  }, {
+    "added_at" : "2019-06-01T22:06:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Strengths",
+        "release_date" : "2015-01-07"
+      },
+      "duration_ms" : 385724
+    }
+  }, {
+    "added_at" : "2019-06-01T22:06:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Strengths",
+        "release_date" : "2015-01-07"
+      },
+      "duration_ms" : 484780
+    }
+  }, {
+    "added_at" : "2019-06-01T22:06:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Strengths",
+        "release_date" : "2015-01-07"
+      },
+      "duration_ms" : 267258
+    }
+  }, {
+    "added_at" : "2019-06-01T22:06:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Strengths",
+        "release_date" : "2015-01-07"
+      },
+      "duration_ms" : 320914
+    }
+  }, {
+    "added_at" : "2019-06-01T22:06:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Strengths",
+        "release_date" : "2015-01-07"
+      },
+      "duration_ms" : 296176
+    }
+  }, {
+    "added_at" : "2019-06-01T22:06:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Strengths",
+        "release_date" : "2015-01-07"
+      },
+      "duration_ms" : 317309
+    }
+  }, {
+    "added_at" : "2019-06-01T22:06:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Strengths",
+        "release_date" : "2015-01-07"
+      },
+      "duration_ms" : 393665
+    }
+  }, {
+    "added_at" : "2019-06-01T22:06:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Strengths",
+        "release_date" : "2015-01-07"
+      },
+      "duration_ms" : 414066
+    }
+  }, {
+    "added_at" : "2019-06-01T22:06:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Strengths",
+        "release_date" : "2015-01-07"
+      },
+      "duration_ms" : 358687
+    }
+  }, {
+    "added_at" : "2019-06-01T22:06:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Strengths",
+        "release_date" : "2015-01-07"
+      },
+      "duration_ms" : 386742
+    }
+  }, {
+    "added_at" : "2019-06-02T08:52:31Z",
+    "track" : {
+      "album" : {
+        "name" : "The Velvet Underground & Nico 45th Anniversary",
+        "release_date" : "1967-03-12"
+      },
+      "duration_ms" : 175893
+    }
+  }, {
+    "added_at" : "2019-06-02T08:52:31Z",
+    "track" : {
+      "album" : {
+        "name" : "The Velvet Underground & Nico 45th Anniversary",
+        "release_date" : "1967-03-12"
+      },
+      "duration_ms" : 279520
+    }
+  }, {
+    "added_at" : "2019-06-02T08:52:31Z",
+    "track" : {
+      "album" : {
+        "name" : "The Velvet Underground & Nico 45th Anniversary",
+        "release_date" : "1967-03-12"
+      },
+      "duration_ms" : 159000
+    }
+  }, {
+    "added_at" : "2019-06-02T08:52:31Z",
+    "track" : {
+      "album" : {
+        "name" : "The Velvet Underground & Nico 45th Anniversary",
+        "release_date" : "1967-03-12"
+      },
+      "duration_ms" : 312253
+    }
+  }, {
+    "added_at" : "2019-06-02T08:52:31Z",
+    "track" : {
+      "album" : {
+        "name" : "The Velvet Underground & Nico 45th Anniversary",
+        "release_date" : "1967-03-12"
+      },
+      "duration_ms" : 262360
+    }
+  }, {
+    "added_at" : "2019-06-02T08:52:31Z",
+    "track" : {
+      "album" : {
+        "name" : "The Velvet Underground & Nico 45th Anniversary",
+        "release_date" : "1967-03-12"
+      },
+      "duration_ms" : 359680
+    }
+  }, {
+    "added_at" : "2019-06-02T08:52:31Z",
+    "track" : {
+      "album" : {
+        "name" : "The Velvet Underground & Nico 45th Anniversary",
+        "release_date" : "1967-03-12"
+      },
+      "duration_ms" : 433573
+    }
+  }, {
+    "added_at" : "2019-06-02T08:52:31Z",
+    "track" : {
+      "album" : {
+        "name" : "The Velvet Underground & Nico 45th Anniversary",
+        "release_date" : "1967-03-12"
+      },
+      "duration_ms" : 161026
+    }
+  }, {
+    "added_at" : "2019-06-02T08:52:31Z",
+    "track" : {
+      "album" : {
+        "name" : "The Velvet Underground & Nico 45th Anniversary",
+        "release_date" : "1967-03-12"
+      },
+      "duration_ms" : 134040
+    }
+  }, {
+    "added_at" : "2019-06-02T08:52:31Z",
+    "track" : {
+      "album" : {
+        "name" : "The Velvet Underground & Nico 45th Anniversary",
+        "release_date" : "1967-03-12"
+      },
+      "duration_ms" : 192053
+    }
+  }, {
+    "added_at" : "2019-06-02T08:52:31Z",
+    "track" : {
+      "album" : {
+        "name" : "The Velvet Underground & Nico 45th Anniversary",
+        "release_date" : "1967-03-12"
+      },
+      "duration_ms" : 467693
+    }
+  }, {
+    "added_at" : "2019-06-02T15:52:59Z",
+    "track" : {
+      "album" : {
+        "name" : "St. Anger",
+        "release_date" : "2003-01-01"
+      },
+      "duration_ms" : 350358
+    }
+  } ]
+}

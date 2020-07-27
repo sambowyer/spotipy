@@ -1,0 +1,30 @@
+{
+  "items" : [ {
+    "added_at" : "2018-02-22T18:13:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Teens of Denial",
+        "release_date" : "2016-05-20"
+      },
+      "duration_ms" : 690973
+    }
+  }, {
+    "added_at" : "2018-02-22T18:13:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Teens of Denial",
+        "release_date" : "2016-05-20"
+      },
+      "duration_ms" : 367133
+    }
+  }, {
+    "added_at" : "2018-02-22T18:13:51Z",
+    "track" : {
+      "album" : {
+        "name" : "Teens of Denial",
+        "release_date" : "2016-05-20"
+      },
+      "duration_ms" : 77866
+    }
+  } ]
+}

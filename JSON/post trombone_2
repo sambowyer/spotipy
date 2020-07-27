@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2019-01-22T18:01:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Frank",
+        "release_date" : "2003"
+      },
+      "duration_ms" : 211786
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Frank",
+        "release_date" : "2003"
+      },
+      "duration_ms" : 335906
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Frank",
+        "release_date" : "2003"
+      },
+      "duration_ms" : 243840
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Frank",
+        "release_date" : "2003"
+      },
+      "duration_ms" : 156826
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Frank",
+        "release_date" : "2003"
+      },
+      "duration_ms" : 352986
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Frank",
+        "release_date" : "2003"
+      },
+      "duration_ms" : 466813
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Frank",
+        "release_date" : "2003"
+      },
+      "duration_ms" : 222000
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Frank",
+        "release_date" : "2003"
+      },
+      "duration_ms" : 274986
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 214946
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 257186
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 153173
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 193306
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 241293
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 155413
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 186440
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 222000
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 142693
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 166400
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 165120
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 233733
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 228853
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 176320
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 196080
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 215000
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 153413
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 145066
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:27Z",
+    "track" : {
+      "album" : {
+        "name" : "Back To Black (Deluxe Edition)",
+        "release_date" : "2006"
+      },
+      "duration_ms" : 223893
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Lioness: Hidden Treasures",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 169373
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Lioness: Hidden Treasures",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 213586
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Lioness: Hidden Treasures",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 248093
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Lioness: Hidden Treasures",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 262813
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Lioness: Hidden Treasures",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 278000
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Lioness: Hidden Treasures",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 239906
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Lioness: Hidden Treasures",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 166960
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Lioness: Hidden Treasures",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 230853
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Lioness: Hidden Treasures",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 264266
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Lioness: Hidden Treasures",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 176293
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Lioness: Hidden Treasures",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 198813
+    }
+  }, {
+    "added_at" : "2019-01-22T18:01:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Lioness: Hidden Treasures",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 269373
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Labor Days",
+        "release_date" : "2001-09-18"
+      },
+      "duration_ms" : 152826
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Labor Days",
+        "release_date" : "2001-09-18"
+      },
+      "duration_ms" : 266106
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Labor Days",
+        "release_date" : "2001-09-18"
+      },
+      "duration_ms" : 299600
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Labor Days",
+        "release_date" : "2001-09-18"
+      },
+      "duration_ms" : 234466
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Labor Days",
+        "release_date" : "2001-09-18"
+      },
+      "duration_ms" : 271200
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Labor Days",
+        "release_date" : "2001-09-18"
+      },
+      "duration_ms" : 272200
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Labor Days",
+        "release_date" : "2001-09-18"
+      },
+      "duration_ms" : 226626
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Labor Days",
+        "release_date" : "2001-09-18"
+      },
+      "duration_ms" : 236600
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Labor Days",
+        "release_date" : "2001-09-18"
+      },
+      "duration_ms" : 307000
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Labor Days",
+        "release_date" : "2001-09-18"
+      },
+      "duration_ms" : 305306
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Labor Days",
+        "release_date" : "2001-09-18"
+      },
+      "duration_ms" : 289560
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Labor Days",
+        "release_date" : "2001-09-18"
+      },
+      "duration_ms" : 244640
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Labor Days",
+        "release_date" : "2001-09-18"
+      },
+      "duration_ms" : 278626
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:34Z",
+    "track" : {
+      "album" : {
+        "name" : "Labor Days",
+        "release_date" : "2001-09-18"
+      },
+      "duration_ms" : 285640
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 225146
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 243626
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 247680
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 269880
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 300066
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 195160
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 255560
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 238613
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 293413
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 233066
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 246760
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 268800
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 238986
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 574040
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:41Z",
+    "track" : {
+      "album" : {
+        "name" : "None Shall Pass (Bonus Edition)",
+        "release_date" : "2007-08-28"
+      },
+      "duration_ms" : 1414980
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 283813
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 255453
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 240773
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 201386
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 208826
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 153746
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 259533
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 150160
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 203466
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 238546
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 166013
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 218840
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 217146
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 281320
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 238120
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 239795
+    }
+  }, {
+    "added_at" : "2019-01-24T22:41:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Skelethon [Deluxe Version]",
+        "release_date" : "2012-07-10"
+      },
+      "duration_ms" : 214806
+    }
+  }, {
+    "added_at" : "2019-01-25T11:39:42Z",
+    "track" : {
+      "album" : {
+        "name" : "How It Ends",
+        "release_date" : "2019-01-25"
+      },
+      "duration_ms" : 215647
+    }
+  }, {
+    "added_at" : "2019-01-25T11:39:42Z",
+    "track" : {
+      "album" : {
+        "name" : "How It Ends",
+        "release_date" : "2019-01-25"
+      },
+      "duration_ms" : 237691
+    }
+  }, {
+    "added_at" : "2019-01-25T11:39:42Z",
+    "track" : {
+      "album" : {
+        "name" : "How It Ends",
+        "release_date" : "2019-01-25"
+      },
+      "duration_ms" : 302991
+    }
+  }, {
+    "added_at" : "2019-01-25T11:39:42Z",
+    "track" : {
+      "album" : {
+        "name" : "How It Ends",
+        "release_date" : "2019-01-25"
+      },
+      "duration_ms" : 241417
+    }
+  }, {
+    "added_at" : "2019-01-25T11:39:42Z",
+    "track" : {
+      "album" : {
+        "name" : "How It Ends",
+        "release_date" : "2019-01-25"
+      },
+      "duration_ms" : 225100
+    }
+  }, {
+    "added_at" : "2019-01-29T20:35:49Z",
+    "track" : {
+      "album" : {
+        "name" : "Kaleido",
+        "release_date" : "2018-12-14"
+      },
+      "duration_ms" : 200087
+    }
+  }, {
+    "added_at" : "2019-01-29T20:35:52Z",
+    "track" : {
+      "album" : {
+        "name" : "Mira",
+        "release_date" : "2018-08-11"
+      },
+      "duration_ms" : 147867
+    }
+  }, {
+    "added_at" : "2019-01-29T20:35:55Z",
+    "track" : {
+      "album" : {
+        "name" : "Echo End",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 217333
+    }
+  }, {
+    "added_at" : "2019-01-29T20:36:00Z",
+    "track" : {
+      "album" : {
+        "name" : "Lux",
+        "release_date" : "2017-05-20"
+      },
+      "duration_ms" : 192874
+    }
+  }, {
+    "added_at" : "2019-01-29T20:36:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Origami",
+        "release_date" : "2017-02-17"
+      },
+      "duration_ms" : 242129
+    }
+  }, {
+    "added_at" : "2019-01-29T20:36:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Self Spiral",
+        "release_date" : "2016-08-19"
+      },
+      "duration_ms" : 102474
+    }
+  }, {
+    "added_at" : "2019-02-04T10:15:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Astronoid",
+        "release_date" : "2019-02-01"
+      },
+      "duration_ms" : 321373
+    }
+  }, {
+    "added_at" : "2019-02-04T10:15:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Astronoid",
+        "release_date" : "2019-02-01"
+      },
+      "duration_ms" : 290840
+    }
+  }, {
+    "added_at" : "2019-02-04T10:15:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Astronoid",
+        "release_date" : "2019-02-01"
+      },
+      "duration_ms" : 380040
+    }
+  }, {
+    "added_at" : "2019-02-04T10:15:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Astronoid",
+        "release_date" : "2019-02-01"
+      },
+      "duration_ms" : 334000
+    }
+  } ]
+}

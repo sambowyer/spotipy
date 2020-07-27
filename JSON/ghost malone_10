@@ -1,0 +1,48 @@
+{
+  "items" : [ {
+    "added_at" : "2018-10-02T17:38:35Z",
+    "track" : {
+      "album" : {
+        "name" : "Pocket Change",
+        "release_date" : "2018-09-28"
+      },
+      "duration_ms" : 161465
+    }
+  }, {
+    "added_at" : "2018-10-02T17:38:35Z",
+    "track" : {
+      "album" : {
+        "name" : "Pocket Change",
+        "release_date" : "2018-09-28"
+      },
+      "duration_ms" : 226673
+    }
+  }, {
+    "added_at" : "2018-10-02T17:38:35Z",
+    "track" : {
+      "album" : {
+        "name" : "Pocket Change",
+        "release_date" : "2018-09-28"
+      },
+      "duration_ms" : 161600
+    }
+  }, {
+    "added_at" : "2018-10-02T17:38:35Z",
+    "track" : {
+      "album" : {
+        "name" : "Pocket Change",
+        "release_date" : "2018-09-28"
+      },
+      "duration_ms" : 58918
+    }
+  }, {
+    "added_at" : "2018-10-02T17:38:35Z",
+    "track" : {
+      "album" : {
+        "name" : "Pocket Change",
+        "release_date" : "2018-09-28"
+      },
+      "duration_ms" : 100505
+    }
+  } ]
+}

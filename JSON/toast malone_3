@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2018-04-05T14:55:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Steve McQueen",
+        "release_date" : "1985-02-01"
+      },
+      "duration_ms" : 222773
+    }
+  }, {
+    "added_at" : "2018-04-05T14:55:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Steve McQueen",
+        "release_date" : "1985-02-01"
+      },
+      "duration_ms" : 226666
+    }
+  }, {
+    "added_at" : "2018-04-05T14:55:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Steve McQueen",
+        "release_date" : "1985-02-01"
+      },
+      "duration_ms" : 239146
+    }
+  }, {
+    "added_at" : "2018-04-05T14:55:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Steve McQueen",
+        "release_date" : "1985-02-01"
+      },
+      "duration_ms" : 245653
+    }
+  }, {
+    "added_at" : "2018-04-05T14:55:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Steve McQueen",
+        "release_date" : "1985-02-01"
+      },
+      "duration_ms" : 268226
+    }
+  }, {
+    "added_at" : "2018-04-05T14:55:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Steve McQueen",
+        "release_date" : "1985-02-01"
+      },
+      "duration_ms" : 258666
+    }
+  }, {
+    "added_at" : "2018-04-05T14:55:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Steve McQueen",
+        "release_date" : "1985-02-01"
+      },
+      "duration_ms" : 236760
+    }
+  }, {
+    "added_at" : "2018-04-05T14:55:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Steve McQueen",
+        "release_date" : "1985-02-01"
+      },
+      "duration_ms" : 277440
+    }
+  }, {
+    "added_at" : "2018-04-05T14:55:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Steve McQueen",
+        "release_date" : "1985-02-01"
+      },
+      "duration_ms" : 319280
+    }
+  }, {
+    "added_at" : "2018-04-05T14:55:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Steve McQueen",
+        "release_date" : "1985-02-01"
+      },
+      "duration_ms" : 145160
+    }
+  }, {
+    "added_at" : "2018-04-05T14:55:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Steve McQueen",
+        "release_date" : "1985-02-01"
+      },
+      "duration_ms" : 266160
+    }
+  }, {
+    "added_at" : "2018-04-05T15:04:23Z",
+    "track" : {
+      "album" : {
+        "name" : "August And Everything After",
+        "release_date" : "1993-01-01"
+      },
+      "duration_ms" : 331226
+    }
+  }, {
+    "added_at" : "2018-04-05T15:04:23Z",
+    "track" : {
+      "album" : {
+        "name" : "August And Everything After",
+        "release_date" : "1993-01-01"
+      },
+      "duration_ms" : 219400
+    }
+  }, {
+    "added_at" : "2018-04-05T15:04:23Z",
+    "track" : {
+      "album" : {
+        "name" : "August And Everything After",
+        "release_date" : "1993-01-01"
+      },
+      "duration_ms" : 272506
+    }
+  }, {
+    "added_at" : "2018-04-05T15:04:23Z",
+    "track" : {
+      "album" : {
+        "name" : "August And Everything After",
+        "release_date" : "1993-01-01"
+      },
+      "duration_ms" : 300893
+    }
+  }, {
+    "added_at" : "2018-04-05T15:04:23Z",
+    "track" : {
+      "album" : {
+        "name" : "August And Everything After",
+        "release_date" : "1993-01-01"
+      },
+      "duration_ms" : 271173
+    }
+  }, {
+    "added_at" : "2018-04-05T15:04:23Z",
+    "track" : {
+      "album" : {
+        "name" : "August And Everything After",
+        "release_date" : "1993-01-01"
+      },
+      "duration_ms" : 314733
+    }
+  }, {
+    "added_at" : "2018-04-05T15:04:23Z",
+    "track" : {
+      "album" : {
+        "name" : "August And Everything After",
+        "release_date" : "1993-01-01"
+      },
+      "duration_ms" : 255693
+    }
+  }, {
+    "added_at" : "2018-04-05T15:04:23Z",
+    "track" : {
+      "album" : {
+        "name" : "August And Everything After",
+        "release_date" : "1993-01-01"
+      },
+      "duration_ms" : 269506
+    }
+  }, {
+    "added_at" : "2018-04-05T15:04:23Z",
+    "track" : {
+      "album" : {
+        "name" : "August And Everything After",
+        "release_date" : "1993-01-01"
+      },
+      "duration_ms" : 243066
+    }
+  }, {
+    "added_at" : "2018-04-05T15:04:23Z",
+    "track" : {
+      "album" : {
+        "name" : "August And Everything After",
+        "release_date" : "1993-01-01"
+      },
+      "duration_ms" : 281600
+    }
+  }, {
+    "added_at" : "2018-04-05T15:04:23Z",
+    "track" : {
+      "album" : {
+        "name" : "August And Everything After",
+        "release_date" : "1993-01-01"
+      },
+      "duration_ms" : 345800
+    }
+  }, {
+    "added_at" : "2018-04-05T21:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Back In The High Life",
+        "release_date" : "1986-01-01"
+      },
+      "duration_ms" : 351506
+    }
+  }, {
+    "added_at" : "2018-04-05T21:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Back In The High Life",
+        "release_date" : "1986-01-01"
+      },
+      "duration_ms" : 324160
+    }
+  }, {
+    "added_at" : "2018-04-05T21:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Back In The High Life",
+        "release_date" : "1986-01-01"
+      },
+      "duration_ms" : 337333
+    }
+  }, {
+    "added_at" : "2018-04-05T21:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Back In The High Life",
+        "release_date" : "1986-01-01"
+      },
+      "duration_ms" : 335840
+    }
+  }, {
+    "added_at" : "2018-04-05T21:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Back In The High Life",
+        "release_date" : "1986-01-01"
+      },
+      "duration_ms" : 349666
+    }
+  }, {
+    "added_at" : "2018-04-05T21:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Back In The High Life",
+        "release_date" : "1986-01-01"
+      },
+      "duration_ms" : 352333
+    }
+  }, {
+    "added_at" : "2018-04-05T21:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Back In The High Life",
+        "release_date" : "1986-01-01"
+      },
+      "duration_ms" : 360826
+    }
+  }, {
+    "added_at" : "2018-04-05T21:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "Back In The High Life",
+        "release_date" : "1986-01-01"
+      },
+      "duration_ms" : 320733
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Change Everything",
+        "release_date" : "1992-01-01"
+      },
+      "duration_ms" : 209533
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Change Everything",
+        "release_date" : "1992-01-01"
+      },
+      "duration_ms" : 303333
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Change Everything",
+        "release_date" : "1992-01-01"
+      },
+      "duration_ms" : 239040
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Change Everything",
+        "release_date" : "1992-01-01"
+      },
+      "duration_ms" : 314293
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Change Everything",
+        "release_date" : "1992-01-01"
+      },
+      "duration_ms" : 234733
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Change Everything",
+        "release_date" : "1992-01-01"
+      },
+      "duration_ms" : 240106
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Change Everything",
+        "release_date" : "1992-01-01"
+      },
+      "duration_ms" : 191826
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Change Everything",
+        "release_date" : "1992-01-01"
+      },
+      "duration_ms" : 260013
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Change Everything",
+        "release_date" : "1992-01-01"
+      },
+      "duration_ms" : 248040
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Change Everything",
+        "release_date" : "1992-01-01"
+      },
+      "duration_ms" : 263626
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Change Everything",
+        "release_date" : "1992-01-01"
+      },
+      "duration_ms" : 198466
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Change Everything",
+        "release_date" : "1992-01-01"
+      },
+      "duration_ms" : 352933
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Waking Hours",
+        "release_date" : "1989-01-01"
+      },
+      "duration_ms" : 275026
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Waking Hours",
+        "release_date" : "1989-01-01"
+      },
+      "duration_ms" : 292600
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Waking Hours",
+        "release_date" : "1989-01-01"
+      },
+      "duration_ms" : 227626
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Waking Hours",
+        "release_date" : "1989-01-01"
+      },
+      "duration_ms" : 297200
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Waking Hours",
+        "release_date" : "1989-01-01"
+      },
+      "duration_ms" : 307733
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Waking Hours",
+        "release_date" : "1989-01-01"
+      },
+      "duration_ms" : 272426
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Waking Hours",
+        "release_date" : "1989-01-01"
+      },
+      "duration_ms" : 260040
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Waking Hours",
+        "release_date" : "1989-01-01"
+      },
+      "duration_ms" : 278293
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Waking Hours",
+        "release_date" : "1989-01-01"
+      },
+      "duration_ms" : 300746
+    }
+  }, {
+    "added_at" : "2018-04-05T21:04:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Waking Hours",
+        "release_date" : "1989-01-01"
+      },
+      "duration_ms" : 233200
+    }
+  }, {
+    "added_at" : "2018-04-07T08:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Inside In / Inside Out",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 99226
+    }
+  }, {
+    "added_at" : "2018-04-07T08:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Inside In / Inside Out",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 158346
+    }
+  }, {
+    "added_at" : "2018-04-07T08:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Inside In / Inside Out",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 133253
+    }
+  }, {
+    "added_at" : "2018-04-07T08:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Inside In / Inside Out",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 133120
+    }
+  }, {
+    "added_at" : "2018-04-07T08:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Inside In / Inside Out",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 208973
+    }
+  }, {
+    "added_at" : "2018-04-07T08:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Inside In / Inside Out",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 155146
+    }
+  }, {
+    "added_at" : "2018-04-07T08:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Inside In / Inside Out",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 169306
+    }
+  }, {
+    "added_at" : "2018-04-07T08:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Inside In / Inside Out",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 189567
+    }
+  }, {
+    "added_at" : "2018-04-07T08:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Inside In / Inside Out",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 203506
+    }
+  }, {
+    "added_at" : "2018-04-07T08:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Inside In / Inside Out",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 206932
+    }
+  }, {
+    "added_at" : "2018-04-07T08:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Inside In / Inside Out",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 121213
+    }
+  }, {
+    "added_at" : "2018-04-07T08:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Inside In / Inside Out",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 152586
+    }
+  }, {
+    "added_at" : "2018-04-07T08:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Inside In / Inside Out",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 308813
+    }
+  }, {
+    "added_at" : "2018-04-07T08:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Inside In / Inside Out",
+        "release_date" : "2006-01-01"
+      },
+      "duration_ms" : 217866
+    }
+  }, {
+    "added_at" : "2018-04-06T10:55:00Z",
+    "track" : {
+      "album" : {
+        "name" : "Sex & Food",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 41000
+    }
+  }, {
+    "added_at" : "2018-04-06T10:55:00Z",
+    "track" : {
+      "album" : {
+        "name" : "Sex & Food",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 233280
+    }
+  }, {
+    "added_at" : "2018-04-06T10:55:00Z",
+    "track" : {
+      "album" : {
+        "name" : "Sex & Food",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 222640
+    }
+  }, {
+    "added_at" : "2018-04-06T10:55:00Z",
+    "track" : {
+      "album" : {
+        "name" : "Sex & Food",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 268333
+    }
+  }, {
+    "added_at" : "2018-04-06T10:55:00Z",
+    "track" : {
+      "album" : {
+        "name" : "Sex & Food",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 101702
+    }
+  }, {
+    "added_at" : "2018-04-06T10:55:00Z",
+    "track" : {
+      "album" : {
+        "name" : "Sex & Food",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 273137
+    }
+  }, {
+    "added_at" : "2018-04-06T10:55:00Z",
+    "track" : {
+      "album" : {
+        "name" : "Sex & Food",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 296893
+    }
+  }, {
+    "added_at" : "2018-04-06T10:55:00Z",
+    "track" : {
+      "album" : {
+        "name" : "Sex & Food",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 254973
+    }
+  }, {
+    "added_at" : "2018-04-06T10:55:00Z",
+    "track" : {
+      "album" : {
+        "name" : "Sex & Food",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 211546
+    }
+  }, {
+    "added_at" : "2018-04-06T10:55:00Z",
+    "track" : {
+      "album" : {
+        "name" : "Sex & Food",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 205173
+    }
+  }, {
+    "added_at" : "2018-04-06T10:55:00Z",
+    "track" : {
+      "album" : {
+        "name" : "Sex & Food",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 217986
+    }
+  }, {
+    "added_at" : "2018-04-06T10:55:00Z",
+    "track" : {
+      "album" : {
+        "name" : "Sex & Food",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 277591
+    }
+  }, {
+    "added_at" : "2018-04-06T12:23:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 263253
+    }
+  }, {
+    "added_at" : "2018-04-06T12:23:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 259586
+    }
+  }, {
+    "added_at" : "2018-04-06T12:23:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 205453
+    }
+  }, {
+    "added_at" : "2018-04-06T12:23:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 177546
+    }
+  }, {
+    "added_at" : "2018-04-06T12:23:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 283640
+    }
+  }, {
+    "added_at" : "2018-04-06T12:23:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 198653
+    }
+  }, {
+    "added_at" : "2018-04-06T12:23:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 348840
+    }
+  }, {
+    "added_at" : "2018-04-06T12:23:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 324906
+    }
+  }, {
+    "added_at" : "2018-04-06T12:23:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 415186
+    }
+  }, {
+    "added_at" : "2018-04-06T12:23:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 243160
+    }
+  }, {
+    "added_at" : "2018-04-06T12:23:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 207680
+    }
+  }, {
+    "added_at" : "2018-04-06T12:23:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 227760
+    }
+  }, {
+    "added_at" : "2018-04-06T12:23:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 247386
+    }
+  }, {
+    "added_at" : "2018-04-06T11:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Czarface Meets Metal Face",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 52140
+    }
+  }, {
+    "added_at" : "2018-04-06T11:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Czarface Meets Metal Face",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 206812
+    }
+  }, {
+    "added_at" : "2018-04-06T11:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Czarface Meets Metal Face",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 176896
+    }
+  }, {
+    "added_at" : "2018-04-06T11:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Czarface Meets Metal Face",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 50714
+    }
+  }, {
+    "added_at" : "2018-04-06T11:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Czarface Meets Metal Face",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 200383
+    }
+  }, {
+    "added_at" : "2018-04-06T11:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Czarface Meets Metal Face",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 237512
+    }
+  }, {
+    "added_at" : "2018-04-06T11:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Czarface Meets Metal Face",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 99135
+    }
+  }, {
+    "added_at" : "2018-04-06T11:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Czarface Meets Metal Face",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 259415
+    }
+  }, {
+    "added_at" : "2018-04-06T11:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Czarface Meets Metal Face",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 272244
+    }
+  } ]
+}

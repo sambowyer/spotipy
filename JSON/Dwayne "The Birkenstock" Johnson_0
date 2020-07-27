@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2020-01-18T12:35:54Z",
+    "track" : {
+      "album" : {
+        "name" : "This Is Happening",
+        "release_date" : "2010-05-17"
+      },
+      "duration_ms" : 536471
+    }
+  }, {
+    "added_at" : "2020-01-18T12:35:54Z",
+    "track" : {
+      "album" : {
+        "name" : "This Is Happening",
+        "release_date" : "2010-05-17"
+      },
+      "duration_ms" : 222106
+    }
+  }, {
+    "added_at" : "2020-01-18T12:35:54Z",
+    "track" : {
+      "album" : {
+        "name" : "This Is Happening",
+        "release_date" : "2010-05-17"
+      },
+      "duration_ms" : 465680
+    }
+  }, {
+    "added_at" : "2020-01-18T12:35:54Z",
+    "track" : {
+      "album" : {
+        "name" : "This Is Happening",
+        "release_date" : "2010-05-17"
+      },
+      "duration_ms" : 401440
+    }
+  }, {
+    "added_at" : "2020-01-18T12:35:54Z",
+    "track" : {
+      "album" : {
+        "name" : "This Is Happening",
+        "release_date" : "2010-05-17"
+      },
+      "duration_ms" : 352003
+    }
+  }, {
+    "added_at" : "2020-01-18T12:35:54Z",
+    "track" : {
+      "album" : {
+        "name" : "This Is Happening",
+        "release_date" : "2010-05-17"
+      },
+      "duration_ms" : 546413
+    }
+  }, {
+    "added_at" : "2020-01-18T12:35:54Z",
+    "track" : {
+      "album" : {
+        "name" : "This Is Happening",
+        "release_date" : "2010-05-17"
+      },
+      "duration_ms" : 503026
+    }
+  }, {
+    "added_at" : "2020-01-18T12:35:54Z",
+    "track" : {
+      "album" : {
+        "name" : "This Is Happening",
+        "release_date" : "2010-05-17"
+      },
+      "duration_ms" : 413080
+    }
+  }, {
+    "added_at" : "2020-01-18T12:35:54Z",
+    "track" : {
+      "album" : {
+        "name" : "This Is Happening",
+        "release_date" : "2010-05-17"
+      },
+      "duration_ms" : 473333
+    }
+  }, {
+    "added_at" : "2020-01-20T15:02:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Everything Else Has Gone Wrong",
+        "release_date" : "2020-01-17"
+      },
+      "duration_ms" : 153840
+    }
+  }, {
+    "added_at" : "2020-01-20T15:02:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Everything Else Has Gone Wrong",
+        "release_date" : "2020-01-17"
+      },
+      "duration_ms" : 185800
+    }
+  }, {
+    "added_at" : "2020-01-20T15:02:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Everything Else Has Gone Wrong",
+        "release_date" : "2020-01-17"
+      },
+      "duration_ms" : 249760
+    }
+  }, {
+    "added_at" : "2020-01-20T15:02:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Everything Else Has Gone Wrong",
+        "release_date" : "2020-01-17"
+      },
+      "duration_ms" : 239026
+    }
+  }, {
+    "added_at" : "2020-01-20T15:02:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Everything Else Has Gone Wrong",
+        "release_date" : "2020-01-17"
+      },
+      "duration_ms" : 232080
+    }
+  }, {
+    "added_at" : "2020-01-20T15:02:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Everything Else Has Gone Wrong",
+        "release_date" : "2020-01-17"
+      },
+      "duration_ms" : 219893
+    }
+  }, {
+    "added_at" : "2020-01-20T15:02:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Everything Else Has Gone Wrong",
+        "release_date" : "2020-01-17"
+      },
+      "duration_ms" : 220786
+    }
+  }, {
+    "added_at" : "2020-01-20T15:02:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Everything Else Has Gone Wrong",
+        "release_date" : "2020-01-17"
+      },
+      "duration_ms" : 207013
+    }
+  }, {
+    "added_at" : "2020-01-20T15:02:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Everything Else Has Gone Wrong",
+        "release_date" : "2020-01-17"
+      },
+      "duration_ms" : 262613
+    }
+  }, {
+    "added_at" : "2020-01-20T15:02:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Everything Else Has Gone Wrong",
+        "release_date" : "2020-01-17"
+      },
+      "duration_ms" : 288053
+    }
+  }, {
+    "added_at" : "2020-01-20T15:02:53Z",
+    "track" : {
+      "album" : {
+        "name" : "Everything Else Has Gone Wrong",
+        "release_date" : "2020-01-17"
+      },
+      "duration_ms" : 246506
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:37Z",
+    "track" : {
+      "album" : {
+        "name" : "The Rise of Hobo Johnson",
+        "release_date" : "2017-11-07"
+      },
+      "duration_ms" : 157619
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:37Z",
+    "track" : {
+      "album" : {
+        "name" : "The Rise of Hobo Johnson",
+        "release_date" : "2017-11-07"
+      },
+      "duration_ms" : 150731
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:37Z",
+    "track" : {
+      "album" : {
+        "name" : "The Rise of Hobo Johnson",
+        "release_date" : "2017-11-07"
+      },
+      "duration_ms" : 154615
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:37Z",
+    "track" : {
+      "album" : {
+        "name" : "The Rise of Hobo Johnson",
+        "release_date" : "2017-11-07"
+      },
+      "duration_ms" : 78717
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:37Z",
+    "track" : {
+      "album" : {
+        "name" : "The Rise of Hobo Johnson",
+        "release_date" : "2017-11-07"
+      },
+      "duration_ms" : 140524
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:37Z",
+    "track" : {
+      "album" : {
+        "name" : "The Rise of Hobo Johnson",
+        "release_date" : "2017-11-07"
+      },
+      "duration_ms" : 202284
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:37Z",
+    "track" : {
+      "album" : {
+        "name" : "The Rise of Hobo Johnson",
+        "release_date" : "2017-11-07"
+      },
+      "duration_ms" : 196056
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:37Z",
+    "track" : {
+      "album" : {
+        "name" : "The Rise of Hobo Johnson",
+        "release_date" : "2017-11-07"
+      },
+      "duration_ms" : 217848
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:37Z",
+    "track" : {
+      "album" : {
+        "name" : "The Rise of Hobo Johnson",
+        "release_date" : "2017-11-07"
+      },
+      "duration_ms" : 132334
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:37Z",
+    "track" : {
+      "album" : {
+        "name" : "The Rise of Hobo Johnson",
+        "release_date" : "2017-11-07"
+      },
+      "duration_ms" : 244907
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:38Z",
+    "track" : {
+      "album" : {
+        "name" : "The Fall of Hobo Johnson",
+        "release_date" : "2019-09-13"
+      },
+      "duration_ms" : 191068
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:38Z",
+    "track" : {
+      "album" : {
+        "name" : "The Fall of Hobo Johnson",
+        "release_date" : "2019-09-13"
+      },
+      "duration_ms" : 215803
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:38Z",
+    "track" : {
+      "album" : {
+        "name" : "The Fall of Hobo Johnson",
+        "release_date" : "2019-09-13"
+      },
+      "duration_ms" : 180522
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:38Z",
+    "track" : {
+      "album" : {
+        "name" : "The Fall of Hobo Johnson",
+        "release_date" : "2019-09-13"
+      },
+      "duration_ms" : 241879
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:38Z",
+    "track" : {
+      "album" : {
+        "name" : "The Fall of Hobo Johnson",
+        "release_date" : "2019-09-13"
+      },
+      "duration_ms" : 154932
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:38Z",
+    "track" : {
+      "album" : {
+        "name" : "The Fall of Hobo Johnson",
+        "release_date" : "2019-09-13"
+      },
+      "duration_ms" : 167914
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:38Z",
+    "track" : {
+      "album" : {
+        "name" : "The Fall of Hobo Johnson",
+        "release_date" : "2019-09-13"
+      },
+      "duration_ms" : 196097
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:38Z",
+    "track" : {
+      "album" : {
+        "name" : "The Fall of Hobo Johnson",
+        "release_date" : "2019-09-13"
+      },
+      "duration_ms" : 195619
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:38Z",
+    "track" : {
+      "album" : {
+        "name" : "The Fall of Hobo Johnson",
+        "release_date" : "2019-09-13"
+      },
+      "duration_ms" : 224773
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:38Z",
+    "track" : {
+      "album" : {
+        "name" : "The Fall of Hobo Johnson",
+        "release_date" : "2019-09-13"
+      },
+      "duration_ms" : 109056
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:38Z",
+    "track" : {
+      "album" : {
+        "name" : "The Fall of Hobo Johnson",
+        "release_date" : "2019-09-13"
+      },
+      "duration_ms" : 226401
+    }
+  }, {
+    "added_at" : "2020-01-20T15:12:38Z",
+    "track" : {
+      "album" : {
+        "name" : "The Fall of Hobo Johnson",
+        "release_date" : "2019-09-13"
+      },
+      "duration_ms" : 149743
+    }
+  }, {
+    "added_at" : "2020-01-27T18:43:15Z",
+    "track" : {
+      "album" : {
+        "name" : "00959525",
+        "release_date" : "2020-01-03"
+      },
+      "duration_ms" : 253520
+    }
+  }, {
+    "added_at" : "2020-01-27T18:43:15Z",
+    "track" : {
+      "album" : {
+        "name" : "00959525",
+        "release_date" : "2020-01-03"
+      },
+      "duration_ms" : 183786
+    }
+  }, {
+    "added_at" : "2020-01-27T18:43:15Z",
+    "track" : {
+      "album" : {
+        "name" : "00959525",
+        "release_date" : "2020-01-03"
+      },
+      "duration_ms" : 294986
+    }
+  }, {
+    "added_at" : "2020-01-27T18:43:15Z",
+    "track" : {
+      "album" : {
+        "name" : "00959525",
+        "release_date" : "2020-01-03"
+      },
+      "duration_ms" : 257133
+    }
+  }, {
+    "added_at" : "2020-01-27T18:43:15Z",
+    "track" : {
+      "album" : {
+        "name" : "00959525",
+        "release_date" : "2020-01-03"
+      },
+      "duration_ms" : 322373
+    }
+  }, {
+    "added_at" : "2020-01-27T18:43:15Z",
+    "track" : {
+      "album" : {
+        "name" : "00959525",
+        "release_date" : "2020-01-03"
+      },
+      "duration_ms" : 262760
+    }
+  }, {
+    "added_at" : "2020-01-29T12:01:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Lyrics to Go, Vol. 1",
+        "release_date" : "2020-01-20"
+      },
+      "duration_ms" : 107403
+    }
+  }, {
+    "added_at" : "2020-01-29T12:01:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Lyrics to Go, Vol. 1",
+        "release_date" : "2020-01-20"
+      },
+      "duration_ms" : 71368
+    }
+  }, {
+    "added_at" : "2020-01-29T12:01:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Lyrics to Go, Vol. 1",
+        "release_date" : "2020-01-20"
+      },
+      "duration_ms" : 84000
+    }
+  }, {
+    "added_at" : "2020-01-29T12:01:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Lyrics to Go, Vol. 1",
+        "release_date" : "2020-01-20"
+      },
+      "duration_ms" : 106666
+    }
+  }, {
+    "added_at" : "2020-01-29T12:01:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Lyrics to Go, Vol. 1",
+        "release_date" : "2020-01-20"
+      },
+      "duration_ms" : 68142
+    }
+  }, {
+    "added_at" : "2020-01-29T12:01:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Lyrics to Go, Vol. 1",
+        "release_date" : "2020-01-20"
+      },
+      "duration_ms" : 85333
+    }
+  }, {
+    "added_at" : "2020-01-29T12:01:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Lyrics to Go, Vol. 1",
+        "release_date" : "2020-01-20"
+      },
+      "duration_ms" : 98181
+    }
+  }, {
+    "added_at" : "2020-01-29T12:01:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Lyrics to Go, Vol. 1",
+        "release_date" : "2020-01-20"
+      },
+      "duration_ms" : 68000
+    }
+  }, {
+    "added_at" : "2020-01-29T12:01:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Lyrics to Go, Vol. 1",
+        "release_date" : "2020-01-20"
+      },
+      "duration_ms" : 74666
+    }
+  }, {
+    "added_at" : "2020-01-29T12:01:29Z",
+    "track" : {
+      "album" : {
+        "name" : "Lyrics to Go, Vol. 1",
+        "release_date" : "2020-01-20"
+      },
+      "duration_ms" : 108000
+    }
+  }, {
+    "added_at" : "2020-01-29T15:36:20Z",
+    "track" : {
+      "album" : {
+        "name" : "En Garde",
+        "release_date" : "2020-01-24"
+      },
+      "duration_ms" : 243987
+    }
+  }, {
+    "added_at" : "2020-01-29T15:36:20Z",
+    "track" : {
+      "album" : {
+        "name" : "En Garde",
+        "release_date" : "2020-01-24"
+      },
+      "duration_ms" : 173778
+    }
+  }, {
+    "added_at" : "2020-01-29T15:36:20Z",
+    "track" : {
+      "album" : {
+        "name" : "En Garde",
+        "release_date" : "2020-01-24"
+      },
+      "duration_ms" : 189215
+    }
+  }, {
+    "added_at" : "2020-01-29T15:36:20Z",
+    "track" : {
+      "album" : {
+        "name" : "En Garde",
+        "release_date" : "2020-01-24"
+      },
+      "duration_ms" : 196394
+    }
+  }, {
+    "added_at" : "2020-01-29T15:36:20Z",
+    "track" : {
+      "album" : {
+        "name" : "En Garde",
+        "release_date" : "2020-01-24"
+      },
+      "duration_ms" : 195456
+    }
+  }, {
+    "added_at" : "2020-01-29T15:36:20Z",
+    "track" : {
+      "album" : {
+        "name" : "En Garde",
+        "release_date" : "2020-01-24"
+      },
+      "duration_ms" : 164858
+    }
+  }, {
+    "added_at" : "2020-01-29T15:36:20Z",
+    "track" : {
+      "album" : {
+        "name" : "En Garde",
+        "release_date" : "2020-01-24"
+      },
+      "duration_ms" : 170545
+    }
+  }, {
+    "added_at" : "2020-01-29T15:36:20Z",
+    "track" : {
+      "album" : {
+        "name" : "En Garde",
+        "release_date" : "2020-01-24"
+      },
+      "duration_ms" : 118751
+    }
+  }, {
+    "added_at" : "2020-01-29T15:36:20Z",
+    "track" : {
+      "album" : {
+        "name" : "En Garde",
+        "release_date" : "2020-01-24"
+      },
+      "duration_ms" : 134592
+    }
+  }, {
+    "added_at" : "2020-01-29T15:36:20Z",
+    "track" : {
+      "album" : {
+        "name" : "En Garde",
+        "release_date" : "2020-01-24"
+      },
+      "duration_ms" : 167353
+    }
+  }, {
+    "added_at" : "2020-01-29T15:36:20Z",
+    "track" : {
+      "album" : {
+        "name" : "En Garde",
+        "release_date" : "2020-01-24"
+      },
+      "duration_ms" : 164537
+    }
+  }, {
+    "added_at" : "2020-01-29T15:36:20Z",
+    "track" : {
+      "album" : {
+        "name" : "En Garde",
+        "release_date" : "2020-01-24"
+      },
+      "duration_ms" : 220175
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Harmless Melodies",
+        "release_date" : "2016-11-18"
+      },
+      "duration_ms" : 144937
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Harmless Melodies",
+        "release_date" : "2016-11-18"
+      },
+      "duration_ms" : 250633
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Harmless Melodies",
+        "release_date" : "2016-11-18"
+      },
+      "duration_ms" : 318147
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Harmless Melodies",
+        "release_date" : "2016-11-18"
+      },
+      "duration_ms" : 55654
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Harmless Melodies",
+        "release_date" : "2016-11-18"
+      },
+      "duration_ms" : 280074
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Harmless Melodies",
+        "release_date" : "2016-11-18"
+      },
+      "duration_ms" : 255247
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:22Z",
+    "track" : {
+      "album" : {
+        "name" : "Harmless Melodies",
+        "release_date" : "2016-11-18"
+      },
+      "duration_ms" : 233656
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Is Everything Okay In Your World?",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 133920
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Is Everything Okay In Your World?",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 268986
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Is Everything Okay In Your World?",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 220640
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Is Everything Okay In Your World?",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 277920
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Is Everything Okay In Your World?",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 239600
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Is Everything Okay In Your World?",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 348026
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Is Everything Okay In Your World?",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 335866
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Is Everything Okay In Your World?",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 278600
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Is Everything Okay In Your World?",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 254146
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Is Everything Okay In Your World?",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 246253
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Is Everything Okay In Your World?",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 327786
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Is Everything Okay In Your World?",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 255373
+    }
+  }, {
+    "added_at" : "2020-01-31T00:14:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Is Everything Okay In Your World?",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 292840
+    }
+  }, {
+    "added_at" : "2020-02-04T22:37:57Z",
+    "track" : {
+      "album" : {
+        "name" : "A Record",
+        "release_date" : "2010-04-13"
+      },
+      "duration_ms" : 136320
+    }
+  }, {
+    "added_at" : "2020-02-04T22:37:57Z",
+    "track" : {
+      "album" : {
+        "name" : "A Record",
+        "release_date" : "2010-04-13"
+      },
+      "duration_ms" : 198320
+    }
+  }, {
+    "added_at" : "2020-02-04T22:37:57Z",
+    "track" : {
+      "album" : {
+        "name" : "A Record",
+        "release_date" : "2010-04-13"
+      },
+      "duration_ms" : 111613
+    }
+  }, {
+    "added_at" : "2020-02-04T22:37:57Z",
+    "track" : {
+      "album" : {
+        "name" : "A Record",
+        "release_date" : "2010-04-13"
+      },
+      "duration_ms" : 240000
+    }
+  }, {
+    "added_at" : "2020-02-04T22:37:57Z",
+    "track" : {
+      "album" : {
+        "name" : "A Record",
+        "release_date" : "2010-04-13"
+      },
+      "duration_ms" : 188426
+    }
+  }, {
+    "added_at" : "2020-02-04T22:37:57Z",
+    "track" : {
+      "album" : {
+        "name" : "A Record",
+        "release_date" : "2010-04-13"
+      },
+      "duration_ms" : 178200
+    }
+  }, {
+    "added_at" : "2020-02-04T22:37:57Z",
+    "track" : {
+      "album" : {
+        "name" : "A Record",
+        "release_date" : "2010-04-13"
+      },
+      "duration_ms" : 22373
+    }
+  }, {
+    "added_at" : "2020-02-04T22:37:57Z",
+    "track" : {
+      "album" : {
+        "name" : "A Record",
+        "release_date" : "2010-04-13"
+      },
+      "duration_ms" : 307320
+    }
+  }, {
+    "added_at" : "2020-02-04T22:37:57Z",
+    "track" : {
+      "album" : {
+        "name" : "A Record",
+        "release_date" : "2010-04-13"
+      },
+      "duration_ms" : 180066
+    }
+  }, {
+    "added_at" : "2020-02-04T22:37:57Z",
+    "track" : {
+      "album" : {
+        "name" : "A Record",
+        "release_date" : "2010-04-13"
+      },
+      "duration_ms" : 168213
+    }
+  } ]
+}

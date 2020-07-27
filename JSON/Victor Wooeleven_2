@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2020-06-22T17:06:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Lamb of God",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 237008
+    }
+  }, {
+    "added_at" : "2020-06-22T17:06:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Lamb of God",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 270469
+    }
+  }, {
+    "added_at" : "2020-06-23T18:52:39Z",
+    "track" : {
+      "album" : {
+        "name" : "On Hold",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 173499
+    }
+  }, {
+    "added_at" : "2020-06-23T18:52:39Z",
+    "track" : {
+      "album" : {
+        "name" : "On Hold",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 212424
+    }
+  }, {
+    "added_at" : "2020-06-23T18:52:39Z",
+    "track" : {
+      "album" : {
+        "name" : "On Hold",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 216708
+    }
+  }, {
+    "added_at" : "2020-06-23T18:52:39Z",
+    "track" : {
+      "album" : {
+        "name" : "On Hold",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 263667
+    }
+  }, {
+    "added_at" : "2020-06-23T18:52:39Z",
+    "track" : {
+      "album" : {
+        "name" : "On Hold",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 221743
+    }
+  }, {
+    "added_at" : "2020-06-23T18:52:39Z",
+    "track" : {
+      "album" : {
+        "name" : "On Hold",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 158785
+    }
+  }, {
+    "added_at" : "2020-06-23T18:52:39Z",
+    "track" : {
+      "album" : {
+        "name" : "On Hold",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 216252
+    }
+  }, {
+    "added_at" : "2020-06-23T18:52:39Z",
+    "track" : {
+      "album" : {
+        "name" : "On Hold",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 215083
+    }
+  }, {
+    "added_at" : "2020-06-23T18:52:39Z",
+    "track" : {
+      "album" : {
+        "name" : "On Hold",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 170568
+    }
+  }, {
+    "added_at" : "2020-06-23T18:52:39Z",
+    "track" : {
+      "album" : {
+        "name" : "On Hold",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 234618
+    }
+  }, {
+    "added_at" : "2020-06-23T18:52:39Z",
+    "track" : {
+      "album" : {
+        "name" : "On Hold",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 144641
+    }
+  }, {
+    "added_at" : "2020-06-24T00:31:30Z",
+    "track" : {
+      "album" : {
+        "name" : "I Love You. It's a Fever Dream.",
+        "release_date" : "2019-04-19"
+      },
+      "duration_ms" : 269733
+    }
+  }, {
+    "added_at" : "2020-06-24T00:31:30Z",
+    "track" : {
+      "album" : {
+        "name" : "I Love You. It's a Fever Dream.",
+        "release_date" : "2019-04-19"
+      },
+      "duration_ms" : 311613
+    }
+  }, {
+    "added_at" : "2020-06-24T00:31:30Z",
+    "track" : {
+      "album" : {
+        "name" : "I Love You. It's a Fever Dream.",
+        "release_date" : "2019-04-19"
+      },
+      "duration_ms" : 201906
+    }
+  }, {
+    "added_at" : "2020-06-24T00:31:30Z",
+    "track" : {
+      "album" : {
+        "name" : "I Love You. It's a Fever Dream.",
+        "release_date" : "2019-04-19"
+      },
+      "duration_ms" : 222253
+    }
+  }, {
+    "added_at" : "2020-06-24T00:31:30Z",
+    "track" : {
+      "album" : {
+        "name" : "I Love You. It's a Fever Dream.",
+        "release_date" : "2019-04-19"
+      },
+      "duration_ms" : 208666
+    }
+  }, {
+    "added_at" : "2020-06-24T00:31:30Z",
+    "track" : {
+      "album" : {
+        "name" : "I Love You. It's a Fever Dream.",
+        "release_date" : "2019-04-19"
+      },
+      "duration_ms" : 261440
+    }
+  }, {
+    "added_at" : "2020-06-24T00:31:30Z",
+    "track" : {
+      "album" : {
+        "name" : "I Love You. It's a Fever Dream.",
+        "release_date" : "2019-04-19"
+      },
+      "duration_ms" : 235506
+    }
+  }, {
+    "added_at" : "2020-06-24T00:31:30Z",
+    "track" : {
+      "album" : {
+        "name" : "I Love You. It's a Fever Dream.",
+        "release_date" : "2019-04-19"
+      },
+      "duration_ms" : 232986
+    }
+  }, {
+    "added_at" : "2020-06-24T00:31:30Z",
+    "track" : {
+      "album" : {
+        "name" : "I Love You. It's a Fever Dream.",
+        "release_date" : "2019-04-19"
+      },
+      "duration_ms" : 225893
+    }
+  }, {
+    "added_at" : "2020-06-24T00:31:30Z",
+    "track" : {
+      "album" : {
+        "name" : "I Love You. It's a Fever Dream.",
+        "release_date" : "2019-04-19"
+      },
+      "duration_ms" : 218344
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 167670
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 249196
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 213045
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 257789
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 151720
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 152514
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 287163
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 331468
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 161274
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 182666
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 87730
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 159701
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 227447
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 128652
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 139488
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 237899
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 244538
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 281043
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 178016
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 144668
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 221713
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 198552
+    }
+  }, {
+    "added_at" : "2020-06-25T09:57:46Z",
+    "track" : {
+      "album" : {
+        "name" : "The Album",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 246503
+    }
+  }, {
+    "added_at" : "2020-06-26T07:27:40Z",
+    "track" : {
+      "album" : {
+        "name" : "A Portrait Of An Ugly Man",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 234186
+    }
+  }, {
+    "added_at" : "2020-06-26T07:27:40Z",
+    "track" : {
+      "album" : {
+        "name" : "A Portrait Of An Ugly Man",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 170520
+    }
+  }, {
+    "added_at" : "2020-06-26T07:27:40Z",
+    "track" : {
+      "album" : {
+        "name" : "A Portrait Of An Ugly Man",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 268493
+    }
+  }, {
+    "added_at" : "2020-06-26T07:27:40Z",
+    "track" : {
+      "album" : {
+        "name" : "A Portrait Of An Ugly Man",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 208333
+    }
+  }, {
+    "added_at" : "2020-06-26T07:27:40Z",
+    "track" : {
+      "album" : {
+        "name" : "A Portrait Of An Ugly Man",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 266573
+    }
+  }, {
+    "added_at" : "2020-06-26T07:27:40Z",
+    "track" : {
+      "album" : {
+        "name" : "A Portrait Of An Ugly Man",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 258666
+    }
+  }, {
+    "added_at" : "2020-06-26T07:27:40Z",
+    "track" : {
+      "album" : {
+        "name" : "A Portrait Of An Ugly Man",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 226346
+    }
+  }, {
+    "added_at" : "2020-06-26T07:27:40Z",
+    "track" : {
+      "album" : {
+        "name" : "A Portrait Of An Ugly Man",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 318360
+    }
+  }, {
+    "added_at" : "2020-06-26T07:27:40Z",
+    "track" : {
+      "album" : {
+        "name" : "A Portrait Of An Ugly Man",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 202080
+    }
+  }, {
+    "added_at" : "2020-06-26T07:27:40Z",
+    "track" : {
+      "album" : {
+        "name" : "A Portrait Of An Ugly Man",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 255240
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 200000
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 247600
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 226026
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 197413
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 193373
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 190133
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 201786
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 205466
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 201440
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 171360
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 126866
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 150893
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 193240
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 204280
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 190933
+    }
+  }, {
+    "added_at" : "2020-06-26T17:30:44Z",
+    "track" : {
+      "album" : {
+        "name" : "Women In Music Pt. III",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 205026
+    }
+  }, {
+    "added_at" : "2020-06-26T17:59:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Sweet Candy",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 218441
+    }
+  }, {
+    "added_at" : "2020-06-26T17:59:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Sweet Candy",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 91130
+    }
+  }, {
+    "added_at" : "2020-06-26T17:59:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Sweet Candy",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 92887
+    }
+  }, {
+    "added_at" : "2020-06-26T23:53:43Z",
+    "track" : {
+      "album" : {
+        "name" : "Disaffect, Pt. 1",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 270000
+    }
+  }, {
+    "added_at" : "2020-06-26T23:53:55Z",
+    "track" : {
+      "album" : {
+        "name" : "Feel Better",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 262966
+    }
+  }, {
+    "added_at" : "2020-06-26T23:53:55Z",
+    "track" : {
+      "album" : {
+        "name" : "Feel Better",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 302640
+    }
+  }, {
+    "added_at" : "2020-06-26T23:53:55Z",
+    "track" : {
+      "album" : {
+        "name" : "Feel Better",
+        "release_date" : "2020-06-26"
+      },
+      "duration_ms" : 233697
+    }
+  }, {
+    "added_at" : "2020-06-27T18:47:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Wicked City",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 209866
+    }
+  }, {
+    "added_at" : "2020-06-27T18:47:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Wicked City",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 230400
+    }
+  }, {
+    "added_at" : "2020-06-27T18:47:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Wicked City",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 197093
+    }
+  }, {
+    "added_at" : "2020-06-27T18:47:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Wicked City",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 283746
+    }
+  }, {
+    "added_at" : "2020-06-27T18:47:28Z",
+    "track" : {
+      "album" : {
+        "name" : "Wicked City",
+        "release_date" : "2020-06-19"
+      },
+      "duration_ms" : 326933
+    }
+  }, {
+    "added_at" : "2020-06-27T18:47:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is the Key to the City",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 190834
+    }
+  }, {
+    "added_at" : "2020-06-27T18:47:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is the Key to the City",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 186669
+    }
+  }, {
+    "added_at" : "2020-06-27T18:47:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is the Key to the City",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 248347
+    }
+  }, {
+    "added_at" : "2020-06-27T18:47:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is the Key to the City",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 216555
+    }
+  }, {
+    "added_at" : "2020-06-27T18:47:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is the Key to the City",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 258557
+    }
+  }, {
+    "added_at" : "2020-06-27T18:47:41Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is the Key to the City",
+        "release_date" : "2018-11-02"
+      },
+      "duration_ms" : 127979
+    }
+  }, {
+    "added_at" : "2020-06-28T23:49:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Ask Me Tomorrow",
+        "release_date" : "1995"
+      },
+      "duration_ms" : 348400
+    }
+  }, {
+    "added_at" : "2020-06-28T23:49:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Ask Me Tomorrow",
+        "release_date" : "1995"
+      },
+      "duration_ms" : 224200
+    }
+  }, {
+    "added_at" : "2020-06-28T23:49:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Ask Me Tomorrow",
+        "release_date" : "1995"
+      },
+      "duration_ms" : 337373
+    }
+  }, {
+    "added_at" : "2020-06-28T23:49:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Ask Me Tomorrow",
+        "release_date" : "1995"
+      },
+      "duration_ms" : 326933
+    }
+  }, {
+    "added_at" : "2020-06-28T23:49:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Ask Me Tomorrow",
+        "release_date" : "1995"
+      },
+      "duration_ms" : 186866
+    }
+  }, {
+    "added_at" : "2020-06-28T23:49:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Ask Me Tomorrow",
+        "release_date" : "1995"
+      },
+      "duration_ms" : 278026
+    }
+  }, {
+    "added_at" : "2020-06-28T23:49:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Ask Me Tomorrow",
+        "release_date" : "1995"
+      },
+      "duration_ms" : 213840
+    }
+  }, {
+    "added_at" : "2020-06-28T23:49:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Ask Me Tomorrow",
+        "release_date" : "1995"
+      },
+      "duration_ms" : 261933
+    }
+  }, {
+    "added_at" : "2020-06-28T23:49:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Ask Me Tomorrow",
+        "release_date" : "1995"
+      },
+      "duration_ms" : 296026
+    }
+  }, {
+    "added_at" : "2020-06-29T11:23:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Joshua Redman",
+        "release_date" : "1993"
+      },
+      "duration_ms" : 301506
+    }
+  } ]
+}

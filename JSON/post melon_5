@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2017-10-25T13:58:31Z",
+    "track" : {
+      "album" : {
+        "name" : "Bloom",
+        "release_date" : "2016-01-22"
+      },
+      "duration_ms" : 292044
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:31Z",
+    "track" : {
+      "album" : {
+        "name" : "Bloom",
+        "release_date" : "2016-01-22"
+      },
+      "duration_ms" : 263986
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:31Z",
+    "track" : {
+      "album" : {
+        "name" : "Bloom",
+        "release_date" : "2016-01-22"
+      },
+      "duration_ms" : 578040
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:43Z",
+    "track" : {
+      "album" : {
+        "name" : "You Make Everything Disappear",
+        "release_date" : "2016-07-15"
+      },
+      "duration_ms" : 196869
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:43Z",
+    "track" : {
+      "album" : {
+        "name" : "You Make Everything Disappear",
+        "release_date" : "2016-07-15"
+      },
+      "duration_ms" : 311389
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:43Z",
+    "track" : {
+      "album" : {
+        "name" : "You Make Everything Disappear",
+        "release_date" : "2016-07-15"
+      },
+      "duration_ms" : 244025
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:43Z",
+    "track" : {
+      "album" : {
+        "name" : "You Make Everything Disappear",
+        "release_date" : "2016-07-15"
+      },
+      "duration_ms" : 336084
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:43Z",
+    "track" : {
+      "album" : {
+        "name" : "You Make Everything Disappear",
+        "release_date" : "2016-07-15"
+      },
+      "duration_ms" : 209798
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:43Z",
+    "track" : {
+      "album" : {
+        "name" : "You Make Everything Disappear",
+        "release_date" : "2016-07-15"
+      },
+      "duration_ms" : 209753
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:43Z",
+    "track" : {
+      "album" : {
+        "name" : "You Make Everything Disappear",
+        "release_date" : "2016-07-15"
+      },
+      "duration_ms" : 127479
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:43Z",
+    "track" : {
+      "album" : {
+        "name" : "You Make Everything Disappear",
+        "release_date" : "2016-07-15"
+      },
+      "duration_ms" : 280722
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 83059
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 222039
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 180026
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 283840
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 270104
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 380320
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 265842
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 319407
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 171443
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 347525
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 260419
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 386087
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 248879
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 252469
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 293076
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 238296
+    }
+  }, {
+    "added_at" : "2017-10-25T13:58:54Z",
+    "track" : {
+      "album" : {
+        "name" : "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "release_date" : "2016-02-26"
+      },
+      "duration_ms" : 238695
+    }
+  }, {
+    "added_at" : "2017-10-30T17:05:50Z",
+    "track" : {
+      "album" : {
+        "name" : "Ego",
+        "release_date" : "2015-07-12"
+      },
+      "duration_ms" : 324642
+    }
+  }, {
+    "added_at" : "2017-10-30T17:05:50Z",
+    "track" : {
+      "album" : {
+        "name" : "Ego",
+        "release_date" : "2015-07-12"
+      },
+      "duration_ms" : 381750
+    }
+  }, {
+    "added_at" : "2017-10-30T17:05:50Z",
+    "track" : {
+      "album" : {
+        "name" : "Ego",
+        "release_date" : "2015-07-12"
+      },
+      "duration_ms" : 210266
+    }
+  }, {
+    "added_at" : "2017-10-30T17:05:50Z",
+    "track" : {
+      "album" : {
+        "name" : "Ego",
+        "release_date" : "2015-07-12"
+      },
+      "duration_ms" : 459553
+    }
+  }, {
+    "added_at" : "2017-10-30T17:05:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo",
+        "release_date" : "2016-12-04"
+      },
+      "duration_ms" : 458789
+    }
+  }, {
+    "added_at" : "2017-10-30T17:05:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo",
+        "release_date" : "2016-12-04"
+      },
+      "duration_ms" : 372061
+    }
+  }, {
+    "added_at" : "2017-10-30T17:05:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo",
+        "release_date" : "2016-12-04"
+      },
+      "duration_ms" : 500890
+    }
+  }, {
+    "added_at" : "2017-10-30T17:05:54Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo",
+        "release_date" : "2016-12-04"
+      },
+      "duration_ms" : 405333
+    }
+  }, {
+    "added_at" : "2017-10-30T17:05:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo 2.0",
+        "release_date" : "2012-05-28"
+      },
+      "duration_ms" : 192075
+    }
+  }, {
+    "added_at" : "2017-10-30T17:05:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo 2.0",
+        "release_date" : "2012-05-28"
+      },
+      "duration_ms" : 399673
+    }
+  }, {
+    "added_at" : "2017-10-30T17:05:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo 2.0",
+        "release_date" : "2012-05-28"
+      },
+      "duration_ms" : 383731
+    }
+  }, {
+    "added_at" : "2017-10-30T17:05:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo 2.0",
+        "release_date" : "2012-05-28"
+      },
+      "duration_ms" : 431221
+    }
+  }, {
+    "added_at" : "2017-10-30T17:05:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo 2.0",
+        "release_date" : "2012-05-28"
+      },
+      "duration_ms" : 498082
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo III",
+        "release_date" : "2013-11-17"
+      },
+      "duration_ms" : 191052
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo III",
+        "release_date" : "2013-11-17"
+      },
+      "duration_ms" : 452249
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo III",
+        "release_date" : "2013-11-17"
+      },
+      "duration_ms" : 573565
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo III",
+        "release_date" : "2013-11-17"
+      },
+      "duration_ms" : 443581
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo III",
+        "release_date" : "2013-11-17"
+      },
+      "duration_ms" : 297852
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Bilo III",
+        "release_date" : "2013-11-17"
+      },
+      "duration_ms" : 682705
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Eco",
+        "release_date" : "2015-08-16"
+      },
+      "duration_ms" : 201219
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Eco",
+        "release_date" : "2015-08-16"
+      },
+      "duration_ms" : 516279
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Eco",
+        "release_date" : "2015-08-16"
+      },
+      "duration_ms" : 500000
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Eco",
+        "release_date" : "2015-08-16"
+      },
+      "duration_ms" : 409714
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Eco",
+        "release_date" : "2015-08-16"
+      },
+      "duration_ms" : 158551
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Eco",
+        "release_date" : "2015-08-16"
+      },
+      "duration_ms" : 465511
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Who Bit the Moon",
+        "release_date" : "2017-03-02"
+      },
+      "duration_ms" : 108856
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Who Bit the Moon",
+        "release_date" : "2017-03-02"
+      },
+      "duration_ms" : 371813
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Who Bit the Moon",
+        "release_date" : "2017-03-02"
+      },
+      "duration_ms" : 301033
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Who Bit the Moon",
+        "release_date" : "2017-03-02"
+      },
+      "duration_ms" : 60250
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Who Bit the Moon",
+        "release_date" : "2017-03-02"
+      },
+      "duration_ms" : 319500
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Who Bit the Moon",
+        "release_date" : "2017-03-02"
+      },
+      "duration_ms" : 346288
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Who Bit the Moon",
+        "release_date" : "2017-03-02"
+      },
+      "duration_ms" : 84339
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Who Bit the Moon",
+        "release_date" : "2017-03-02"
+      },
+      "duration_ms" : 99312
+    }
+  }, {
+    "added_at" : "2017-10-30T17:06:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Who Bit the Moon",
+        "release_date" : "2017-03-02"
+      },
+      "duration_ms" : 606556
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 68426
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 178066
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 208506
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 15360
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 213213
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 242133
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 51626
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 171080
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 179360
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 190653
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 24760
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 203493
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 161453
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 194773
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 43520
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 172093
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 171733
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 42093
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 186360
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 23440
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 158760
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 27880
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 233026
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 56280
+    }
+  }, {
+    "added_at" : "2017-10-31T14:36:54Z",
+    "track" : {
+      "album" : {
+        "name" : "SCUM (Deluxe)",
+        "release_date" : "2017-08-11"
+      },
+      "duration_ms" : 321200
+    }
+  }, {
+    "added_at" : "2017-10-31T19:31:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Everybody",
+        "release_date" : "2017-05-05"
+      },
+      "duration_ms" : 448733
+    }
+  }, {
+    "added_at" : "2017-10-31T19:31:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Everybody",
+        "release_date" : "2017-05-05"
+      },
+      "duration_ms" : 162346
+    }
+  }, {
+    "added_at" : "2017-10-31T19:31:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Everybody",
+        "release_date" : "2017-05-05"
+      },
+      "duration_ms" : 343026
+    }
+  }, {
+    "added_at" : "2017-10-31T19:31:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Everybody",
+        "release_date" : "2017-05-05"
+      },
+      "duration_ms" : 206613
+    }
+  }, {
+    "added_at" : "2017-10-31T19:31:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Everybody",
+        "release_date" : "2017-05-05"
+      },
+      "duration_ms" : 400013
+    }
+  }, {
+    "added_at" : "2017-10-31T19:31:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Everybody",
+        "release_date" : "2017-05-05"
+      },
+      "duration_ms" : 331346
+    }
+  }, {
+    "added_at" : "2017-10-31T19:31:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Everybody",
+        "release_date" : "2017-05-05"
+      },
+      "duration_ms" : 156293
+    }
+  }, {
+    "added_at" : "2017-10-31T19:31:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Everybody",
+        "release_date" : "2017-05-05"
+      },
+      "duration_ms" : 206293
+    }
+  }, {
+    "added_at" : "2017-10-31T19:31:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Everybody",
+        "release_date" : "2017-05-05"
+      },
+      "duration_ms" : 283266
+    }
+  }, {
+    "added_at" : "2017-10-31T19:31:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Everybody",
+        "release_date" : "2017-05-05"
+      },
+      "duration_ms" : 250173
+    }
+  }, {
+    "added_at" : "2017-10-31T19:31:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Everybody",
+        "release_date" : "2017-05-05"
+      },
+      "duration_ms" : 412560
+    }
+  }, {
+    "added_at" : "2017-10-31T19:31:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Everybody",
+        "release_date" : "2017-05-05"
+      },
+      "duration_ms" : 331266
+    }
+  }, {
+    "added_at" : "2017-10-31T19:31:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Everybody",
+        "release_date" : "2017-05-05"
+      },
+      "duration_ms" : 728413
+    }
+  } ]
+}

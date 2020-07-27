@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2018-04-11T09:19:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Geography",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 269815
+    }
+  }, {
+    "added_at" : "2018-04-11T09:19:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Geography",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 357357
+    }
+  }, {
+    "added_at" : "2018-04-11T09:19:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Geography",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 253848
+    }
+  }, {
+    "added_at" : "2018-04-11T09:19:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Geography",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 261881
+    }
+  }, {
+    "added_at" : "2018-04-11T09:19:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Geography",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 86925
+    }
+  }, {
+    "added_at" : "2018-04-11T09:19:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Geography",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 280878
+    }
+  }, {
+    "added_at" : "2018-04-11T09:19:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Geography",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 281213
+    }
+  }, {
+    "added_at" : "2018-04-11T09:19:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Geography",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 271530
+    }
+  }, {
+    "added_at" : "2018-04-11T09:19:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Geography",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 258747
+    }
+  }, {
+    "added_at" : "2018-04-11T09:19:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Geography",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 253711
+    }
+  }, {
+    "added_at" : "2018-04-11T09:19:09Z",
+    "track" : {
+      "album" : {
+        "name" : "Geography",
+        "release_date" : "2018-04-06"
+      },
+      "duration_ms" : 233464
+    }
+  }, {
+    "added_at" : "2018-04-11T09:21:46Z",
+    "track" : {
+      "album" : {
+        "name" : "Undercurrent",
+        "release_date" : "1962"
+      },
+      "duration_ms" : 324133
+    }
+  }, {
+    "added_at" : "2018-04-11T09:21:46Z",
+    "track" : {
+      "album" : {
+        "name" : "Undercurrent",
+        "release_date" : "1962"
+      },
+      "duration_ms" : 280026
+    }
+  }, {
+    "added_at" : "2018-04-11T09:21:46Z",
+    "track" : {
+      "album" : {
+        "name" : "Undercurrent",
+        "release_date" : "1962"
+      },
+      "duration_ms" : 274906
+    }
+  }, {
+    "added_at" : "2018-04-11T09:21:46Z",
+    "track" : {
+      "album" : {
+        "name" : "Undercurrent",
+        "release_date" : "1962"
+      },
+      "duration_ms" : 323733
+    }
+  }, {
+    "added_at" : "2018-04-11T09:21:46Z",
+    "track" : {
+      "album" : {
+        "name" : "Undercurrent",
+        "release_date" : "1962"
+      },
+      "duration_ms" : 324200
+    }
+  }, {
+    "added_at" : "2018-04-11T09:21:46Z",
+    "track" : {
+      "album" : {
+        "name" : "Undercurrent",
+        "release_date" : "1962"
+      },
+      "duration_ms" : 309666
+    }
+  }, {
+    "added_at" : "2018-04-11T09:21:46Z",
+    "track" : {
+      "album" : {
+        "name" : "Undercurrent",
+        "release_date" : "1962"
+      },
+      "duration_ms" : 341360
+    }
+  }, {
+    "added_at" : "2018-04-11T09:21:46Z",
+    "track" : {
+      "album" : {
+        "name" : "Undercurrent",
+        "release_date" : "1962"
+      },
+      "duration_ms" : 257173
+    }
+  }, {
+    "added_at" : "2018-04-11T09:21:46Z",
+    "track" : {
+      "album" : {
+        "name" : "Undercurrent",
+        "release_date" : "1962"
+      },
+      "duration_ms" : 417333
+    }
+  }, {
+    "added_at" : "2018-04-11T09:21:46Z",
+    "track" : {
+      "album" : {
+        "name" : "Undercurrent",
+        "release_date" : "1962"
+      },
+      "duration_ms" : 324733
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Know What I Mean?",
+        "release_date" : "1961"
+      },
+      "duration_ms" : 312426
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Know What I Mean?",
+        "release_date" : "1961"
+      },
+      "duration_ms" : 373973
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Know What I Mean?",
+        "release_date" : "1961"
+      },
+      "duration_ms" : 355626
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Know What I Mean?",
+        "release_date" : "1961"
+      },
+      "duration_ms" : 355600
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Know What I Mean?",
+        "release_date" : "1961"
+      },
+      "duration_ms" : 172893
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Know What I Mean?",
+        "release_date" : "1961"
+      },
+      "duration_ms" : 306626
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Know What I Mean?",
+        "release_date" : "1961"
+      },
+      "duration_ms" : 350400
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Know What I Mean?",
+        "release_date" : "1961"
+      },
+      "duration_ms" : 245360
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Know What I Mean?",
+        "release_date" : "1961"
+      },
+      "duration_ms" : 293400
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Know What I Mean?",
+        "release_date" : "1961"
+      },
+      "duration_ms" : 421800
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:45Z",
+    "track" : {
+      "album" : {
+        "name" : "You Must Believe In Spring",
+        "release_date" : "1977"
+      },
+      "duration_ms" : 194413
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:45Z",
+    "track" : {
+      "album" : {
+        "name" : "You Must Believe In Spring",
+        "release_date" : "1977"
+      },
+      "duration_ms" : 340106
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:45Z",
+    "track" : {
+      "album" : {
+        "name" : "You Must Believe In Spring",
+        "release_date" : "1977"
+      },
+      "duration_ms" : 257693
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:45Z",
+    "track" : {
+      "album" : {
+        "name" : "You Must Believe In Spring",
+        "release_date" : "1977"
+      },
+      "duration_ms" : 244786
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:45Z",
+    "track" : {
+      "album" : {
+        "name" : "You Must Believe In Spring",
+        "release_date" : "1977"
+      },
+      "duration_ms" : 363773
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:45Z",
+    "track" : {
+      "album" : {
+        "name" : "You Must Believe In Spring",
+        "release_date" : "1977"
+      },
+      "duration_ms" : 273706
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:45Z",
+    "track" : {
+      "album" : {
+        "name" : "You Must Believe In Spring",
+        "release_date" : "1977"
+      },
+      "duration_ms" : 362946
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:45Z",
+    "track" : {
+      "album" : {
+        "name" : "You Must Believe In Spring",
+        "release_date" : "1977"
+      },
+      "duration_ms" : 485826
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:45Z",
+    "track" : {
+      "album" : {
+        "name" : "You Must Believe In Spring",
+        "release_date" : "1977"
+      },
+      "duration_ms" : 454266
+    }
+  }, {
+    "added_at" : "2018-04-11T09:22:45Z",
+    "track" : {
+      "album" : {
+        "name" : "You Must Believe In Spring",
+        "release_date" : "1977"
+      },
+      "duration_ms" : 489733
+    }
+  }, {
+    "added_at" : "2018-04-11T09:23:15Z",
+    "track" : {
+      "album" : {
+        "name" : "Live At The Village Vanguard - The Master Takes",
+        "release_date" : "1998"
+      },
+      "duration_ms" : 829960
+    }
+  }, {
+    "added_at" : "2018-04-11T09:23:15Z",
+    "track" : {
+      "album" : {
+        "name" : "Live At The Village Vanguard - The Master Takes",
+        "release_date" : "1998"
+      },
+      "duration_ms" : 396506
+    }
+  }, {
+    "added_at" : "2018-04-11T09:23:15Z",
+    "track" : {
+      "album" : {
+        "name" : "Live At The Village Vanguard - The Master Takes",
+        "release_date" : "1998"
+      },
+      "duration_ms" : 969666
+    }
+  }, {
+    "added_at" : "2018-04-11T09:23:15Z",
+    "track" : {
+      "album" : {
+        "name" : "Live At The Village Vanguard - The Master Takes",
+        "release_date" : "1998"
+      },
+      "duration_ms" : 843066
+    }
+  }, {
+    "added_at" : "2018-04-11T09:23:15Z",
+    "track" : {
+      "album" : {
+        "name" : "Live At The Village Vanguard - The Master Takes",
+        "release_date" : "1998"
+      },
+      "duration_ms" : 896266
+    }
+  }, {
+    "added_at" : "2018-04-11T09:24:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Portrait In Jazz [Keepnews Collection]",
+        "release_date" : "1960"
+      },
+      "duration_ms" : 204480
+    }
+  }, {
+    "added_at" : "2018-04-11T09:24:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Portrait In Jazz [Keepnews Collection]",
+        "release_date" : "1960"
+      },
+      "duration_ms" : 360546
+    }
+  }, {
+    "added_at" : "2018-04-11T09:24:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Portrait In Jazz [Keepnews Collection]",
+        "release_date" : "1960"
+      },
+      "duration_ms" : 277720
+    }
+  }, {
+    "added_at" : "2018-04-11T09:24:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Portrait In Jazz [Keepnews Collection]",
+        "release_date" : "1960"
+      },
+      "duration_ms" : 297386
+    }
+  }, {
+    "added_at" : "2018-04-11T09:24:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Portrait In Jazz [Keepnews Collection]",
+        "release_date" : "1960"
+      },
+      "duration_ms" : 195973
+    }
+  }, {
+    "added_at" : "2018-04-11T09:24:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Portrait In Jazz [Keepnews Collection]",
+        "release_date" : "1960"
+      },
+      "duration_ms" : 276693
+    }
+  }, {
+    "added_at" : "2018-04-11T09:24:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Portrait In Jazz [Keepnews Collection]",
+        "release_date" : "1960"
+      },
+      "duration_ms" : 309360
+    }
+  }, {
+    "added_at" : "2018-04-11T09:24:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Portrait In Jazz [Keepnews Collection]",
+        "release_date" : "1960"
+      },
+      "duration_ms" : 296986
+    }
+  }, {
+    "added_at" : "2018-04-11T09:24:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Portrait In Jazz [Keepnews Collection]",
+        "release_date" : "1960"
+      },
+      "duration_ms" : 325786
+    }
+  }, {
+    "added_at" : "2018-04-11T09:24:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Portrait In Jazz [Keepnews Collection]",
+        "release_date" : "1960"
+      },
+      "duration_ms" : 203106
+    }
+  }, {
+    "added_at" : "2018-04-11T09:24:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Portrait In Jazz [Keepnews Collection]",
+        "release_date" : "1960"
+      },
+      "duration_ms" : 325960
+    }
+  }, {
+    "added_at" : "2018-04-11T09:24:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Portrait In Jazz [Keepnews Collection]",
+        "release_date" : "1960"
+      },
+      "duration_ms" : 279373
+    }
+  }, {
+    "added_at" : "2018-04-11T09:24:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Portrait In Jazz [Keepnews Collection]",
+        "release_date" : "1960"
+      },
+      "duration_ms" : 266053
+    }
+  }, {
+    "added_at" : "2018-04-11T09:27:12Z",
+    "track" : {
+      "album" : {
+        "name" : "The Black Saint And The Sinner Lady / Mingus Mingus Mingus Mingus Mingus",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 397333
+    }
+  }, {
+    "added_at" : "2018-04-11T09:27:12Z",
+    "track" : {
+      "album" : {
+        "name" : "The Black Saint And The Sinner Lady / Mingus Mingus Mingus Mingus Mingus",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 403240
+    }
+  }, {
+    "added_at" : "2018-04-11T09:27:12Z",
+    "track" : {
+      "album" : {
+        "name" : "The Black Saint And The Sinner Lady / Mingus Mingus Mingus Mingus Mingus",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 439946
+    }
+  }, {
+    "added_at" : "2018-04-11T09:27:12Z",
+    "track" : {
+      "album" : {
+        "name" : "The Black Saint And The Sinner Lady / Mingus Mingus Mingus Mingus Mingus",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 1119400
+    }
+  }, {
+    "added_at" : "2018-04-11T09:27:12Z",
+    "track" : {
+      "album" : {
+        "name" : "The Black Saint And The Sinner Lady / Mingus Mingus Mingus Mingus Mingus",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 286733
+    }
+  }, {
+    "added_at" : "2018-04-11T09:27:12Z",
+    "track" : {
+      "album" : {
+        "name" : "The Black Saint And The Sinner Lady / Mingus Mingus Mingus Mingus Mingus",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 458546
+    }
+  }, {
+    "added_at" : "2018-04-11T09:27:12Z",
+    "track" : {
+      "album" : {
+        "name" : "The Black Saint And The Sinner Lady / Mingus Mingus Mingus Mingus Mingus",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 372213
+    }
+  }, {
+    "added_at" : "2018-04-11T09:27:12Z",
+    "track" : {
+      "album" : {
+        "name" : "The Black Saint And The Sinner Lady / Mingus Mingus Mingus Mingus Mingus",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 284013
+    }
+  }, {
+    "added_at" : "2018-04-11T09:27:12Z",
+    "track" : {
+      "album" : {
+        "name" : "The Black Saint And The Sinner Lady / Mingus Mingus Mingus Mingus Mingus",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 388080
+    }
+  }, {
+    "added_at" : "2018-04-11T09:27:12Z",
+    "track" : {
+      "album" : {
+        "name" : "The Black Saint And The Sinner Lady / Mingus Mingus Mingus Mingus Mingus",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 350280
+    }
+  }, {
+    "added_at" : "2018-04-11T09:27:12Z",
+    "track" : {
+      "album" : {
+        "name" : "The Black Saint And The Sinner Lady / Mingus Mingus Mingus Mingus Mingus",
+        "release_date" : "2011-01-01"
+      },
+      "duration_ms" : 281560
+    }
+  }, {
+    "added_at" : "2018-04-11T11:54:41Z",
+    "track" : {
+      "album" : {
+        "name" : "My Dear Melancholy,",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 228373
+    }
+  }, {
+    "added_at" : "2018-04-11T11:54:41Z",
+    "track" : {
+      "album" : {
+        "name" : "My Dear Melancholy,",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 221106
+    }
+  }, {
+    "added_at" : "2018-04-11T11:54:41Z",
+    "track" : {
+      "album" : {
+        "name" : "My Dear Melancholy,",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 220293
+    }
+  }, {
+    "added_at" : "2018-04-11T11:54:41Z",
+    "track" : {
+      "album" : {
+        "name" : "My Dear Melancholy,",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 241066
+    }
+  }, {
+    "added_at" : "2018-04-11T11:54:41Z",
+    "track" : {
+      "album" : {
+        "name" : "My Dear Melancholy,",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 230026
+    }
+  }, {
+    "added_at" : "2018-04-11T11:54:41Z",
+    "track" : {
+      "album" : {
+        "name" : "My Dear Melancholy,",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 170573
+    }
+  }, {
+    "added_at" : "2018-04-11T21:55:48Z",
+    "track" : {
+      "album" : {
+        "name" : "It All Starts from Pieces",
+        "release_date" : "2017-05-27"
+      },
+      "duration_ms" : 327997
+    }
+  }, {
+    "added_at" : "2018-04-11T21:55:48Z",
+    "track" : {
+      "album" : {
+        "name" : "It All Starts from Pieces",
+        "release_date" : "2017-05-27"
+      },
+      "duration_ms" : 297567
+    }
+  }, {
+    "added_at" : "2018-04-11T21:55:48Z",
+    "track" : {
+      "album" : {
+        "name" : "It All Starts from Pieces",
+        "release_date" : "2017-05-27"
+      },
+      "duration_ms" : 269292
+    }
+  }, {
+    "added_at" : "2018-04-11T21:55:48Z",
+    "track" : {
+      "album" : {
+        "name" : "It All Starts from Pieces",
+        "release_date" : "2017-05-27"
+      },
+      "duration_ms" : 338526
+    }
+  }, {
+    "added_at" : "2018-04-11T21:55:48Z",
+    "track" : {
+      "album" : {
+        "name" : "It All Starts from Pieces",
+        "release_date" : "2017-05-27"
+      },
+      "duration_ms" : 292224
+    }
+  }, {
+    "added_at" : "2018-04-11T21:55:48Z",
+    "track" : {
+      "album" : {
+        "name" : "It All Starts from Pieces",
+        "release_date" : "2017-05-27"
+      },
+      "duration_ms" : 283838
+    }
+  }, {
+    "added_at" : "2018-04-11T21:55:48Z",
+    "track" : {
+      "album" : {
+        "name" : "It All Starts from Pieces",
+        "release_date" : "2017-05-27"
+      },
+      "duration_ms" : 311958
+    }
+  }, {
+    "added_at" : "2018-04-11T21:55:48Z",
+    "track" : {
+      "album" : {
+        "name" : "It All Starts from Pieces",
+        "release_date" : "2017-05-27"
+      },
+      "duration_ms" : 282283
+    }
+  }, {
+    "added_at" : "2018-04-12T23:10:33Z",
+    "track" : {
+      "album" : {
+        "name" : "CARE FOR ME",
+        "release_date" : "2018-04-05"
+      },
+      "duration_ms" : 329541
+    }
+  }, {
+    "added_at" : "2018-04-12T23:10:33Z",
+    "track" : {
+      "album" : {
+        "name" : "CARE FOR ME",
+        "release_date" : "2018-04-05"
+      },
+      "duration_ms" : 277333
+    }
+  }, {
+    "added_at" : "2018-04-12T23:10:33Z",
+    "track" : {
+      "album" : {
+        "name" : "CARE FOR ME",
+        "release_date" : "2018-04-05"
+      },
+      "duration_ms" : 162750
+    }
+  }, {
+    "added_at" : "2018-04-12T23:10:33Z",
+    "track" : {
+      "album" : {
+        "name" : "CARE FOR ME",
+        "release_date" : "2018-04-05"
+      },
+      "duration_ms" : 184250
+    }
+  }, {
+    "added_at" : "2018-04-12T23:10:33Z",
+    "track" : {
+      "album" : {
+        "name" : "CARE FOR ME",
+        "release_date" : "2018-04-05"
+      },
+      "duration_ms" : 282466
+    }
+  }, {
+    "added_at" : "2018-04-12T23:10:33Z",
+    "track" : {
+      "album" : {
+        "name" : "CARE FOR ME",
+        "release_date" : "2018-04-05"
+      },
+      "duration_ms" : 208720
+    }
+  }, {
+    "added_at" : "2018-04-12T23:10:33Z",
+    "track" : {
+      "album" : {
+        "name" : "CARE FOR ME",
+        "release_date" : "2018-04-05"
+      },
+      "duration_ms" : 150108
+    }
+  }, {
+    "added_at" : "2018-04-12T23:10:33Z",
+    "track" : {
+      "album" : {
+        "name" : "CARE FOR ME",
+        "release_date" : "2018-04-05"
+      },
+      "duration_ms" : 240506
+    }
+  }, {
+    "added_at" : "2018-04-12T23:10:33Z",
+    "track" : {
+      "album" : {
+        "name" : "CARE FOR ME",
+        "release_date" : "2018-04-05"
+      },
+      "duration_ms" : 451615
+    }
+  }, {
+    "added_at" : "2018-04-12T23:10:33Z",
+    "track" : {
+      "album" : {
+        "name" : "CARE FOR ME",
+        "release_date" : "2018-04-05"
+      },
+      "duration_ms" : 212840
+    }
+  }, {
+    "added_at" : "2018-04-18T20:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Your Queen Is A Reptile",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 399733
+    }
+  }, {
+    "added_at" : "2018-04-18T20:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Your Queen Is A Reptile",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 329866
+    }
+  }, {
+    "added_at" : "2018-04-18T20:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Your Queen Is A Reptile",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 338133
+    }
+  }, {
+    "added_at" : "2018-04-18T20:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Your Queen Is A Reptile",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 305120
+    }
+  }, {
+    "added_at" : "2018-04-18T20:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Your Queen Is A Reptile",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 394173
+    }
+  }, {
+    "added_at" : "2018-04-18T20:46:56Z",
+    "track" : {
+      "album" : {
+        "name" : "Your Queen Is A Reptile",
+        "release_date" : "2018-03-30"
+      },
+      "duration_ms" : 401693
+    }
+  } ]
+}

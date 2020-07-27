@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "I Was Made To Love Her",
+        "release_date" : "1967-08-01"
+      },
+      "duration_ms" : 140653
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "I Was Made To Love Her",
+        "release_date" : "1967-08-01"
+      },
+      "duration_ms" : 175853
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "Someday At Christmas",
+        "release_date" : "1967-11-01"
+      },
+      "duration_ms" : 189133
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "Eivets Rednow",
+        "release_date" : "1968-11-01"
+      },
+      "duration_ms" : 210640
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "For Once In My Life",
+        "release_date" : "1968-12-01"
+      },
+      "duration_ms" : 170600
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "For Once In My Life",
+        "release_date" : "1968-12-01"
+      },
+      "duration_ms" : 179213
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "My Cherie Amour",
+        "release_date" : "1969-08-01"
+      },
+      "duration_ms" : 185293
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "Innervisions (Reissue)",
+        "release_date" : "1973-08-03"
+      },
+      "duration_ms" : 442866
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "Innervisions (Reissue)",
+        "release_date" : "1973-08-03"
+      },
+      "duration_ms" : 222600
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "Innervisions (Reissue)",
+        "release_date" : "1973-08-03"
+      },
+      "duration_ms" : 276226
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "Fulfillingness' First Finale (Reissue)",
+        "release_date" : "1974-07-22"
+      },
+      "duration_ms" : 202706
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "Hotter Than July (Digipak)",
+        "release_date" : "1980-09-29"
+      },
+      "duration_ms" : 245713
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "Hotter Than July (Digipak)",
+        "release_date" : "1980-09-29"
+      },
+      "duration_ms" : 307933
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "Hotter Than July (Digipak)",
+        "release_date" : "1980-09-29"
+      },
+      "duration_ms" : 357026
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "Selections From The Original Soundtrack The Woman In Red",
+        "release_date" : "1984-01-01"
+      },
+      "duration_ms" : 376306
+    }
+  }, {
+    "added_at" : "2017-11-02T21:36:55Z",
+    "track" : {
+      "album" : {
+        "name" : "The 35th Anniversary Collection",
+        "release_date" : "1994-01-01"
+      },
+      "duration_ms" : 187240
+    }
+  }, {
+    "added_at" : "2017-11-03T08:15:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Needle Paw",
+        "release_date" : "2017-10-20"
+      },
+      "duration_ms" : 109320
+    }
+  }, {
+    "added_at" : "2017-11-03T08:15:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Needle Paw",
+        "release_date" : "2017-10-20"
+      },
+      "duration_ms" : 344053
+    }
+  }, {
+    "added_at" : "2017-11-03T08:15:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Needle Paw",
+        "release_date" : "2017-10-20"
+      },
+      "duration_ms" : 268186
+    }
+  }, {
+    "added_at" : "2017-11-03T08:15:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Needle Paw",
+        "release_date" : "2017-10-20"
+      },
+      "duration_ms" : 135506
+    }
+  }, {
+    "added_at" : "2017-11-03T08:15:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Needle Paw",
+        "release_date" : "2017-10-20"
+      },
+      "duration_ms" : 336066
+    }
+  }, {
+    "added_at" : "2017-11-03T08:15:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Needle Paw",
+        "release_date" : "2017-10-20"
+      },
+      "duration_ms" : 314960
+    }
+  }, {
+    "added_at" : "2017-11-03T08:15:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Needle Paw",
+        "release_date" : "2017-10-20"
+      },
+      "duration_ms" : 259760
+    }
+  }, {
+    "added_at" : "2017-11-03T08:15:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Needle Paw",
+        "release_date" : "2017-10-20"
+      },
+      "duration_ms" : 146760
+    }
+  }, {
+    "added_at" : "2017-11-03T08:15:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Needle Paw",
+        "release_date" : "2017-10-20"
+      },
+      "duration_ms" : 255400
+    }
+  }, {
+    "added_at" : "2017-11-03T08:15:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Needle Paw",
+        "release_date" : "2017-10-20"
+      },
+      "duration_ms" : 550920
+    }
+  }, {
+    "added_at" : "2017-11-03T08:15:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Needle Paw",
+        "release_date" : "2017-10-20"
+      },
+      "duration_ms" : 386933
+    }
+  }, {
+    "added_at" : "2017-11-03T08:15:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Needle Paw",
+        "release_date" : "2017-10-20"
+      },
+      "duration_ms" : 236280
+    }
+  }, {
+    "added_at" : "2017-11-03T08:15:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Needle Paw",
+        "release_date" : "2017-10-20"
+      },
+      "duration_ms" : 109186
+    }
+  }, {
+    "added_at" : "2017-11-03T08:39:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is Not Enough",
+        "release_date" : "2016-09-23"
+      },
+      "duration_ms" : 186026
+    }
+  }, {
+    "added_at" : "2017-11-03T08:39:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is Not Enough",
+        "release_date" : "2016-09-23"
+      },
+      "duration_ms" : 195000
+    }
+  }, {
+    "added_at" : "2017-11-03T08:39:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is Not Enough",
+        "release_date" : "2016-09-23"
+      },
+      "duration_ms" : 190973
+    }
+  }, {
+    "added_at" : "2017-11-03T08:39:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is Not Enough",
+        "release_date" : "2016-09-23"
+      },
+      "duration_ms" : 217920
+    }
+  }, {
+    "added_at" : "2017-11-03T08:39:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is Not Enough",
+        "release_date" : "2016-09-23"
+      },
+      "duration_ms" : 90520
+    }
+  }, {
+    "added_at" : "2017-11-03T08:39:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is Not Enough",
+        "release_date" : "2016-09-23"
+      },
+      "duration_ms" : 248720
+    }
+  }, {
+    "added_at" : "2017-11-03T08:39:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is Not Enough",
+        "release_date" : "2016-09-23"
+      },
+      "duration_ms" : 175040
+    }
+  }, {
+    "added_at" : "2017-11-03T08:39:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is Not Enough",
+        "release_date" : "2016-09-23"
+      },
+      "duration_ms" : 175346
+    }
+  }, {
+    "added_at" : "2017-11-03T08:39:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is Not Enough",
+        "release_date" : "2016-09-23"
+      },
+      "duration_ms" : 142813
+    }
+  }, {
+    "added_at" : "2017-11-03T08:39:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is Not Enough",
+        "release_date" : "2016-09-23"
+      },
+      "duration_ms" : 139826
+    }
+  }, {
+    "added_at" : "2017-11-03T08:39:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Love Is Not Enough",
+        "release_date" : "2016-09-23"
+      },
+      "duration_ms" : 202906
+    }
+  }, {
+    "added_at" : "2017-11-03T21:30:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Game Over",
+        "release_date" : "2017-11-03"
+      },
+      "duration_ms" : 218522
+    }
+  }, {
+    "added_at" : "2017-11-03T21:30:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Game Over",
+        "release_date" : "2017-11-03"
+      },
+      "duration_ms" : 427520
+    }
+  }, {
+    "added_at" : "2017-11-03T21:30:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Game Over",
+        "release_date" : "2017-11-03"
+      },
+      "duration_ms" : 196097
+    }
+  }, {
+    "added_at" : "2017-11-03T21:30:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Game Over",
+        "release_date" : "2017-11-03"
+      },
+      "duration_ms" : 175426
+    }
+  }, {
+    "added_at" : "2017-11-03T21:30:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Game Over",
+        "release_date" : "2017-11-03"
+      },
+      "duration_ms" : 445349
+    }
+  }, {
+    "added_at" : "2017-11-03T21:30:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Game Over",
+        "release_date" : "2017-11-03"
+      },
+      "duration_ms" : 210904
+    }
+  }, {
+    "added_at" : "2017-11-03T21:30:33Z",
+    "track" : {
+      "album" : {
+        "name" : "Game Over",
+        "release_date" : "2017-11-03"
+      },
+      "duration_ms" : 538279
+    }
+  }, {
+    "added_at" : "2017-11-03T21:30:38Z",
+    "track" : {
+      "album" : {
+        "name" : "Wanna Know Remix (feat. Drake)",
+        "release_date" : "2016-10-28"
+      },
+      "duration_ms" : 199019
+    }
+  }, {
+    "added_at" : "2017-11-08T21:15:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Samantha",
+        "release_date" : "2017-01-27"
+      },
+      "duration_ms" : 220774
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 172194
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 198763
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 224643
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 243205
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 222951
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 214985
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 277238
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 260952
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 53753
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 195490
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 297614
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 240334
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 266977
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 310544
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 360666
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 203494
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 233853
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 48296
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 254360
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 311625
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 244766
+    }
+  }, {
+    "added_at" : "2017-11-04T18:01:23Z",
+    "track" : {
+      "album" : {
+        "name" : "4eva Is A Mighty Long Time",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 264519
+    }
+  }, {
+    "added_at" : "2017-11-05T23:17:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Shadow Work",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 286416
+    }
+  }, {
+    "added_at" : "2017-11-05T23:17:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Shadow Work",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 192385
+    }
+  }, {
+    "added_at" : "2017-11-05T23:17:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Shadow Work",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 307545
+    }
+  }, {
+    "added_at" : "2017-11-05T23:17:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Shadow Work",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 288590
+    }
+  }, {
+    "added_at" : "2017-11-05T23:17:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Shadow Work",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 351255
+    }
+  }, {
+    "added_at" : "2017-11-05T23:17:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Shadow Work",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 388204
+    }
+  }, {
+    "added_at" : "2017-11-05T23:17:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Shadow Work",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 103677
+    }
+  }, {
+    "added_at" : "2017-11-05T23:17:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Shadow Work",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 333245
+    }
+  }, {
+    "added_at" : "2017-11-05T23:17:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Shadow Work",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 462550
+    }
+  }, {
+    "added_at" : "2017-11-05T23:17:05Z",
+    "track" : {
+      "album" : {
+        "name" : "Shadow Work",
+        "release_date" : "2017-10-27"
+      },
+      "duration_ms" : 87341
+    }
+  }, {
+    "added_at" : "2017-11-08T17:00:10Z",
+    "track" : {
+      "album" : {
+        "name" : "Sound & Color",
+        "release_date" : "2015-04-20"
+      },
+      "duration_ms" : 182466
+    }
+  }, {
+    "added_at" : "2017-11-08T17:00:10Z",
+    "track" : {
+      "album" : {
+        "name" : "Sound & Color",
+        "release_date" : "2015-04-20"
+      },
+      "duration_ms" : 232530
+    }
+  }, {
+    "added_at" : "2017-11-08T17:00:10Z",
+    "track" : {
+      "album" : {
+        "name" : "Sound & Color",
+        "release_date" : "2015-04-20"
+      },
+      "duration_ms" : 257929
+    }
+  }, {
+    "added_at" : "2017-11-08T17:00:10Z",
+    "track" : {
+      "album" : {
+        "name" : "Sound & Color",
+        "release_date" : "2015-04-20"
+      },
+      "duration_ms" : 201612
+    }
+  }, {
+    "added_at" : "2017-11-08T17:00:10Z",
+    "track" : {
+      "album" : {
+        "name" : "Sound & Color",
+        "release_date" : "2015-04-20"
+      },
+      "duration_ms" : 243461
+    }
+  }, {
+    "added_at" : "2017-11-08T17:00:10Z",
+    "track" : {
+      "album" : {
+        "name" : "Sound & Color",
+        "release_date" : "2015-04-20"
+      },
+      "duration_ms" : 268853
+    }
+  }, {
+    "added_at" : "2017-11-08T17:00:10Z",
+    "track" : {
+      "album" : {
+        "name" : "Sound & Color",
+        "release_date" : "2015-04-20"
+      },
+      "duration_ms" : 195706
+    }
+  }, {
+    "added_at" : "2017-11-08T17:00:10Z",
+    "track" : {
+      "album" : {
+        "name" : "Sound & Color",
+        "release_date" : "2015-04-20"
+      },
+      "duration_ms" : 229744
+    }
+  }, {
+    "added_at" : "2017-11-08T17:00:10Z",
+    "track" : {
+      "album" : {
+        "name" : "Sound & Color",
+        "release_date" : "2015-04-20"
+      },
+      "duration_ms" : 179482
+    }
+  }, {
+    "added_at" : "2017-11-08T17:00:10Z",
+    "track" : {
+      "album" : {
+        "name" : "Sound & Color",
+        "release_date" : "2015-04-20"
+      },
+      "duration_ms" : 227059
+    }
+  }, {
+    "added_at" : "2017-11-08T17:00:10Z",
+    "track" : {
+      "album" : {
+        "name" : "Sound & Color",
+        "release_date" : "2015-04-20"
+      },
+      "duration_ms" : 395580
+    }
+  }, {
+    "added_at" : "2017-11-08T17:00:10Z",
+    "track" : {
+      "album" : {
+        "name" : "Sound & Color",
+        "release_date" : "2015-04-20"
+      },
+      "duration_ms" : 231131
+    }
+  }, {
+    "added_at" : "2017-11-09T08:05:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Love, Drugs, & Decisions",
+        "release_date" : "2017-09-15"
+      },
+      "duration_ms" : 186123
+    }
+  }, {
+    "added_at" : "2017-11-09T08:05:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Love, Drugs, & Decisions",
+        "release_date" : "2017-09-15"
+      },
+      "duration_ms" : 231092
+    }
+  }, {
+    "added_at" : "2017-11-09T08:05:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Love, Drugs, & Decisions",
+        "release_date" : "2017-09-15"
+      },
+      "duration_ms" : 213052
+    }
+  }, {
+    "added_at" : "2017-11-09T08:05:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Love, Drugs, & Decisions",
+        "release_date" : "2017-09-15"
+      },
+      "duration_ms" : 185394
+    }
+  }, {
+    "added_at" : "2017-11-09T08:05:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Love, Drugs, & Decisions",
+        "release_date" : "2017-09-15"
+      },
+      "duration_ms" : 235302
+    }
+  }, {
+    "added_at" : "2017-11-09T08:05:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Love, Drugs, & Decisions",
+        "release_date" : "2017-09-15"
+      },
+      "duration_ms" : 231634
+    }
+  }, {
+    "added_at" : "2017-11-09T08:05:21Z",
+    "track" : {
+      "album" : {
+        "name" : "Love, Drugs, & Decisions",
+        "release_date" : "2017-09-15"
+      },
+      "duration_ms" : 207356
+    }
+  } ]
+}

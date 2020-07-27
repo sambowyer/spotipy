@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2018-11-12T08:40:18Z",
+    "track" : {
+      "album" : {
+        "name" : "Holy Hell",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 248666
+    }
+  }, {
+    "added_at" : "2018-11-12T08:40:18Z",
+    "track" : {
+      "album" : {
+        "name" : "Holy Hell",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 241586
+    }
+  }, {
+    "added_at" : "2018-11-12T08:40:18Z",
+    "track" : {
+      "album" : {
+        "name" : "Holy Hell",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 253440
+    }
+  }, {
+    "added_at" : "2018-11-12T08:40:18Z",
+    "track" : {
+      "album" : {
+        "name" : "Holy Hell",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 230840
+    }
+  }, {
+    "added_at" : "2018-11-12T08:40:18Z",
+    "track" : {
+      "album" : {
+        "name" : "Holy Hell",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 108666
+    }
+  }, {
+    "added_at" : "2018-11-12T08:40:18Z",
+    "track" : {
+      "album" : {
+        "name" : "Holy Hell",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 248880
+    }
+  }, {
+    "added_at" : "2018-11-12T08:40:18Z",
+    "track" : {
+      "album" : {
+        "name" : "Holy Hell",
+        "release_date" : "2018-11-09"
+      },
+      "duration_ms" : 274933
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Please Please Me (Remastered)",
+        "release_date" : "1963-03-22"
+      },
+      "duration_ms" : 173946
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Please Please Me (Remastered)",
+        "release_date" : "1963-03-22"
+      },
+      "duration_ms" : 108546
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Please Please Me (Remastered)",
+        "release_date" : "1963-03-22"
+      },
+      "duration_ms" : 177133
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Please Please Me (Remastered)",
+        "release_date" : "1963-03-22"
+      },
+      "duration_ms" : 145080
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Please Please Me (Remastered)",
+        "release_date" : "1963-03-22"
+      },
+      "duration_ms" : 146440
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Please Please Me (Remastered)",
+        "release_date" : "1963-03-22"
+      },
+      "duration_ms" : 146533
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Please Please Me (Remastered)",
+        "release_date" : "1963-03-22"
+      },
+      "duration_ms" : 120853
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Please Please Me (Remastered)",
+        "release_date" : "1963-03-22"
+      },
+      "duration_ms" : 141693
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Please Please Me (Remastered)",
+        "release_date" : "1963-03-22"
+      },
+      "duration_ms" : 124360
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Please Please Me (Remastered)",
+        "release_date" : "1963-03-22"
+      },
+      "duration_ms" : 160520
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Please Please Me (Remastered)",
+        "release_date" : "1963-03-22"
+      },
+      "duration_ms" : 117013
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Please Please Me (Remastered)",
+        "release_date" : "1963-03-22"
+      },
+      "duration_ms" : 123480
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Please Please Me (Remastered)",
+        "release_date" : "1963-03-22"
+      },
+      "duration_ms" : 110493
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:07Z",
+    "track" : {
+      "album" : {
+        "name" : "Please Please Me (Remastered)",
+        "release_date" : "1963-03-22"
+      },
+      "duration_ms" : 155226
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Help! (Remastered)",
+        "release_date" : "1965-08-06"
+      },
+      "duration_ms" : 139560
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Help! (Remastered)",
+        "release_date" : "1965-08-06"
+      },
+      "duration_ms" : 154933
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Help! (Remastered)",
+        "release_date" : "1965-08-06"
+      },
+      "duration_ms" : 129120
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Help! (Remastered)",
+        "release_date" : "1965-08-06"
+      },
+      "duration_ms" : 148786
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Help! (Remastered)",
+        "release_date" : "1965-08-06"
+      },
+      "duration_ms" : 125360
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Help! (Remastered)",
+        "release_date" : "1965-08-06"
+      },
+      "duration_ms" : 138666
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Help! (Remastered)",
+        "release_date" : "1965-08-06"
+      },
+      "duration_ms" : 189680
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Help! (Remastered)",
+        "release_date" : "1965-08-06"
+      },
+      "duration_ms" : 150373
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Help! (Remastered)",
+        "release_date" : "1965-08-06"
+      },
+      "duration_ms" : 116480
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Help! (Remastered)",
+        "release_date" : "1965-08-06"
+      },
+      "duration_ms" : 156866
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Help! (Remastered)",
+        "release_date" : "1965-08-06"
+      },
+      "duration_ms" : 157986
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Help! (Remastered)",
+        "release_date" : "1965-08-06"
+      },
+      "duration_ms" : 125040
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Help! (Remastered)",
+        "release_date" : "1965-08-06"
+      },
+      "duration_ms" : 125666
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Help! (Remastered)",
+        "release_date" : "1965-08-06"
+      },
+      "duration_ms" : 176506
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Rubber Soul (Remastered)",
+        "release_date" : "1965-12-03"
+      },
+      "duration_ms" : 148893
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Rubber Soul (Remastered)",
+        "release_date" : "1965-12-03"
+      },
+      "duration_ms" : 124693
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Rubber Soul (Remastered)",
+        "release_date" : "1965-12-03"
+      },
+      "duration_ms" : 199960
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Rubber Soul (Remastered)",
+        "release_date" : "1965-12-03"
+      },
+      "duration_ms" : 163693
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Rubber Soul (Remastered)",
+        "release_date" : "1965-12-03"
+      },
+      "duration_ms" : 138520
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Rubber Soul (Remastered)",
+        "release_date" : "1965-12-03"
+      },
+      "duration_ms" : 163106
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Rubber Soul (Remastered)",
+        "release_date" : "1965-12-03"
+      },
+      "duration_ms" : 162373
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Rubber Soul (Remastered)",
+        "release_date" : "1965-12-03"
+      },
+      "duration_ms" : 168573
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Rubber Soul (Remastered)",
+        "release_date" : "1965-12-03"
+      },
+      "duration_ms" : 151720
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Rubber Soul (Remastered)",
+        "release_date" : "1965-12-03"
+      },
+      "duration_ms" : 146386
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Rubber Soul (Remastered)",
+        "release_date" : "1965-12-03"
+      },
+      "duration_ms" : 146333
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Rubber Soul (Remastered)",
+        "release_date" : "1965-12-03"
+      },
+      "duration_ms" : 134720
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Rubber Soul (Remastered)",
+        "release_date" : "1965-12-03"
+      },
+      "duration_ms" : 142266
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:13Z",
+    "track" : {
+      "album" : {
+        "name" : "Rubber Soul (Remastered)",
+        "release_date" : "1965-12-03"
+      },
+      "duration_ms" : 141093
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 122133
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 165293
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 207680
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 167013
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 157960
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 205840
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 159200
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 307586
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 160013
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 165800
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 154466
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 80600
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 330920
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 156440
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 196520
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 238866
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 138533
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 207840
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 229120
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 187213
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 333400
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 178653
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 184360
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 166640
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 116066
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 291960
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 196880
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 199813
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 246413
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 176706
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:16Z",
+    "track" : {
+      "album" : {
+        "name" : "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
+        "release_date" : "1967-06-01"
+      },
+      "duration_ms" : 179146
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 163453
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 235773
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 137840
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 188960
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 52973
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 194160
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 285000
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 164546
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 148573
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 123493
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 138386
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 124266
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 213106
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 230453
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 101160
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 105933
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 176666
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 163080
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 240453
+    }
+  }, {
+    "added_at" : "2018-11-14T13:56:20Z",
+    "track" : {
+      "album" : {
+        "name" : "The Beatles (Remastered)",
+        "release_date" : "1968-11-22"
+      },
+      "duration_ms" : 168026
+    }
+  } ]
+}

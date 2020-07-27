@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2018-11-21T21:57:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1973-07-13"
+      },
+      "duration_ms" : 76573
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1973-07-13"
+      },
+      "duration_ms" : 230173
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1973-07-13"
+      },
+      "duration_ms" : 262560
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1973-07-13"
+      },
+      "duration_ms" : 367680
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1973-07-13"
+      },
+      "duration_ms" : 304733
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1973-07-13"
+      },
+      "duration_ms" : 472226
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:06Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1973-07-13"
+      },
+      "duration_ms" : 202653
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 73133
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 373853
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 273200
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 262200
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 241186
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 248453
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 160986
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 78666
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 392946
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 169760
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 168973
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 262200
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 332893
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 189173
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 87893
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Queen II (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1974-03-08"
+      },
+      "duration_ms" : 271693
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 223920
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 67400
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 184893
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 170786
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 210800
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 242120
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 134120
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 500960
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 217386
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 203440
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 354320
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 75333
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 244386
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 63440
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 177880
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 198453
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 226466
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:15Z",
+    "track" : {
+      "album" : {
+        "name" : "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1975-11-21"
+      },
+      "duration_ms" : 223720
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 287426
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 306480
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 213413
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 295333
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 206146
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 296480
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 298120
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 173173
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 223293
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 355653
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 228066
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 475373
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 186786
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 171240
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:18Z",
+    "track" : {
+      "album" : {
+        "name" : "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1976-12-10"
+      },
+      "duration_ms" : 287386
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 122066
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 179200
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 207600
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 189586
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 274226
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 181626
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 230120
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 186080
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 186853
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 386360
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 211333
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 114586
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 325733
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 192773
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 214453
+    }
+  }, {
+    "added_at" : "2018-11-21T21:57:21Z",
+    "track" : {
+      "album" : {
+        "name" : "News Of The World (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1977-10-28"
+      },
+      "duration_ms" : 174773
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 154066
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 324920
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 285973
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 286173
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 195386
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 289813
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 336160
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 259213
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 324853
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 230160
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 180453
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 4066
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 1354933
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 279506
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 238320
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 196280
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 175226
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 273720
+    }
+  }, {
+    "added_at" : "2018-11-21T21:58:08Z",
+    "track" : {
+      "album" : {
+        "name" : "Made In Heaven (Deluxe Edition 2011 Remaster)",
+        "release_date" : "1995-11-06"
+      },
+      "duration_ms" : 229200
+    }
+  }, {
+    "added_at" : "2018-11-21T22:53:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Narrated For You",
+        "release_date" : "2018-11-16"
+      },
+      "duration_ms" : 181522
+    }
+  }, {
+    "added_at" : "2018-11-21T22:53:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Narrated For You",
+        "release_date" : "2018-11-16"
+      },
+      "duration_ms" : 218893
+    }
+  }, {
+    "added_at" : "2018-11-21T22:53:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Narrated For You",
+        "release_date" : "2018-11-16"
+      },
+      "duration_ms" : 192500
+    }
+  }, {
+    "added_at" : "2018-11-21T22:53:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Narrated For You",
+        "release_date" : "2018-11-16"
+      },
+      "duration_ms" : 169353
+    }
+  }, {
+    "added_at" : "2018-11-21T22:53:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Narrated For You",
+        "release_date" : "2018-11-16"
+      },
+      "duration_ms" : 144386
+    }
+  }, {
+    "added_at" : "2018-11-21T22:53:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Narrated For You",
+        "release_date" : "2018-11-16"
+      },
+      "duration_ms" : 181705
+    }
+  }, {
+    "added_at" : "2018-11-21T22:53:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Narrated For You",
+        "release_date" : "2018-11-16"
+      },
+      "duration_ms" : 173487
+    }
+  }, {
+    "added_at" : "2018-11-21T22:53:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Narrated For You",
+        "release_date" : "2018-11-16"
+      },
+      "duration_ms" : 210353
+    }
+  }, {
+    "added_at" : "2018-11-21T22:53:58Z",
+    "track" : {
+      "album" : {
+        "name" : "Narrated For You",
+        "release_date" : "2018-11-16"
+      },
+      "duration_ms" : 188850
+    }
+  } ]
+}

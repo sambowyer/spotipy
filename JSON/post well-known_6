@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 259733
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 312666
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 296266
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 315826
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 178573
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 210960
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 50440
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 336293
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 234573
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 304800
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 41800
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 164066
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 334800
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 91333
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 252493
+    }
+  }, {
+    "added_at" : "2019-07-24T16:03:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Labcabincalifornia",
+        "release_date" : "1995-01-01"
+      },
+      "duration_ms" : 280133
+    }
+  }, {
+    "added_at" : "2019-07-24T16:17:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Silver Tongues",
+        "release_date" : "2019-03-22"
+      },
+      "duration_ms" : 300520
+    }
+  }, {
+    "added_at" : "2019-07-24T16:17:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Silver Tongues",
+        "release_date" : "2019-03-22"
+      },
+      "duration_ms" : 110866
+    }
+  }, {
+    "added_at" : "2019-07-24T16:17:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Silver Tongues",
+        "release_date" : "2019-03-22"
+      },
+      "duration_ms" : 282560
+    }
+  }, {
+    "added_at" : "2019-07-24T16:17:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Silver Tongues",
+        "release_date" : "2019-03-22"
+      },
+      "duration_ms" : 238440
+    }
+  }, {
+    "added_at" : "2019-07-24T16:17:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Silver Tongues",
+        "release_date" : "2019-03-22"
+      },
+      "duration_ms" : 265120
+    }
+  }, {
+    "added_at" : "2019-07-24T16:17:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Silver Tongues",
+        "release_date" : "2019-03-22"
+      },
+      "duration_ms" : 278493
+    }
+  }, {
+    "added_at" : "2019-07-24T16:17:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Silver Tongues",
+        "release_date" : "2019-03-22"
+      },
+      "duration_ms" : 263666
+    }
+  }, {
+    "added_at" : "2019-07-24T16:17:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Silver Tongues",
+        "release_date" : "2019-03-22"
+      },
+      "duration_ms" : 189226
+    }
+  }, {
+    "added_at" : "2019-07-24T16:17:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Silver Tongues",
+        "release_date" : "2019-03-22"
+      },
+      "duration_ms" : 470986
+    }
+  }, {
+    "added_at" : "2019-07-24T16:17:59Z",
+    "track" : {
+      "album" : {
+        "name" : "Silver Tongues",
+        "release_date" : "2019-03-22"
+      },
+      "duration_ms" : 344413
+    }
+  }, {
+    "added_at" : "2019-07-24T20:09:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Sings His Sad Heart",
+        "release_date" : "2018-10-05"
+      },
+      "duration_ms" : 196666
+    }
+  }, {
+    "added_at" : "2019-07-24T20:09:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Sings His Sad Heart",
+        "release_date" : "2018-10-05"
+      },
+      "duration_ms" : 223506
+    }
+  }, {
+    "added_at" : "2019-07-24T20:09:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Sings His Sad Heart",
+        "release_date" : "2018-10-05"
+      },
+      "duration_ms" : 216720
+    }
+  }, {
+    "added_at" : "2019-07-24T20:09:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Sings His Sad Heart",
+        "release_date" : "2018-10-05"
+      },
+      "duration_ms" : 184000
+    }
+  }, {
+    "added_at" : "2019-07-24T20:09:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Sings His Sad Heart",
+        "release_date" : "2018-10-05"
+      },
+      "duration_ms" : 190866
+    }
+  }, {
+    "added_at" : "2019-07-24T20:09:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Sings His Sad Heart",
+        "release_date" : "2018-10-05"
+      },
+      "duration_ms" : 183840
+    }
+  }, {
+    "added_at" : "2019-07-24T20:09:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Sings His Sad Heart",
+        "release_date" : "2018-10-05"
+      },
+      "duration_ms" : 173560
+    }
+  }, {
+    "added_at" : "2019-07-24T20:09:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Sings His Sad Heart",
+        "release_date" : "2018-10-05"
+      },
+      "duration_ms" : 193653
+    }
+  }, {
+    "added_at" : "2019-07-24T20:09:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Sings His Sad Heart",
+        "release_date" : "2018-10-05"
+      },
+      "duration_ms" : 155306
+    }
+  }, {
+    "added_at" : "2019-07-24T20:09:17Z",
+    "track" : {
+      "album" : {
+        "name" : "Sings His Sad Heart",
+        "release_date" : "2018-10-05"
+      },
+      "duration_ms" : 201520
+    }
+  }, {
+    "added_at" : "2019-07-26T10:34:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Dogrel",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 105515
+    }
+  }, {
+    "added_at" : "2019-07-26T10:34:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Dogrel",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 151822
+    }
+  }, {
+    "added_at" : "2019-07-26T10:34:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Dogrel",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 248408
+    }
+  }, {
+    "added_at" : "2019-07-26T10:34:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Dogrel",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 239688
+    }
+  }, {
+    "added_at" : "2019-07-26T10:34:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Dogrel",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 290782
+    }
+  }, {
+    "added_at" : "2019-07-26T10:34:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Dogrel",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 180275
+    }
+  }, {
+    "added_at" : "2019-07-26T10:34:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Dogrel",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 297088
+    }
+  }, {
+    "added_at" : "2019-07-26T10:34:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Dogrel",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 135635
+    }
+  }, {
+    "added_at" : "2019-07-26T10:34:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Dogrel",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 151542
+    }
+  }, {
+    "added_at" : "2019-07-26T10:34:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Dogrel",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 300115
+    }
+  }, {
+    "added_at" : "2019-07-26T10:34:12Z",
+    "track" : {
+      "album" : {
+        "name" : "Dogrel",
+        "release_date" : "2019-04-12"
+      },
+      "duration_ms" : 292635
+    }
+  }, {
+    "added_at" : "2019-07-26T18:20:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Human Target",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 211594
+    }
+  }, {
+    "added_at" : "2019-07-26T18:20:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Human Target",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 181097
+    }
+  }, {
+    "added_at" : "2019-07-26T18:20:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Human Target",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 193120
+    }
+  }, {
+    "added_at" : "2019-07-26T18:20:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Human Target",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 194119
+    }
+  }, {
+    "added_at" : "2019-07-26T18:20:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Human Target",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 305263
+    }
+  }, {
+    "added_at" : "2019-07-26T18:20:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Human Target",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 216893
+    }
+  }, {
+    "added_at" : "2019-07-26T18:20:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Human Target",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 239583
+    }
+  }, {
+    "added_at" : "2019-07-26T18:20:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Human Target",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 210155
+    }
+  }, {
+    "added_at" : "2019-07-26T18:20:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Human Target",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 295211
+    }
+  }, {
+    "added_at" : "2019-07-26T18:20:04Z",
+    "track" : {
+      "album" : {
+        "name" : "Human Target",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 264636
+    }
+  }, {
+    "added_at" : "2019-07-26T18:47:45Z",
+    "track" : {
+      "album" : {
+        "name" : "Someday I'll Thank You",
+        "release_date" : "2018-12-15"
+      },
+      "duration_ms" : 252128
+    }
+  }, {
+    "added_at" : "2019-07-26T18:47:45Z",
+    "track" : {
+      "album" : {
+        "name" : "Someday I'll Thank You",
+        "release_date" : "2018-12-15"
+      },
+      "duration_ms" : 277440
+    }
+  }, {
+    "added_at" : "2019-07-26T18:47:45Z",
+    "track" : {
+      "album" : {
+        "name" : "Someday I'll Thank You",
+        "release_date" : "2018-12-15"
+      },
+      "duration_ms" : 187626
+    }
+  }, {
+    "added_at" : "2019-07-26T18:47:45Z",
+    "track" : {
+      "album" : {
+        "name" : "Someday I'll Thank You",
+        "release_date" : "2018-12-15"
+      },
+      "duration_ms" : 174176
+    }
+  }, {
+    "added_at" : "2019-07-26T18:47:45Z",
+    "track" : {
+      "album" : {
+        "name" : "Someday I'll Thank You",
+        "release_date" : "2018-12-15"
+      },
+      "duration_ms" : 172341
+    }
+  }, {
+    "added_at" : "2019-07-26T18:47:45Z",
+    "track" : {
+      "album" : {
+        "name" : "Someday I'll Thank You",
+        "release_date" : "2018-12-15"
+      },
+      "duration_ms" : 159248
+    }
+  }, {
+    "added_at" : "2019-07-26T18:47:45Z",
+    "track" : {
+      "album" : {
+        "name" : "Someday I'll Thank You",
+        "release_date" : "2018-12-15"
+      },
+      "duration_ms" : 166517
+    }
+  }, {
+    "added_at" : "2019-07-26T18:47:45Z",
+    "track" : {
+      "album" : {
+        "name" : "Someday I'll Thank You",
+        "release_date" : "2018-12-15"
+      },
+      "duration_ms" : 73066
+    }
+  }, {
+    "added_at" : "2019-07-26T18:47:45Z",
+    "track" : {
+      "album" : {
+        "name" : "Someday I'll Thank You",
+        "release_date" : "2018-12-15"
+      },
+      "duration_ms" : 168373
+    }
+  }, {
+    "added_at" : "2019-07-30T13:42:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Flamboyant",
+        "release_date" : "2019-07-17"
+      },
+      "duration_ms" : 126677
+    }
+  }, {
+    "added_at" : "2019-07-30T13:42:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Flamboyant",
+        "release_date" : "2019-07-17"
+      },
+      "duration_ms" : 217356
+    }
+  }, {
+    "added_at" : "2019-07-30T13:42:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Flamboyant",
+        "release_date" : "2019-07-17"
+      },
+      "duration_ms" : 175309
+    }
+  }, {
+    "added_at" : "2019-07-30T13:42:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Flamboyant",
+        "release_date" : "2019-07-17"
+      },
+      "duration_ms" : 138045
+    }
+  }, {
+    "added_at" : "2019-07-30T13:42:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Flamboyant",
+        "release_date" : "2019-07-17"
+      },
+      "duration_ms" : 197757
+    }
+  }, {
+    "added_at" : "2019-07-30T13:42:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Flamboyant",
+        "release_date" : "2019-07-17"
+      },
+      "duration_ms" : 115355
+    }
+  }, {
+    "added_at" : "2019-07-30T13:42:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Flamboyant",
+        "release_date" : "2019-07-17"
+      },
+      "duration_ms" : 196400
+    }
+  }, {
+    "added_at" : "2019-07-30T13:42:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Flamboyant",
+        "release_date" : "2019-07-17"
+      },
+      "duration_ms" : 175368
+    }
+  }, {
+    "added_at" : "2019-07-30T13:42:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Flamboyant",
+        "release_date" : "2019-07-17"
+      },
+      "duration_ms" : 151832
+    }
+  }, {
+    "added_at" : "2019-07-30T13:42:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Flamboyant",
+        "release_date" : "2019-07-17"
+      },
+      "duration_ms" : 181087
+    }
+  }, {
+    "added_at" : "2019-07-30T13:42:02Z",
+    "track" : {
+      "album" : {
+        "name" : "Flamboyant",
+        "release_date" : "2019-07-17"
+      },
+      "duration_ms" : 197910
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 208238
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 236685
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 243915
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 225923
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 299167
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 281181
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 75662
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 171943
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 242464
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 221271
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 173489
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 186784
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 169549
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 133758
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 257815
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 201079
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 270992
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 215303
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 258017
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 179480
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 65066
+    }
+  }, {
+    "added_at" : "2019-07-31T07:47:24Z",
+    "track" : {
+      "album" : {
+        "name" : "The Big Day",
+        "release_date" : "2019-07-26"
+      },
+      "duration_ms" : 323486
+    }
+  }, {
+    "added_at" : "2019-08-01T07:57:02Z",
+    "track" : {
+      "album" : {
+        "name" : "PZ1",
+        "release_date" : "2019-04-05"
+      },
+      "duration_ms" : 107813
+    }
+  } ]
+}

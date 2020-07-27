@@ -1,0 +1,30 @@
+{
+  "items" : [ {
+    "added_at" : "2019-07-02T18:01:25Z",
+    "track" : {
+      "album" : {
+        "name" : "Periphery (Special Edition)",
+        "release_date" : "2010-07-05"
+      },
+      "duration_ms" : 305900
+    }
+  }, {
+    "added_at" : "2019-07-02T18:01:25Z",
+    "track" : {
+      "album" : {
+        "name" : "Periphery (Special Edition)",
+        "release_date" : "2010-07-05"
+      },
+      "duration_ms" : 895643
+    }
+  }, {
+    "added_at" : "2019-07-02T18:01:25Z",
+    "track" : {
+      "album" : {
+        "name" : "Periphery (Special Edition)",
+        "release_date" : "2010-07-05"
+      },
+      "duration_ms" : 215040
+    }
+  } ]
+}

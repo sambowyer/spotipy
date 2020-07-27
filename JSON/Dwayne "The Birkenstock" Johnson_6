@@ -1,0 +1,903 @@
+{
+  "items" : [ {
+    "added_at" : "2020-03-19T13:15:40Z",
+    "track" : {
+      "album" : {
+        "name" : "Indigo",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 196231
+    }
+  }, {
+    "added_at" : "2020-03-19T13:15:40Z",
+    "track" : {
+      "album" : {
+        "name" : "Indigo",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 200672
+    }
+  }, {
+    "added_at" : "2020-03-19T13:15:40Z",
+    "track" : {
+      "album" : {
+        "name" : "Indigo",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 181368
+    }
+  }, {
+    "added_at" : "2020-03-19T13:15:40Z",
+    "track" : {
+      "album" : {
+        "name" : "Indigo",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 239307
+    }
+  }, {
+    "added_at" : "2020-03-19T13:15:40Z",
+    "track" : {
+      "album" : {
+        "name" : "Indigo",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 168176
+    }
+  }, {
+    "added_at" : "2020-03-19T13:15:40Z",
+    "track" : {
+      "album" : {
+        "name" : "Indigo",
+        "release_date" : "2018-02-09"
+      },
+      "duration_ms" : 124891
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 312006
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 257416
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 365737
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 384058
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 332149
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 403083
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 296475
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 258992
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 262678
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 260144
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 330698
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 339864
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 279754
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 332225
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 222923
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 293662
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 406146
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 235675
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 322038
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 282203
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 331627
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 270129
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 222562
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 288008
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 361685
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 382368
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 238300
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 344793
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 277510
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 252418
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 294031
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 272747
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 393294
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 317085
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 278894
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 266553
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 324191
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 293500
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 404331
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 239148
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 857933
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 272358
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 309440
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 321584
+    }
+  }, {
+    "added_at" : "2020-03-19T13:36:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Juicy Sonic Magic, Live in Berkeley, September 24-25, 2018",
+        "release_date" : "2019-12-24"
+      },
+      "duration_ms" : 294309
+    }
+  }, {
+    "added_at" : "2020-03-20T00:22:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Mountain Will Fall",
+        "release_date" : "2016-06-24"
+      },
+      "duration_ms" : 276597
+    }
+  }, {
+    "added_at" : "2020-03-20T00:22:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Mountain Will Fall",
+        "release_date" : "2016-06-24"
+      },
+      "duration_ms" : 195965
+    }
+  }, {
+    "added_at" : "2020-03-20T00:22:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Mountain Will Fall",
+        "release_date" : "2016-06-24"
+      },
+      "duration_ms" : 216999
+    }
+  }, {
+    "added_at" : "2020-03-20T00:22:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Mountain Will Fall",
+        "release_date" : "2016-06-24"
+      },
+      "duration_ms" : 250542
+    }
+  }, {
+    "added_at" : "2020-03-20T00:22:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Mountain Will Fall",
+        "release_date" : "2016-06-24"
+      },
+      "duration_ms" : 208308
+    }
+  }, {
+    "added_at" : "2020-03-20T00:22:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Mountain Will Fall",
+        "release_date" : "2016-06-24"
+      },
+      "duration_ms" : 293172
+    }
+  }, {
+    "added_at" : "2020-03-20T00:22:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Mountain Will Fall",
+        "release_date" : "2016-06-24"
+      },
+      "duration_ms" : 183755
+    }
+  }, {
+    "added_at" : "2020-03-20T00:22:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Mountain Will Fall",
+        "release_date" : "2016-06-24"
+      },
+      "duration_ms" : 376048
+    }
+  }, {
+    "added_at" : "2020-03-20T00:22:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Mountain Will Fall",
+        "release_date" : "2016-06-24"
+      },
+      "duration_ms" : 204147
+    }
+  }, {
+    "added_at" : "2020-03-20T00:22:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Mountain Will Fall",
+        "release_date" : "2016-06-24"
+      },
+      "duration_ms" : 269095
+    }
+  }, {
+    "added_at" : "2020-03-20T00:22:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Mountain Will Fall",
+        "release_date" : "2016-06-24"
+      },
+      "duration_ms" : 231367
+    }
+  }, {
+    "added_at" : "2020-03-20T00:22:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Mountain Will Fall",
+        "release_date" : "2016-06-24"
+      },
+      "duration_ms" : 276381
+    }
+  }, {
+    "added_at" : "2020-03-20T00:22:29Z",
+    "track" : {
+      "album" : {
+        "name" : "The Mountain Will Fall",
+        "release_date" : "2016-06-24"
+      },
+      "duration_ms" : 192682
+    }
+  }, {
+    "added_at" : "2020-03-20T16:00:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Magic Trix",
+        "release_date" : "2013-04-30"
+      },
+      "duration_ms" : 297640
+    }
+  }, {
+    "added_at" : "2020-03-20T16:00:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Magic Trix",
+        "release_date" : "2013-04-30"
+      },
+      "duration_ms" : 288746
+    }
+  }, {
+    "added_at" : "2020-03-20T16:00:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Magic Trix",
+        "release_date" : "2013-04-30"
+      },
+      "duration_ms" : 127666
+    }
+  }, {
+    "added_at" : "2020-03-20T16:00:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Magic Trix",
+        "release_date" : "2013-04-30"
+      },
+      "duration_ms" : 336346
+    }
+  }, {
+    "added_at" : "2020-03-20T16:00:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Magic Trix",
+        "release_date" : "2013-04-30"
+      },
+      "duration_ms" : 44826
+    }
+  }, {
+    "added_at" : "2020-03-20T16:00:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Magic Trix",
+        "release_date" : "2013-04-30"
+      },
+      "duration_ms" : 363720
+    }
+  }, {
+    "added_at" : "2020-03-20T16:00:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Magic Trix",
+        "release_date" : "2013-04-30"
+      },
+      "duration_ms" : 105573
+    }
+  }, {
+    "added_at" : "2020-03-20T16:00:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Magic Trix",
+        "release_date" : "2013-04-30"
+      },
+      "duration_ms" : 169146
+    }
+  }, {
+    "added_at" : "2020-03-20T16:00:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Magic Trix",
+        "release_date" : "2013-04-30"
+      },
+      "duration_ms" : 178626
+    }
+  }, {
+    "added_at" : "2020-03-20T16:00:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Magic Trix",
+        "release_date" : "2013-04-30"
+      },
+      "duration_ms" : 276773
+    }
+  }, {
+    "added_at" : "2020-03-20T16:00:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Magic Trix",
+        "release_date" : "2013-04-30"
+      },
+      "duration_ms" : 207986
+    }
+  }, {
+    "added_at" : "2020-03-20T16:00:32Z",
+    "track" : {
+      "album" : {
+        "name" : "Magic Trix",
+        "release_date" : "2013-04-30"
+      },
+      "duration_ms" : 34360
+    }
+  }, {
+    "added_at" : "2020-03-20T16:00:38Z",
+    "track" : {
+      "album" : {
+        "name" : "DIOSA vs. BUGEISHA",
+        "release_date" : "2019-11-19"
+      },
+      "duration_ms" : 164608
+    }
+  }, {
+    "added_at" : "2020-03-20T16:00:38Z",
+    "track" : {
+      "album" : {
+        "name" : "DIOSA vs. BUGEISHA",
+        "release_date" : "2019-11-19"
+      },
+      "duration_ms" : 146096
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 108000
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 191999
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 141686
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 180164
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 128896
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 163404
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 188591
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 202887
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 134999
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 150800
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 164462
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 193333
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 255223
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 192731
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 182859
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 142574
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 250210
+    }
+  }, {
+    "added_at" : "2020-03-21T22:22:03Z",
+    "track" : {
+      "album" : {
+        "name" : "Purple Moonlight Pages",
+        "release_date" : "2020-03-06"
+      },
+      "duration_ms" : 159900
+    }
+  }, {
+    "added_at" : "2020-03-23T10:24:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Fush Yu Mang (20th Anniversary Edition)",
+        "release_date" : "1997-07-08"
+      },
+      "duration_ms" : 132360
+    }
+  }, {
+    "added_at" : "2020-03-23T10:24:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Fush Yu Mang (20th Anniversary Edition)",
+        "release_date" : "1997-07-08"
+      },
+      "duration_ms" : 121186
+    }
+  }, {
+    "added_at" : "2020-03-23T10:24:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Fush Yu Mang (20th Anniversary Edition)",
+        "release_date" : "1997-07-08"
+      },
+      "duration_ms" : 207786
+    }
+  }, {
+    "added_at" : "2020-03-23T10:24:11Z",
+    "track" : {
+      "album" : {
+        "name" : "Fush Yu Mang (20th Anniversary Edition)",
+        "release_date" : "1997-07-08"
+      },
+      "duration_ms" : 168853
+    }
+  } ]
+}
